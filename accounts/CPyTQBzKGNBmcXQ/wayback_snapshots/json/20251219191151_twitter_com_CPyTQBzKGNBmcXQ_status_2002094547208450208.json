@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2001887537107997135",
+    "created_at": "2025-12-19T19:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T20:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002094547208450208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1537745714582679553",
+          "start": 0,
+          "username": "rochelimit0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002094547208450208",
+    "in_reply_to_user_id": "1537745714582679553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001887537107997135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rochelimit0000 啊啊妳還好嗎……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2001887537107997135",
+        "created_at": "2025-12-19T19:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T20:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002094547208450208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1537745714582679553",
+              "start": 0,
+              "username": "rochelimit0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002094547208450208",
+        "in_reply_to_user_id": "1537745714582679553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001887537107997135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rochelimit0000 啊啊妳還好嗎……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537745714582679553",
+        "conversation_id": "2001887537107997135",
+        "created_at": "2025-12-19T05:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T06:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001887537107997135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001887537107997135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要跳樓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "我想擊破這身軀 讓靈魂回歸虛無",
+        "id": "1135334607199490048",
+        "location": "終點站現實 已無法逃脫",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5836,
+          "following_count": 321,
+          "like_count": 86200,
+          "listed_count": 15,
+          "media_count": 466,
+          "tweet_count": 9874
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T10:35:41.000Z",
+        "description": "洛希（ロシー)です｜メンヘラ社会不適合者｜ff外通知🚫",
+        "id": "1537745714582679553",
+        "location": "🤍",
+        "name": "ℜ＊一日1000cal↓",
+        "pinned_tweet_id": "2000484808322146603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000467884427153408/6I2d_-w9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 378,
+          "like_count": 16542,
+          "listed_count": 4,
+          "media_count": 136,
+          "tweet_count": 5030
+        },
+        "username": "rochelimit0000",
+        "verified": false
+      }
+    ]
+  }
+}

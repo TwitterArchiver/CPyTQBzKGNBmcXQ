@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2028034417495810325",
+    "created_at": "2026-03-03T06:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T07:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028714355391688928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595394288119971840",
+          "start": 0,
+          "username": "dudu42700668xdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028714355391688928",
+    "in_reply_to_user_id": "1595394288119971840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028034417495810325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudu42700668xdd 讚&gt;&lt;b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2028034410034139136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUGjQpakAAmVGj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2028034410038312960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUGjQqaQAAhCPX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2028034417495810325",
+        "created_at": "2026-03-03T06:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T07:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028714355391688928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595394288119971840",
+              "start": 0,
+              "username": "dudu42700668xdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028714355391688928",
+        "in_reply_to_user_id": "1595394288119971840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028034417495810325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudu42700668xdd 讚&gt;&lt;b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028034410034139136",
+            "3_2028034410038312960"
+          ]
+        },
+        "author_id": "1595394288119971840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028034417495810325",
+        "created_at": "2026-03-01T09:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T10:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028034417495810325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0C7QJ8kvUB",
+              "end": 31,
+              "expanded_url": "https://x.com/dudu42700668xdd/status/2028034417495810325/photo/1",
+              "media_key": "3_2028034410034139136",
+              "start": 8,
+              "url": "https://t.co/0C7QJ8kvUB"
+            },
+            {
+              "display_url": "pic.x.com/0C7QJ8kvUB",
+              "end": 31,
+              "expanded_url": "https://x.com/dudu42700668xdd/status/2028034417495810325/photo/1",
+              "media_key": "3_2028034410038312960",
+              "start": 8,
+              "url": "https://t.co/0C7QJ8kvUB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028034417495810325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "修罗结局达成！ https://t.co/0C7QJ8kvUB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5864,
+          "following_count": 321,
+          "like_count": 87788,
+          "listed_count": 15,
+          "media_count": 478,
+          "tweet_count": 9940
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T12:30:50.000Z",
+        "description": "（╹◡╹）First not a frog, second feed with CANDY!",
+        "id": "1595394288119971840",
+        "name": "Om",
+        "pinned_tweet_id": "2025543982470881311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743947952983506944/kYswprrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 103,
+          "like_count": 13516,
+          "listed_count": 2,
+          "media_count": 412,
+          "tweet_count": 2963
+        },
+        "username": "dudu42700668xdd",
+        "verified": false
+      }
+    ]
+  }
+}

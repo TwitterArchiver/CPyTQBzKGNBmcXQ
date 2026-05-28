@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1621474503162306560",
+    "created_at": "2023-02-03T12:03:59.000Z",
+    "edit_controls": {
+      "editable_until": "2023-02-03T12:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1621479611447255041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1517113519522873344",
+          "start": 0,
+          "username": "xxNYAS_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1621479611447255041",
+    "in_reply_to_user_id": "1517113519522873344",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1621478307492671488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxNYAS_ /////"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1621474503162306560",
+        "created_at": "2023-02-03T12:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-03T12:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1621479611447255041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1517113519522873344",
+              "start": 0,
+              "username": "xxNYAS_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1621479611447255041",
+        "in_reply_to_user_id": "1517113519522873344",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1621478307492671488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxNYAS_ /////"
+      },
+      {
+        "attachments": {},
+        "author_id": "1517113519522873344",
+        "conversation_id": "1621474503162306560",
+        "created_at": "2023-02-03T11:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-03T12:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1621478307492671488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1621478307492671488",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1621478183496470528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 就是就是！帥哥呀( *｀v´)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "垃圾男 該死一死",
+        "id": "1135334607199490048",
+        "location": "Taiwan",
+        "name": "紅雪",
+        "pinned_tweet_id": "1607300618007511041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606690321257332737/3VEE987f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 362,
+          "listed_count": 15,
+          "tweet_count": 2447
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T12:10:42.000Z",
+        "description": "「普通高校生」ならのdaily/血圖控/上海にいる/♀/AB型/うお座.雙魚infp/冰淇淋🍦🍨🧊/vcd志望/提問箱https://t.co/ZvAsZYjnZf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tapeclub.net/uu/G2N8WH/37M1…",
+                "end": 82,
+                "expanded_url": "https://www.tapeclub.net/uu/G2N8WH/37M12PS1?uid=5542493&share_to=14",
+                "start": 59,
+                "url": "https://t.co/ZvAsZYjnZf"
+              }
+            ]
+          }
+        },
+        "id": "1517113519522873344",
+        "location": "ダンボール",
+        "name": "やすいなら.",
+        "pinned_tweet_id": "1608163065614471169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517113710258823171/NkImepoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 691,
+          "listed_count": 4,
+          "tweet_count": 1695
+        },
+        "username": "xxNYAS_",
+        "verified": false
+      }
+    ]
+  }
+}

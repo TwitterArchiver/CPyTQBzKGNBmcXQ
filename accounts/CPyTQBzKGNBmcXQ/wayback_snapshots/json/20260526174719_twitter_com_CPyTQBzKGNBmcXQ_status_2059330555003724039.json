@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2059330555003724039",
+    "created_at": "2026-05-26T17:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059330555003724039"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059330555003724039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想好好的，但沒辦法變得更好。\n看不到變好的樣子，腦中對於未來沒有任何描寫。\n心臟還在跳動，但已經沒了活著的樣子。\n大腦還可以思考，但所有思考都不具意義。\n心中的空洞緩慢擴大，卻沒有東西能夠修補。\n真的只能這樣慢慢下沉，直到被虛無吞噬嗎？\n努力掙扎下去吧，直到身心靈破碎。\n別怕我們一起！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2059330555003724039",
+        "created_at": "2026-05-26T17:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059330555003724039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059330555003724039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想好好的，但沒辦法變得更好。\n看不到變好的樣子，腦中對於未來沒有任何描寫。\n心臟還在跳動，但已經沒了活著的樣子。\n大腦還可以思考，但所有思考都不具意義。\n心中的空洞緩慢擴大，卻沒有東西能夠修補。\n真的只能這樣慢慢下沉，直到被虛無吞噬嗎？\n努力掙扎下去吧，直到身心靈破碎。\n別怕我們一起！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5768,
+          "following_count": 314,
+          "like_count": 89731,
+          "listed_count": 13,
+          "media_count": 485,
+          "tweet_count": 9992
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

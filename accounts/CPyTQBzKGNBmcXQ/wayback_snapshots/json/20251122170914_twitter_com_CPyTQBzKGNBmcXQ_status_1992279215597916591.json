@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1991589300539126010",
+    "created_at": "2025-11-22T17:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T18:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992279215597916591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1869340744324132864",
+          "start": 0,
+          "username": "poihfunb6631"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992279215597916591",
+    "in_reply_to_user_id": "1869340744324132864",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992074592580726813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poihfunb6631 🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1991589300539126010",
+        "created_at": "2025-11-22T17:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992279215597916591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1869340744324132864",
+              "start": 0,
+              "username": "poihfunb6631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992279215597916591",
+        "in_reply_to_user_id": "1869340744324132864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992074592580726813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poihfunb6631 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869340744324132864",
+        "conversation_id": "1991589300539126010",
+        "created_at": "2025-11-22T03:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T04:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992074592580726813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992074592580726813",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991589300539126010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 抱抱泥🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "我想擊破這身軀 讓靈魂回歸虛無",
+        "id": "1135334607199490048",
+        "location": "終點站現實 已無法逃脫",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5815,
+          "following_count": 325,
+          "like_count": 86089,
+          "listed_count": 15,
+          "media_count": 462,
+          "tweet_count": 9821
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T11:15:53.000Z",
+        "description": "有点性别焦虑，接点占卜🔮，欢迎大家找我互fo 喜欢东方project，galgame欢迎大家找我聊天，提供心理帮助，让大家脱离困境，大家注意一下，之前的号已经不用了，我已经转帖了",
+        "id": "1869340744324132864",
+        "location": "天堂",
+        "name": "唉…",
+        "pinned_tweet_id": "1917499207726096782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991871322524409857/hbgMMyrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 235,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "username": "poihfunb6631",
+        "verified": false
+      }
+    ]
+  }
+}

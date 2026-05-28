@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2020150625753800948",
+    "created_at": "2026-02-09T00:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T01:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020663045056504156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945771975332569088",
+          "start": 0,
+          "username": "sjlxSJLX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020663045056504156",
+    "in_reply_to_user_id": "1945771975332569088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020581032974766337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjlxSJLX 不用道歉哦~你這樣關心我和我互動我就很開心了 謝謝你 愛你(*´˘`*)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2020150625753800948",
+        "created_at": "2026-02-09T00:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T01:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020663045056504156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945771975332569088",
+              "start": 0,
+              "username": "sjlxSJLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020663045056504156",
+        "in_reply_to_user_id": "1945771975332569088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020581032974766337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjlxSJLX 不用道歉哦~你這樣關心我和我互動我就很開心了 謝謝你 愛你(*´˘`*)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945771975332569088",
+        "conversation_id": "2020150625753800948",
+        "created_at": "2026-02-08T19:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T20:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020581032974766337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020581032974766337",
+        "in_reply_to_user_id": "1945771975332569088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020579991847940475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 對不起\n\n之前沒去看你的推\n\n其實，沒事的，真的，都會好起來的，不介意的話請跟我談談，直接私信就好\n\n愛你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5819,
+          "following_count": 320,
+          "like_count": 86924,
+          "listed_count": 15,
+          "media_count": 477,
+          "tweet_count": 9914
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T09:06:15.000Z",
+        "description": "06年老人hh｜正在努力学习！ *扩列ing～ QQ：3947050185，欢迎交友～* 爱你们哦🥰",
+        "id": "1945771975332569088",
+        "location": "Sendai-shi Izumi-ku, Miyagi",
+        "name": "やかぜ　しずな🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2020391849547166094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019503311930699776/nx3KM9oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 98,
+          "like_count": 638,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 34
+        },
+        "username": "sjlxSJLX",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1875778537724256644",
+    "created_at": "2025-01-06T03:07:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T04:07:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876103272173592979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1588362906483101696",
+          "start": 0,
+          "username": "jkdghalf411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876103272173592979",
+    "in_reply_to_user_id": "1588362906483101696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875778537724256644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkdghalf411 好萌!"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1875778537724256644].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1875778537724256644",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1875778537724256644"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1875778537724256644",
+        "created_at": "2025-01-06T03:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T04:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876103272173592979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588362906483101696",
+              "start": 0,
+              "username": "jkdghalf411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876103272173592979",
+        "in_reply_to_user_id": "1588362906483101696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875778537724256644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkdghalf411 好萌!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4871,
+          "following_count": 359,
+          "like_count": 78539,
+          "listed_count": 21,
+          "media_count": 373,
+          "tweet_count": 8948
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T02:50:08.000Z",
+        "description": "=小A/是A不是a/愿神之爱与你同在/欢愉酒馆常客预备役/N1 140/ 只是路人/喜欢我请直接口令红包/重抑重焦bpd/姐姐@Yukikaz40772195",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "Yukikaz40772195"
+              }
+            ]
+          }
+        },
+        "id": "1588362906483101696",
+        "location": "电子眼一直在看着你",
+        "name": "電子幽靈¼",
+        "pinned_tweet_id": "1869257323132400013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838600437551054848/dkT57S2C_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5759,
+          "following_count": 640,
+          "like_count": 10322,
+          "listed_count": 10,
+          "media_count": 1958,
+          "tweet_count": 13432
+        },
+        "username": "jkdghalf411",
+        "verified": false
+      }
+    ]
+  }
+}

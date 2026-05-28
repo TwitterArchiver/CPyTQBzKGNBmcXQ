@@ -1,0 +1,110 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1622040788359061505",
+    "created_at": "2023-02-05T01:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2023-02-05T01:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1622040788359061505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "fllwrs is the easiest way to keep track of your twitter followers",
+          "display_url": "fllwrs.com",
+          "end": 100,
+          "expanded_url": "http://fllwrs.com",
+          "start": 77,
+          "status": 200,
+          "title": "fllwrs - keep track of who follows and unfollows you on twitter",
+          "unwound_url": "http://fllwrs.com",
+          "url": "https://t.co/FEXn7fBwTw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1622040788359061505",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "21 people followed me and 4 people unfollowed me // automatically checked by https://t.co/FEXn7fBwTw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1622040788359061505",
+        "created_at": "2023-02-05T01:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-05T01:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1622040788359061505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "fllwrs is the easiest way to keep track of your twitter followers",
+              "display_url": "fllwrs.com",
+              "end": 100,
+              "expanded_url": "http://fllwrs.com",
+              "start": 77,
+              "status": 200,
+              "title": "fllwrs - keep track of who follows and unfollows you on twitter",
+              "unwound_url": "http://fllwrs.com",
+              "url": "https://t.co/FEXn7fBwTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1622040788359061505",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "21 people followed me and 4 people unfollowed me // automatically checked by https://t.co/FEXn7fBwTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "垃圾男 該死一死",
+        "id": "1135334607199490048",
+        "location": "Taiwan",
+        "name": "紅雪",
+        "pinned_tweet_id": "1607300618007511041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606690321257332737/3VEE987f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 370,
+          "listed_count": 15,
+          "tweet_count": 2511
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

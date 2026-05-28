@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2032152605988962630",
+    "created_at": "2026-03-12T17:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T18:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032152605988962630"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032152605988962630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跑來敲我房間門 說什麼有尊重我們 我們不尊重他們真的有夠神經 我知道我們講話聲音太大聲 但是不能好好說是不是 神經 反正我是不知道他們有尊重我們什麼啦 只能說別太自以為是了一群垃圾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2032152605988962630",
+        "created_at": "2026-03-12T17:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032152605988962630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032152605988962630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跑來敲我房間門 說什麼有尊重我們 我們不尊重他們真的有夠神經 我知道我們講話聲音太大聲 但是不能好好說是不是 神經 反正我是不知道他們有尊重我們什麼啦 只能說別太自以為是了一群垃圾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5867,
+          "following_count": 321,
+          "like_count": 88131,
+          "listed_count": 15,
+          "media_count": 482,
+          "tweet_count": 9951
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

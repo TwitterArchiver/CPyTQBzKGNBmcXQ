@@ -1,0 +1,196 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1624885220322463744",
+    "created_at": "2023-02-13T04:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2023-02-13T05:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1624995654560010240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1160625707472474113",
+          "start": 0,
+          "username": "XxXx_die_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1624995654560010240",
+    "in_reply_to_user_id": "1160625707472474113",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1624885495934369793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XxXx_die_X 謝謝割れ物(⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1624885220322463744",
+        "created_at": "2023-02-13T04:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-13T05:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1624995654560010240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1160625707472474113",
+              "start": 0,
+              "username": "XxXx_die_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1624995654560010240",
+        "in_reply_to_user_id": "1160625707472474113",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1624885495934369793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XxXx_die_X 謝謝割れ物(⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡"
+      },
+      {
+        "attachments": {},
+        "author_id": "1160625707472474113",
+        "conversation_id": "1624885220322463744",
+        "created_at": "2023-02-12T21:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-12T22:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1624885495934369793"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "恭喜",
+              "probability": 0.6787,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1624885495934369793",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1624885220322463744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 「恭喜。」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "想當女孩子跟女孩子貼貼的男孩子",
+        "id": "1135334607199490048",
+        "location": "Taiwan",
+        "name": "紅雪",
+        "pinned_tweet_id": "1607300618007511041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606690321257332737/3VEE987f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 382,
+          "listed_count": 15,
+          "tweet_count": 2696
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-11T18:55:06.000Z",
+        "description": "安全な避難所 ▪️自傷癖｜気分障害｜重度うつ病｜統合失調症｜不安障害｜妄想症｜心的外傷後ストレス障害（PTSD)｜依存｜悪魔だ｜怪我｜ 痛み好き｜不良品｜不器用｜ゴミ｜#問題少女の血記録｜ 希死念慮",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 84,
+                "tag": "問題少女の血記録"
+              }
+            ]
+          }
+        },
+        "id": "1160625707472474113",
+        "location": "地獄",
+        "name": "割れ物⛓",
+        "pinned_tweet_id": "1622178718553899008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510493469009068033/pqHb97Vz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 138,
+          "listed_count": 1,
+          "tweet_count": 4832
+        },
+        "username": "XxXx_die_X",
+        "verified": false
+      }
+    ]
+  }
+}

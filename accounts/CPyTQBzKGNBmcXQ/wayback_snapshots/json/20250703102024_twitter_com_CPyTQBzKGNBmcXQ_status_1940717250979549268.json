@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1940716090361098264",
+    "created_at": "2025-07-03T10:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T11:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940717250979549268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1810636707240529920",
+          "start": 0,
+          "username": "san_bing95926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940717250979549268",
+    "in_reply_to_user_id": "1810636707240529920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940716889577345481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@san_bing95926 出門要注意安全哦！也要記得補充水分呢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1940716090361098264",
+        "created_at": "2025-07-03T10:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T11:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940717250979549268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1810636707240529920",
+              "start": 0,
+              "username": "san_bing95926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940717250979549268",
+        "in_reply_to_user_id": "1810636707240529920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940716889577345481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@san_bing95926 出門要注意安全哦！也要記得補充水分呢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810636707240529920",
+        "conversation_id": "1940716090361098264",
+        "created_at": "2025-07-03T10:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T11:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940716889577345481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940716889577345481",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940716090361098264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 現在真的熱到爆掉不過我現在還是被朋友硬拖出門騎車差點熱到摔車"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5245,
+          "following_count": 323,
+          "like_count": 82818,
+          "listed_count": 12,
+          "media_count": 423,
+          "tweet_count": 9469
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T11:27:05.000Z",
+        "description": "本人男的/170/有在玩蔚藍/騎行/(⁠ ⁠╹⁠▽⁠╹⁠ ⁠)/精神不穩（？(⁠づ⁠｡⁠◕⁠‿⁠‿⁠◕⁠｡⁠)⁠づ\n可以找我聊天咩？",
+        "id": "1810636707240529920",
+        "name": "♛𝑖𝑢𝑎𝑒𝑟星野°°°Hoshino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890998330991521792/bb-YL0kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 191,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 61
+        },
+        "username": "san_bing95926",
+        "verified": false
+      }
+    ]
+  }
+}

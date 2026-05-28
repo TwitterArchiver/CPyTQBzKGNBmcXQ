@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1796258459803132412",
+    "created_at": "2024-05-30T19:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T20:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796258765714686405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1160625707472474113",
+          "start": 0,
+          "username": "XxXx_die_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796258765714686405",
+    "in_reply_to_user_id": "1160625707472474113",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796258459803132412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XxXx_die_X 晚安安 祝妳好夢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1796258459803132412",
+        "created_at": "2024-05-30T19:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T20:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796258765714686405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1160625707472474113",
+              "start": 0,
+              "username": "XxXx_die_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796258765714686405",
+        "in_reply_to_user_id": "1160625707472474113",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796258459803132412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XxXx_die_X 晚安安 祝妳好夢"
+      },
+      {
+        "attachments": {},
+        "author_id": "1160625707472474113",
+        "conversation_id": "1796258459803132412",
+        "created_at": "2024-05-30T19:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T20:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796258459803132412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796258459803132412",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3840,
+          "following_count": 382,
+          "like_count": 69675,
+          "listed_count": 30,
+          "tweet_count": 7982
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-11T18:55:06.000Z",
+        "description": "安全な避難所 ▪️自傷癖｜希死念慮｜余命4年（2028年7月12日まで）",
+        "id": "1160625707472474113",
+        "location": "地獄",
+        "name": "割れ物⛓",
+        "pinned_tweet_id": "1630235175614554114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724488133096755200/0A9QgVVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 144,
+          "like_count": 1791,
+          "listed_count": 1,
+          "tweet_count": 6167
+        },
+        "username": "XxXx_die_X",
+        "verified": false
+      }
+    ]
+  }
+}

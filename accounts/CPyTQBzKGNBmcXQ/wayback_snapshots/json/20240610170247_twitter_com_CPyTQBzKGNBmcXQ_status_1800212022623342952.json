@@ -1,0 +1,197 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1800090155761664495",
+    "created_at": "2024-06-10T17:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T18:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800212022623342952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1537745714582679553",
+          "start": 0,
+          "username": "rochelimit0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800212022623342952",
+    "in_reply_to_user_id": "1537745714582679553",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800181633624211929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rochelimit0000 加油!相信妳可以的!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1800090155761664495",
+        "created_at": "2024-06-10T17:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T18:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800212022623342952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1537745714582679553",
+              "start": 0,
+              "username": "rochelimit0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800212022623342952",
+        "in_reply_to_user_id": "1537745714582679553",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800181633624211929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rochelimit0000 加油!相信妳可以的!!"
+      },
+      {
+        "attachments": {},
+        "author_id": "1537745714582679553",
+        "conversation_id": "1800090155761664495",
+        "created_at": "2024-06-10T15:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T16:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800181633624211929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800181633624211929",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800169959047520739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 我想要繼續努力變得更瘦更漂亮⋯或許那一天我就會快樂了⋯⋯\n抱抱🫂！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3920,
+          "following_count": 384,
+          "like_count": 70852,
+          "listed_count": 30,
+          "tweet_count": 8051
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T10:35:41.000Z",
+        "description": "洛希（ロシー)です｜メンヘラ社会不適合者｜中文+ENG+ボロボロ日本語｜女の子とBL好き 🏷️#shtwt #edtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "edtwt"
+              }
+            ]
+          }
+        },
+        "id": "1537745714582679553",
+        "location": "🤍",
+        "name": "ℜ＊",
+        "pinned_tweet_id": "1663569925368352769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783306854040526848/FIq0TKHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 235,
+          "like_count": 8380,
+          "listed_count": 1,
+          "tweet_count": 2431
+        },
+        "username": "rochelimit0000",
+        "verified": false
+      }
+    ]
+  }
+}

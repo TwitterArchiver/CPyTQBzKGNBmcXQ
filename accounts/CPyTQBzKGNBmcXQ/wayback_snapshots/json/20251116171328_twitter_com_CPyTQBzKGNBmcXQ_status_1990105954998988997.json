@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1990105304835756498",
+    "created_at": "2025-11-16T17:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T18:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990105954998988997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "The Multiphasic Personality Test evaluates your personality traits and psychological tendencies across 11 key dimensions, including emotional stability, social behavior, and identity patterns.",
+          "display_url": "arealme.com/multiphasic-pe…",
+          "end": 31,
+          "expanded_url": "https://www.arealme.com/multiphasic-personality-test/en/",
+          "start": 8,
+          "status": 200,
+          "title": "Multiphasic Personality Test",
+          "unwound_url": "https://www.arealme.com/multiphasic-personality-test/en/",
+          "url": "https://t.co/1vTqfSknVy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990105954998988997",
+    "in_reply_to_user_id": "1135334607199490048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990105304835756498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "連結先丟著好了 https://t.co/1vTqfSknVy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_1990104477031174144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G55FelNbkAAhZ2c.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1990105304835756498",
+        "created_at": "2025-11-16T17:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T18:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990105954998988997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "The Multiphasic Personality Test evaluates your personality traits and psychological tendencies across 11 key dimensions, including emotional stability, social behavior, and identity patterns.",
+              "display_url": "arealme.com/multiphasic-pe…",
+              "end": 31,
+              "expanded_url": "https://www.arealme.com/multiphasic-personality-test/en/",
+              "start": 8,
+              "status": 200,
+              "title": "Multiphasic Personality Test",
+              "unwound_url": "https://www.arealme.com/multiphasic-personality-test/en/",
+              "url": "https://t.co/1vTqfSknVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990105954998988997",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990105304835756498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "連結先丟著好了 https://t.co/1vTqfSknVy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990104477031174144"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "conversation_id": "1990105304835756498",
+        "created_at": "2025-11-16T17:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T18:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990105304835756498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwxz0F0yOb",
+              "end": 66,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/1990105304835756498/photo/1",
+              "media_key": "3_1990104477031174144",
+              "start": 43,
+              "url": "https://t.co/dwxz0F0yOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990105304835756498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "無聊 測一下...(雖然不知道測這個要做什麼...我連我自己為什麼要發都不知道... https://t.co/dwxz0F0yOb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "我想擊破這身軀 讓靈魂回歸虛無",
+        "id": "1135334607199490048",
+        "location": "不重要",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5820,
+          "following_count": 323,
+          "like_count": 85774,
+          "listed_count": 15,
+          "media_count": 460,
+          "tweet_count": 9805
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

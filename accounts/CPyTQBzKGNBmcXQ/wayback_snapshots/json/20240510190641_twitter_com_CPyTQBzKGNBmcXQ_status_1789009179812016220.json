@@ -1,0 +1,203 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1789003794543763459",
+    "created_at": "2024-05-10T19:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T20:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789009179812016220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1493244011263393799",
+          "start": 0,
+          "username": "Artemis1900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789009179812016220",
+    "in_reply_to_user_id": "1493244011263393799",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789003794543763459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artemis1900 這是什麼呀?(好奇!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1789003794543763459",
+        "created_at": "2024-05-10T19:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T20:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789009179812016220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1493244011263393799",
+              "start": 0,
+              "username": "Artemis1900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789009179812016220",
+        "in_reply_to_user_id": "1493244011263393799",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789003794543763459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artemis1900 這是什麼呀?(好奇!!"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1789003783927918592",
+            "3_1789003782988394498"
+          ]
+        },
+        "author_id": "1493244011263393799",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1789003794543763459",
+        "created_at": "2024-05-10T18:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T19:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789003794543763459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/yBWOZBYcct",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Artemis1900/status/1789003794543763459/photo/1",
+              "media_key": "3_1789003783927918592",
+              "start": 0,
+              "url": "https://t.co/yBWOZBYcct"
+            },
+            {
+              "display_url": "pic.twitter.com/yBWOZBYcct",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Artemis1900/status/1789003794543763459/photo/1",
+              "media_key": "3_1789003782988394498",
+              "start": 0,
+              "url": "https://t.co/yBWOZBYcct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789003794543763459",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yBWOZBYcct"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 最糟糕最沒用應該去死卻沒有勇氣去死的軟弱傢伙 注意⚠️會自殘(反正割不深 只會討拍拍)od(買不到精神狀況一直下降中)負能量(只會講一堆垃圾話)",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3525,
+          "following_count": 397,
+          "like_count": 66698,
+          "listed_count": 29,
+          "tweet_count": 7808
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T15:21:38.000Z",
+        "description": "恐ろしい生活",
+        "id": "1493244011263393799",
+        "location": "日本 东京",
+        "name": "恐怖大氣壓",
+        "pinned_tweet_id": "1669316992292241408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784795261237329920/nP_x-xkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 287,
+          "like_count": 26617,
+          "listed_count": 2,
+          "tweet_count": 7974
+        },
+        "username": "Artemis1900",
+        "verified": false
+      }
+    ]
+  }
+}

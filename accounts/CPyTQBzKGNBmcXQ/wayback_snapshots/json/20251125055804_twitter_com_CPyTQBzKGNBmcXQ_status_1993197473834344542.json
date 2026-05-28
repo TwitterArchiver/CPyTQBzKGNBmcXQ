@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1991581808807542854",
+    "created_at": "2025-11-25T05:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T06:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993197473834344542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595394288119971840",
+          "start": 0,
+          "username": "dudu42700668xdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993197473834344542",
+    "in_reply_to_user_id": "1595394288119971840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992994538831618132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudu42700668xdd 我知道…我也想 但我沒有動力 也不想看自己那醜陋的臉龐 我知道化妝要花很多時間練習 我也應該花時間去練習 但是我好累 我回到家只想坐在電腦前打打遊戲然後睡覺（我弟在我也不想在他面前化妝）我覺得我很綁手綁腳的 想做但做不好 失落感 挫折感 絕望感一直侵蝕著我 我不知道該怎麼辦了 我滿腦只想去死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1991581808807542854",
+        "created_at": "2025-11-25T05:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T06:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993197473834344542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595394288119971840",
+              "start": 0,
+              "username": "dudu42700668xdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993197473834344542",
+        "in_reply_to_user_id": "1595394288119971840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992994538831618132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudu42700668xdd 我知道…我也想 但我沒有動力 也不想看自己那醜陋的臉龐 我知道化妝要花很多時間練習 我也應該花時間去練習 但是我好累 我回到家只想坐在電腦前打打遊戲然後睡覺（我弟在我也不想在他面前化妝）我覺得我很綁手綁腳的 想做但做不好 失落感 挫折感 絕望感一直侵蝕著我 我不知道該怎麼辦了 我滿腦只想去死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595394288119971840",
+        "conversation_id": "1991581808807542854",
+        "created_at": "2025-11-24T16:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992994538831618132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992994538831618132",
+        "in_reply_to_user_id": "1595394288119971840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991917819555107042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 一点也不恶心其实…很正常，每当有活动的时候社团里就会出现大量女装cos的男孩子，很漂亮，好高……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "我想擊破這身軀 讓靈魂回歸虛無",
+        "id": "1135334607199490048",
+        "location": "終點站現實 已無法逃脫",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 324,
+          "like_count": 86182,
+          "listed_count": 15,
+          "media_count": 462,
+          "tweet_count": 9825
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T12:30:50.000Z",
+        "description": "（╹◡╹）First not a frog, second feed with CANDY!",
+        "id": "1595394288119971840",
+        "name": "Om",
+        "pinned_tweet_id": "1988169162418794814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743947952983506944/kYswprrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 101,
+          "like_count": 8905,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 2400
+        },
+        "username": "dudu42700668xdd",
+        "verified": false
+      }
+    ]
+  }
+}

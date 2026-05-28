@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1807844531595010173",
+    "created_at": "2024-07-03T08:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T09:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808413743262716269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1634633304270880768",
+          "start": 0,
+          "username": "Burunsevdalisi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808413743262716269",
+    "in_reply_to_user_id": "1634633304270880768",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807899861096059001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Burunsevdalisi I have no idea..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1807844531595010173",
+        "created_at": "2024-07-03T08:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T09:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808413743262716269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1634633304270880768",
+              "start": 0,
+              "username": "Burunsevdalisi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808413743262716269",
+        "in_reply_to_user_id": "1634633304270880768",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807899861096059001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Burunsevdalisi I have no idea..."
+      },
+      {
+        "attachments": {},
+        "author_id": "1634633304270880768",
+        "conversation_id": "1807844531595010173",
+        "created_at": "2024-07-01T22:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T23:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807899861096059001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807899861096059001",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807844531595010173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ Do you still continue? Until when? What exactly are you waiting for"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4025,
+          "following_count": 384,
+          "like_count": 72816,
+          "listed_count": 30,
+          "tweet_count": 8190
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T19:12:51.000Z",
+        "description": "",
+        "id": "1634633304270880768",
+        "location": "gabar dağı",
+        "name": "Eren Gülbudak",
+        "pinned_tweet_id": "1782515300925124890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806852882764873728/8n_oKYwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 106,
+          "like_count": 50369,
+          "listed_count": 0,
+          "tweet_count": 601
+        },
+        "username": "Burunsevdalisi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2049535533853139313",
+    "created_at": "2026-04-29T17:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T18:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049535533853139313"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049535533853139313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是真的覺得這世界糟透了\n當你的人生失去所有色彩 那還有什麼值得在乎的？\n當你想要好好生活卻被社會打壓 那還有什麼活下去的意義？\n當現實充滿痛苦 那又要如何擁有夢想？\n活著是為了什麼？\n日復一日的日子一成不變是你想要的生活？\n不對吧！但為什麼不反抗？\n因為你沒辦法反抗對吧！\n悲慘又可憐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2049535533853139313",
+        "created_at": "2026-04-29T17:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049535533853139313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049535533853139313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是真的覺得這世界糟透了\n當你的人生失去所有色彩 那還有什麼值得在乎的？\n當你想要好好生活卻被社會打壓 那還有什麼活下去的意義？\n當現實充滿痛苦 那又要如何擁有夢想？\n活著是為了什麼？\n日復一日的日子一成不變是你想要的生活？\n不對吧！但為什麼不反抗？\n因為你沒辦法反抗對吧！\n悲慘又可憐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 318,
+          "like_count": 88991,
+          "listed_count": 14,
+          "media_count": 484,
+          "tweet_count": 9981
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

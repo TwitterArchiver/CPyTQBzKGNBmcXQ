@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1794941648977514865",
+    "created_at": "2024-05-27T04:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T05:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794953983607611813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1627206611617058816",
+          "start": 0,
+          "username": "zhg492979261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794953983607611813",
+    "in_reply_to_user_id": "1627206611617058816",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794941648977514865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhg492979261 天啊！祝妳早日康復…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1794941648977514865",
+        "created_at": "2024-05-27T04:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T05:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794953983607611813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1627206611617058816",
+              "start": 0,
+              "username": "zhg492979261"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794953983607611813",
+        "in_reply_to_user_id": "1627206611617058816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794941648977514865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhg492979261 天啊！祝妳早日康復…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794941640714653696"
+          ]
+        },
+        "author_id": "1627206611617058816",
+        "conversation_id": "1794941648977514865",
+        "created_at": "2024-05-27T04:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T05:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794941648977514865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/dQoE5oA623",
+              "end": 29,
+              "expanded_url": "https://twitter.com/zhg492979261/status/1794941648977514865/photo/1",
+              "media_key": "3_1794941640714653696",
+              "start": 6,
+              "url": "https://t.co/dQoE5oA623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794941648977514865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抢救过来了 https://t.co/dQoE5oA623"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3842,
+          "following_count": 381,
+          "like_count": 69179,
+          "listed_count": 30,
+          "tweet_count": 7963
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T07:21:33.000Z",
+        "description": "叫我枳子或者桎梏都可以\n\n06女高/中抑中焦/被害妄想症倾向/杂圈/热爱有生命力的绘画和文字/傻逼蝻给我润出去 /日常推（偶尔血图不预警）/接塔罗/接约稿/🚪52r\n\n防爆小号@ZhiZi5655",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "ZhiZi5655"
+              }
+            ]
+          }
+        },
+        "id": "1627206611617058816",
+        "location": "Higashiosaka-shi, Osaka",
+        "name": "桎梏🦋🕸（不想上美术课）",
+        "pinned_tweet_id": "1755643466250678589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764670492856954880/HFOVe872_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 414,
+          "like_count": 18865,
+          "listed_count": 5,
+          "tweet_count": 6267
+        },
+        "username": "zhg492979261",
+        "verified": false
+      }
+    ]
+  }
+}

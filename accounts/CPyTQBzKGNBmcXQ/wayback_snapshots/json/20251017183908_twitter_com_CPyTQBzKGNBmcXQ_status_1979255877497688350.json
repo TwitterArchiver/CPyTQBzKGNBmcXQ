@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1977776284798464244",
+    "created_at": "2025-10-17T18:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T19:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979255877497688350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1652985793290604545",
+          "start": 0,
+          "username": "TuTri77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979255877497688350",
+    "in_reply_to_user_id": "1652985793290604545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977776284798464244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuTri77 啊啊雖然現在說好像有點晚了…\n但還是祝妳生日快樂🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977776269241806854",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3J5CcVa8AYaP-S.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1977776284798464244",
+        "created_at": "2025-10-17T18:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T19:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979255877497688350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1652985793290604545",
+              "start": 0,
+              "username": "TuTri77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979255877497688350",
+        "in_reply_to_user_id": "1652985793290604545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977776284798464244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuTri77 啊啊雖然現在說好像有點晚了…\n但還是祝妳生日快樂🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977776269241806854"
+          ]
+        },
+        "author_id": "1652985793290604545",
+        "conversation_id": "1977776284798464244",
+        "created_at": "2025-10-13T16:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T17:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977776284798464244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eISSo6916s",
+              "end": 31,
+              "expanded_url": "https://x.com/TuTri77/status/1977776284798464244/photo/1",
+              "media_key": "3_1977776269241806854",
+              "start": 8,
+              "url": "https://t.co/eISSo6916s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977776284798464244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6018,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去我主页看气球 https://t.co/eISSo6916s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5617,
+          "following_count": 329,
+          "like_count": 84456,
+          "listed_count": 13,
+          "media_count": 454,
+          "tweet_count": 9750
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "盗图死全家/不要忘记我 ｜自用蜂鸟VPN： https://t.co/S4ISvO0qF3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 45,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=MF28Fdlt",
+                "start": 22,
+                "url": "https://t.co/S4ISvO0qF3"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88",
+        "name": "nini",
+        "pinned_tweet_id": "1810144213742567728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974087407013359616/NnnPIRFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8820,
+          "following_count": 254,
+          "like_count": 2949,
+          "listed_count": 12,
+          "media_count": 400,
+          "tweet_count": 1544
+        },
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2032322562273972310",
+    "created_at": "2026-03-14T14:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032821175324389458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1945771975332569088",
+          "start": 0,
+          "username": "KaededanNeori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032821175324389458",
+    "in_reply_to_user_id": "1945771975332569088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032714534730011016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaededanNeori 愛妳(*´˘`*)♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 647,
+        "media_key": "3_2032714529885609984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDWnGFubYAAG29t.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2032322562273972310",
+        "created_at": "2026-03-14T14:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032821175324389458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1945771975332569088",
+              "start": 0,
+              "username": "KaededanNeori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032821175324389458",
+        "in_reply_to_user_id": "1945771975332569088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032714534730011016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaededanNeori 愛妳(*´˘`*)♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032714529885609984"
+          ]
+        },
+        "author_id": "1945771975332569088",
+        "conversation_id": "2032322562273972310",
+        "created_at": "2026-03-14T07:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032714534730011016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bgXxhNdycp",
+              "end": 53,
+              "expanded_url": "https://x.com/KaededanNeori/status/2032714534730011016/photo/1",
+              "media_key": "3_2032714529885609984",
+              "start": 30,
+              "url": "https://t.co/bgXxhNdycp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032714534730011016",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032322562273972310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 沒事的，我會來救你的❤️ https://t.co/bgXxhNdycp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5871,
+          "following_count": 322,
+          "like_count": 88227,
+          "listed_count": 15,
+          "media_count": 482,
+          "tweet_count": 9955
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T09:06:15.000Z",
+        "description": "06年老人｜正在努力学习｜活着真好",
+        "id": "1945771975332569088",
+        "location": "Sendai-shi Izumi-ku, Miyagi",
+        "name": "楓暖音織",
+        "pinned_tweet_id": "2032017579397824852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019503311930699776/nx3KM9oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 103,
+          "like_count": 1096,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 94
+        },
+        "username": "KaededanNeori",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1888045720097407304",
+    "created_at": "2025-02-08T23:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T00:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888372129470857392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1810636707240529920",
+          "start": 0,
+          "username": "san_bing95926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888372129470857392",
+    "in_reply_to_user_id": "1810636707240529920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888203582731882502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@san_bing95926 沒事了哦！只是想到一些回憶而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1888045720097407304",
+        "created_at": "2025-02-08T23:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T00:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888372129470857392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1810636707240529920",
+              "start": 0,
+              "username": "san_bing95926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888372129470857392",
+        "in_reply_to_user_id": "1810636707240529920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888203582731882502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@san_bing95926 沒事了哦！只是想到一些回憶而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810636707240529920",
+        "conversation_id": "1888045720097407304",
+        "created_at": "2025-02-08T12:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T13:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888203582731882502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888203582731882502",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888045720097407304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 紅雪醬你怎么了（歪頭）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5062,
+          "following_count": 360,
+          "like_count": 78839,
+          "listed_count": 10,
+          "media_count": 379,
+          "tweet_count": 9047
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T11:27:05.000Z",
+        "description": "本人男森/170/有在玩蔚藍/心理好像快壞掉了的/有在偷偷割手手(⁠ ⁠╹⁠▽⁠╹⁠ ⁠)/精神不穩\n可以找我聊天咩？",
+        "id": "1810636707240529920",
+        "name": "♛𝑖𝑢𝑎𝑒𝑟星野°°°Hoshino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858199136614645760/SwKAxkuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 134,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "san_bing95926",
+        "verified": false
+      }
+    ]
+  }
+}

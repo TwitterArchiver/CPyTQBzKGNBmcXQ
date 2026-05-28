@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1969110162049728558",
+    "created_at": "2025-09-20T14:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T15:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969408266435510417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1892216240313368576",
+          "start": 0,
+          "username": "Siori_210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969408266435510417",
+    "in_reply_to_user_id": "1892216240313368576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969110162049728558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Siori_210 妳能夠活到現在真的非常非常厲害了哦！不想讓他人理解妳也沒關係的 畢竟有可能在這個過程中會受到傷害 但至少妳還有妳自己可以陪伴著妳 出生到這樣充滿痛苦的世界真的辛苦妳了 如果不知道幸福是什麼也沒關係哦 大家也都迷茫著也在追尋著屬於自己的幸福吧 慢慢來就好 抱抱妳 努力活到現在的妳是最棒的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1834,
+        "media_key": "3_1969110155217551363",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1OvQN1bQAMJSy_.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1969110162049728558",
+        "created_at": "2025-09-20T14:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T15:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969408266435510417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1892216240313368576",
+              "start": 0,
+              "username": "Siori_210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969408266435510417",
+        "in_reply_to_user_id": "1892216240313368576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969110162049728558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siori_210 妳能夠活到現在真的非常非常厲害了哦！不想讓他人理解妳也沒關係的 畢竟有可能在這個過程中會受到傷害 但至少妳還有妳自己可以陪伴著妳 出生到這樣充滿痛苦的世界真的辛苦妳了 如果不知道幸福是什麼也沒關係哦 大家也都迷茫著也在追尋著屬於自己的幸福吧 慢慢來就好 抱抱妳 努力活到現在的妳是最棒的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969110155217551363"
+          ]
+        },
+        "author_id": "1892216240313368576",
+        "conversation_id": "1969110162049728558",
+        "created_at": "2025-09-19T18:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T19:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969110162049728558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fUWHcAPr6o",
+              "end": 114,
+              "expanded_url": "https://x.com/Siori_210/status/1969110162049728558/photo/1",
+              "media_key": "3_1969110155217551363",
+              "start": 91,
+              "url": "https://t.co/fUWHcAPr6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969110162049728558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1305,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又在哭了，不是经济上的帮助也好呀？我需要有人说需要我呀？我需要有人说喜欢我呀？哪怕只是一个拥抱而已。我真的不想再活下去了，我还要继续痛苦下去时候呢？我已经不知道什么才是幸福了呀。 https://t.co/fUWHcAPr6o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5500,
+          "following_count": 327,
+          "like_count": 83802,
+          "listed_count": 13,
+          "media_count": 450,
+          "tweet_count": 9705
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T14:14:57.000Z",
+        "description": "我從打心底覺得要是我沒有出生就好了",
+        "id": "1892216240313368576",
+        "location": "给我点钱 谢谢",
+        "name": "Siori",
+        "pinned_tweet_id": "1927870116047237270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933166824457478144/EF5KExi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4593,
+          "following_count": 254,
+          "like_count": 632,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 258
+        },
+        "username": "Siori_210",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1999026167882653886",
+    "created_at": "2025-12-11T07:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T08:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999026167882653886"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999026167882653886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我知道什麼東西都需要經過練習才會越來越上手 但我無法忍受漫長的練習時間 完美主義的想把一切都用到最好 卻什麼都做不好而習得無助 這輩子也就這樣了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1999026167882653886",
+        "created_at": "2025-12-11T07:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T08:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999026167882653886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999026167882653886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道什麼東西都需要經過練習才會越來越上手 但我無法忍受漫長的練習時間 完美主義的想把一切都用到最好 卻什麼都做不好而習得無助 這輩子也就這樣了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "我想擊破這身軀 讓靈魂回歸虛無",
+        "id": "1135334607199490048",
+        "location": "終點站現實 已無法逃脫",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5819,
+          "following_count": 321,
+          "like_count": 85851,
+          "listed_count": 15,
+          "media_count": 466,
+          "tweet_count": 9857
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1818254427557617728",
+    "created_at": "2024-07-30T12:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-30T13:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818261191669735602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1778071465822445568",
+          "start": 0,
+          "username": "Ymk_ToU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818261191669735602",
+    "in_reply_to_user_id": "1778071465822445568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818254427557617728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ymk_ToU 好厲害！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1818254427557617728",
+        "created_at": "2024-07-30T12:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T13:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818261191669735602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1778071465822445568",
+              "start": 0,
+              "username": "Ymk_ToU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818261191669735602",
+        "in_reply_to_user_id": "1778071465822445568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818254427557617728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ymk_ToU 好厲害！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778071465822445568",
+        "conversation_id": "1818254427557617728",
+        "created_at": "2024-07-30T11:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T12:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818254427557617728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1818254427557617728",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我戒割三星期了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4148,
+          "following_count": 374,
+          "like_count": 73966,
+          "listed_count": 30,
+          "tweet_count": 8355
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-10T14:45:45.000Z",
+        "description": "07｜病み垢｜shtwt❤️‍🩹 ｜♀︎｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/YmkToU00",
+                "end": 23,
+                "expanded_url": "https://lit.link/YmkToU00",
+                "start": 0,
+                "url": "https://t.co/C6Mg0jj6XW"
+              }
+            ]
+          }
+        },
+        "id": "1778071465822445568",
+        "location": "𝕋𝕙𝕖 𝔻𝕖𝕒𝕕 𝕌𝕥𝕠𝕡𝕚𝕒💀",
+        "name": "夢叶˖◛⁺˖",
+        "pinned_tweet_id": "1803019736340742210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781368848773738496/0-oJsFO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 148,
+          "like_count": 9617,
+          "listed_count": 0,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/C6Mg0jj6XW",
+        "username": "Ymk_ToU",
+        "verified": false
+      }
+    ]
+  }
+}

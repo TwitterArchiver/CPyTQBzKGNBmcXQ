@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1869051023362539913",
+    "created_at": "2024-12-17T17:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T18:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869073855496810996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424267230833876992",
+          "start": 0,
+          "username": "_neru0410328"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869073855496810996",
+    "in_reply_to_user_id": "1424267230833876992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869051023362539913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_neru0410328 生日快樂🎂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1869051023362539913",
+        "created_at": "2024-12-17T17:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T18:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869073855496810996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424267230833876992",
+              "start": 0,
+              "username": "_neru0410328"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869073855496810996",
+        "in_reply_to_user_id": "1424267230833876992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869051023362539913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_neru0410328 生日快樂🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869051010544705536",
+            "3_1869051010532179968"
+          ]
+        },
+        "author_id": "1424267230833876992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1869051023362539913",
+        "created_at": "2024-12-17T16:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T17:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869051023362539913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2JfcMkSmp",
+              "end": 32,
+              "expanded_url": "https://x.com/_neru0410328/status/1869051023362539913/photo/1",
+              "media_key": "3_1869051010544705536",
+              "start": 9,
+              "url": "https://t.co/d2JfcMkSmp"
+            },
+            {
+              "display_url": "pic.x.com/d2JfcMkSmp",
+              "end": 32,
+              "expanded_url": "https://x.com/_neru0410328/status/1869051023362539913/photo/1",
+              "media_key": "3_1869051010532179968",
+              "start": 9,
+              "url": "https://t.co/d2JfcMkSmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869051023362539913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是我！我的生日！ https://t.co/d2JfcMkSmp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4825,
+          "following_count": 363,
+          "like_count": 78484,
+          "listed_count": 21,
+          "media_count": 370,
+          "tweet_count": 8892
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-08T07:12:43.000Z",
+        "description": "ねる也可以叫我捏嚕或音琉/現役魔法少女🩷/日常/自傷/自殘/發瘋/繪圖/互fo請私信！/大號：@_mayuu30_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "_mayuu30_"
+              }
+            ]
+          }
+        },
+        "id": "1424267230833876992",
+        "location": "天台",
+        "name": "ねるᜊ(˶ᐢ. .ᐢ˵)ᜊ#依存中",
+        "pinned_tweet_id": "1834174144575144349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803703472916971520/Rmxrjtjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 630,
+          "like_count": 14921,
+          "listed_count": 2,
+          "media_count": 645,
+          "tweet_count": 3619
+        },
+        "username": "_neru0410328",
+        "verified": false
+      }
+    ]
+  }
+}

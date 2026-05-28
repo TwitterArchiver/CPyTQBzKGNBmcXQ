@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1883861842155696630",
+    "created_at": "2025-01-27T12:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T13:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883861842155696630"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1883861842155696630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下午時曾祖母在家裡摔倒了 在叫人幫她 我剛醒有聽到 但沒有馬上去幫她 我想去幫時 其他人已經去幫她了 這讓我感到有罪惡感 剛剛有去關心一下她 不過還是聽到她在那邊講什麼擔心我們什麼的 就算她受傷了依舊覺得很煩躁 煩躁她一直擔心我們 明明我就可以自己處理一些事情還要一直來煩 擔心她受傷的狀況"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1883861842155696630",
+        "created_at": "2025-01-27T12:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T13:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883861842155696630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883861842155696630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下午時曾祖母在家裡摔倒了 在叫人幫她 我剛醒有聽到 但沒有馬上去幫她 我想去幫時 其他人已經去幫她了 這讓我感到有罪惡感 剛剛有去關心一下她 不過還是聽到她在那邊講什麼擔心我們什麼的 就算她受傷了依舊覺得很煩躁 煩躁她一直擔心我們 明明我就可以自己處理一些事情還要一直來煩 擔心她受傷的狀況"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4946,
+          "following_count": 358,
+          "like_count": 78675,
+          "listed_count": 21,
+          "media_count": 378,
+          "tweet_count": 8999
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

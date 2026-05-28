@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1865651069025751334",
+    "created_at": "2024-12-09T23:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T00:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866257124789293467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1695751005122822144",
+          "start": 0,
+          "username": "Theendofwint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866257124789293467",
+    "in_reply_to_user_id": "1695751005122822144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865651069025751334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Theendofwint 也太噁心了吧…在路上隨便搭話 講這種噁心話 還一直糾纏 到底是什麼垃圾啊！把他丟進垃圾車裡壓碎！ヾ(｡｀Д´｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1865651069025751334",
+        "created_at": "2024-12-09T23:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T00:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866257124789293467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1695751005122822144",
+              "start": 0,
+              "username": "Theendofwint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866257124789293467",
+        "in_reply_to_user_id": "1695751005122822144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865651069025751334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Theendofwint 也太噁心了吧…在路上隨便搭話 講這種噁心話 還一直糾纏 到底是什麼垃圾啊！把他丟進垃圾車裡壓碎！ヾ(｡｀Д´｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695751005122822144",
+        "conversation_id": "1865651069025751334",
+        "created_at": "2024-12-08T06:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T07:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865651069025751334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865651069025751334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好恶心在买菜的回家路上突然出来一个男人说可以送我回家 然后问可不可以跟睡一晚上 😑我在街上就想把那两个胡萝卜塞捅进他眼球里了 想了想还是忍住了 直接走开了 还一直追着我问我去他大爷的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4789,
+          "following_count": 364,
+          "like_count": 78221,
+          "listed_count": 21,
+          "media_count": 368,
+          "tweet_count": 8869
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T10:52:08.000Z",
+        "description": "昼夜温差大 @yingjingouo 🧣☃️🐚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "yingjingouo"
+              }
+            ]
+          }
+        },
+        "id": "1695751005122822144",
+        "location": "废人部",
+        "name": "剩饭清理机",
+        "pinned_tweet_id": "1853012257111683303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861620445906378752/4dj4gwr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2772,
+          "following_count": 1872,
+          "like_count": 5266,
+          "listed_count": 8,
+          "media_count": 302,
+          "tweet_count": 4148
+        },
+        "username": "Theendofwint",
+        "verified": false
+      }
+    ]
+  }
+}

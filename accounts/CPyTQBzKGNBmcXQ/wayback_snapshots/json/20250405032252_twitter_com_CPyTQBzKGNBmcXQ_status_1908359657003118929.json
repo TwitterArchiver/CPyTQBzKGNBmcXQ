@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1908339805832028298",
+    "created_at": "2025-04-05T03:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T04:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908359657003118929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1784865103034380288",
+          "start": 0,
+          "username": "bai347312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908359657003118929",
+    "in_reply_to_user_id": "1784865103034380288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908339805832028298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai347312 (*-ω-)ヾ(･ω･*)摸摸…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1908339805832028298",
+        "created_at": "2025-04-05T03:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T04:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908359657003118929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1784865103034380288",
+              "start": 0,
+              "username": "bai347312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908359657003118929",
+        "in_reply_to_user_id": "1784865103034380288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908339805832028298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai347312 (*-ω-)ヾ(･ω･*)摸摸…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784865103034380288",
+        "conversation_id": "1908339805832028298",
+        "created_at": "2025-04-05T02:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T03:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908339805832028298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908339805832028298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神經線斷了一條傷了一條\n現在整只手都沒有知覺的我是這個👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5135,
+          "following_count": 357,
+          "like_count": 80007,
+          "listed_count": 12,
+          "media_count": 392,
+          "tweet_count": 9220
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T08:39:53.000Z",
+        "description": "有精神病丨脾氣不好別對我狗叫，本垢@lin40090218，備用@yi30744",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "lin40090218"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "yi30744"
+              }
+            ]
+          }
+        },
+        "id": "1784865103034380288",
+        "name": "遺灰2.0",
+        "pinned_tweet_id": "1878843110714970384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878688368722432000/g4uSON41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2820,
+          "following_count": 305,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 274
+        },
+        "username": "bai347312",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "author_id": "1135334607199490048",
+    "conversation_id": "1848775366984581531",
+    "created_at": "2024-10-22T17:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-22T18:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848778611018633467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1160625707472474113",
+          "start": 0,
+          "username": "XxXx_die_X"
+        }
+      ]
+    },
+    "id": "1848778611018633467",
+    "in_reply_to_user_id": "1160625707472474113",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 274,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848778257216504202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XxXx_die_X 嘿嘿ヾ(〃^∇^)ﾉ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1135334607199490048",
+        "conversation_id": "1848775366984581531",
+        "created_at": "2024-10-22T17:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-22T18:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848778611018633467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1160625707472474113",
+              "start": 0,
+              "username": "XxXx_die_X"
+            }
+          ]
+        },
+        "id": "1848778611018633467",
+        "in_reply_to_user_id": "1160625707472474113",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848778257216504202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XxXx_die_X 嘿嘿ヾ(〃^∇^)ﾉ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4769,
+          "following_count": 363,
+          "like_count": 78022,
+          "listed_count": 26,
+          "media_count": 368,
+          "tweet_count": 8844
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-11T18:55:06.000Z",
+        "description": "安全な避難所 ▪️自傷癖｜希死念慮｜余命4年（2028年7月12日まで）",
+        "id": "1160625707472474113",
+        "location": "地獄",
+        "name": "割れ物⛓",
+        "pinned_tweet_id": "1630235175614554114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724488133096755200/0A9QgVVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 141,
+          "like_count": 1877,
+          "listed_count": 1,
+          "media_count": 1486,
+          "tweet_count": 6548
+        },
+        "username": "XxXx_die_X",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1985592605888110643",
+    "created_at": "2025-11-04T14:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T15:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985710392103129280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1537745714582679553",
+          "start": 0,
+          "username": "rochelimit0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985710392103129280",
+    "in_reply_to_user_id": "1537745714582679553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985592605888110643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rochelimit0000 (*-ω-)ヾ(･ω･*)摸摸 辛苦了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1985592605888110643",
+        "created_at": "2025-11-04T14:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T15:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985710392103129280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1537745714582679553",
+              "start": 0,
+              "username": "rochelimit0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985710392103129280",
+        "in_reply_to_user_id": "1537745714582679553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985592605888110643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rochelimit0000 (*-ω-)ヾ(･ω･*)摸摸 辛苦了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537745714582679553",
+        "conversation_id": "1985592605888110643",
+        "created_at": "2025-11-04T06:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T07:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985592605888110643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985592605888110643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超想死 受夠了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5797,
+          "following_count": 326,
+          "like_count": 85238,
+          "listed_count": 15,
+          "media_count": 458,
+          "tweet_count": 9787
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T10:35:41.000Z",
+        "description": "洛希（ロシー)です｜メンヘラ社会不適合者｜中文+ENG+ボロボロ日本語｜女の子とBL好き 🏷️#shtwt #edtwt｜ff外通知🚫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "edtwt"
+              }
+            ]
+          }
+        },
+        "id": "1537745714582679553",
+        "location": "🤍",
+        "name": "ℜ＊",
+        "pinned_tweet_id": "1825466138223870385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783306854040526848/FIq0TKHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 364,
+          "like_count": 14898,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 4512
+        },
+        "username": "rochelimit0000",
+        "verified": false
+      }
+    ]
+  }
+}

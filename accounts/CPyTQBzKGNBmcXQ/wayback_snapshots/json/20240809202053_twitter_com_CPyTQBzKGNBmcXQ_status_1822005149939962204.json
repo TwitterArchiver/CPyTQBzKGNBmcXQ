@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1821993933574172678"
+      ],
+      "media_source_tweet_id": [
+        "1821993940389924956"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "conversation_id": "1822005149939962204",
+    "created_at": "2024-08-09T20:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T21:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822005149939962204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1551431055408009216",
+          "start": 3,
+          "username": "ruki9532"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r1r4aunuda",
+          "end": 47,
+          "expanded_url": "https://twitter.com/ruki9532/status/1821993940389924956/photo/1",
+          "media_key": "3_1821993933574172678",
+          "start": 24,
+          "url": "https://t.co/r1R4AUnudA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822005149939962204",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821993940389924956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruki9532: 今日份真皮层满意吗 https://t.co/r1R4AUnudA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1822005149939962204].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1822005149939962204",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1822005149939962204"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1821993933574172678",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUkF1Ema8AYu8fx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821993933574172678"
+          ]
+        },
+        "author_id": "1551431055408009216",
+        "conversation_id": "1821993940389924956",
+        "created_at": "2024-08-09T19:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T20:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821993940389924956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r1r4aunuda",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ruki9532/status/1821993940389924956/photo/1",
+              "media_key": "3_1821993933574172678",
+              "start": 10,
+              "url": "https://t.co/r1R4AUnudA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821993940389924956",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今日份真皮层满意吗 https://t.co/r1R4AUnudA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4152,
+          "following_count": 373,
+          "like_count": 74679,
+          "listed_count": 30,
+          "tweet_count": 8428
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T04:56:19.000Z",
+        "description": "这里是95 | 想和大家做朋友 互fo 可直接DM|自残+od+负能量｜内有血图慎入| 憂鬱 ｜躁鬱 ｜焦慮 / 恐慌 / 失眠",
+        "id": "1551431055408009216",
+        "location": "天国",
+        "name": "ルキ",
+        "pinned_tweet_id": "1806902521728025035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800429727880196096/Beu_WJfe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 138,
+          "like_count": 2261,
+          "listed_count": 0,
+          "tweet_count": 1091
+        },
+        "username": "ruki9532",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1841184944384623057",
+    "created_at": "2024-10-01T21:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T22:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841233244488155558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1573157926306717698",
+          "start": 0,
+          "username": "Luvian1213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841233244488155558",
+    "in_reply_to_user_id": "1573157926306717698",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841184944384623057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luvian1213 好可愛~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1841184944384623057",
+        "created_at": "2024-10-01T21:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T22:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841233244488155558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1573157926306717698",
+              "start": 0,
+              "username": "Luvian1213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841233244488155558",
+        "in_reply_to_user_id": "1573157926306717698",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841184944384623057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luvian1213 好可愛~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841184936315047936"
+          ]
+        },
+        "author_id": "1573157926306717698",
+        "conversation_id": "1841184944384623057",
+        "created_at": "2024-10-01T18:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T19:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841184944384623057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQ8G7Itthq",
+              "end": 25,
+              "expanded_url": "https://x.com/Luvian1213/status/1841184944384623057/photo/1",
+              "media_key": "3_1841184936315047936",
+              "start": 2,
+              "url": "https://t.co/EQ8G7Itthq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841184944384623057",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐣 https://t.co/EQ8G7Itthq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢以戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4575,
+          "following_count": 371,
+          "like_count": 77971,
+          "listed_count": 28,
+          "tweet_count": 8666
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T03:51:04.000Z",
+        "description": "清爽明朗且充滿朝氣的自殺。哎之前的賬號不見惹，就先用這個吧。想知道正常人看到的世界是怎樣的（不過已經放棄治療）。各種興趣愛好接受程度比較广，比較包容，客觀看待每個立場，太極端的太右的就算了，極端的兔兔別來氣我。希望真正的平等和沒有壓迫，可惜衹是奢望。（會b掉奇怪的賬號 可能會b錯人 致歉TAT） 喜歡哥特風 中世紀風格",
+        "id": "1573157926306717698",
+        "location": "Kowloon City District",
+        "name": "luvian",
+        "pinned_tweet_id": "1604129128596525057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597614260473200641/RxlJVvN2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 630,
+          "like_count": 28719,
+          "listed_count": 4,
+          "tweet_count": 7630
+        },
+        "username": "Luvian1213",
+        "verified": false
+      }
+    ]
+  }
+}

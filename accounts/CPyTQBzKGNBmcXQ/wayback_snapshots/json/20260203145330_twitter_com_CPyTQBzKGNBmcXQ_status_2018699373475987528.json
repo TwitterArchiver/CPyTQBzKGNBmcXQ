@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2018699373475987528",
+    "created_at": "2026-02-03T14:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T15:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018699373475987528"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018699373475987528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就算有在賺錢能讓生活變得更好 也依舊想死 還是不敢花太多錢 吃東西也依舊有得吃就好 這樣到底有什麼意義 為什麼我就不能去死 為什麼就不能淘汰掉我 我這樣過一天是一天 如同屍體般的活著到底什麼意義"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2018699373475987528",
+        "created_at": "2026-02-03T14:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T15:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018699373475987528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018699373475987528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就算有在賺錢能讓生活變得更好 也依舊想死 還是不敢花太多錢 吃東西也依舊有得吃就好 這樣到底有什麼意義 為什麼我就不能去死 為什麼就不能淘汰掉我 我這樣過一天是一天 如同屍體般的活著到底什麼意義"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5806,
+          "following_count": 320,
+          "like_count": 86791,
+          "listed_count": 15,
+          "media_count": 475,
+          "tweet_count": 9902
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

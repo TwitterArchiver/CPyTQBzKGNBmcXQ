@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1862514757078818825",
+    "created_at": "2024-11-30T07:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T08:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862761752464957855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1627206611617058816",
+          "start": 0,
+          "username": "zhg492979261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862761752464957855",
+    "in_reply_to_user_id": "1627206611617058816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862514757078818825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhg492979261 聯考加油！٩( &gt;ω&lt; )و"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1862514757078818825",
+        "created_at": "2024-11-30T07:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T08:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862761752464957855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1627206611617058816",
+              "start": 0,
+              "username": "zhg492979261"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862761752464957855",
+        "in_reply_to_user_id": "1627206611617058816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862514757078818825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhg492979261 聯考加油！٩( &gt;ω&lt; )و"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862514747909734400"
+          ]
+        },
+        "author_id": "1627206611617058816",
+        "conversation_id": "1862514757078818825",
+        "created_at": "2024-11-29T15:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T16:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862514757078818825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3y7UGmv6Kb",
+              "end": 56,
+              "expanded_url": "https://x.com/zhg492979261/status/1862514757078818825/photo/1",
+              "media_key": "3_1862514747909734400",
+              "start": 33,
+              "url": "https://t.co/3y7UGmv6Kb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862514757078818825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "徐老佑我联考超常发挥passion！ｸﾞｯ!(๑•̀ㅂ•́)و✧ https://t.co/3y7UGmv6Kb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4798,
+          "following_count": 364,
+          "like_count": 78119,
+          "listed_count": 25,
+          "media_count": 368,
+          "tweet_count": 8848
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T07:21:33.000Z",
+        "description": "叫我枳子或者桎梏都可以\n\n06女高/中抑中焦/被害妄想症倾向/杂圈/热爱有生命力的绘画和文字/傻逼蝻给我润出去 /日常推（偶尔血图不预警）/接塔罗/接约稿/🚪52r\n\n防爆小号@ZhiZi5655",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "ZhiZi5655"
+              }
+            ]
+          }
+        },
+        "id": "1627206611617058816",
+        "location": "Higashiosaka-shi, Osaka",
+        "name": "桎梏🦋🕸（不想上美术课）",
+        "pinned_tweet_id": "1755643466250678589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825123365776220160/54rN7enJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 403,
+          "like_count": 21545,
+          "listed_count": 5,
+          "media_count": 699,
+          "tweet_count": 7588
+        },
+        "username": "zhg492979261",
+        "verified": false
+      }
+    ]
+  }
+}

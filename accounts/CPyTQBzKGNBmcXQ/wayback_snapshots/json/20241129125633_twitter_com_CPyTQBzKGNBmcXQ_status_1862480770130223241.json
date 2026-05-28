@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1862162656922415223",
+    "created_at": "2024-11-29T12:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T13:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862480770130223241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1750917708470992896",
+          "start": 0,
+          "username": "ynhihyu129044"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862480770130223241",
+    "in_reply_to_user_id": "1750917708470992896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862162656922415223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynhihyu129044 抱抱妳🐥🐥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1862162656922415223",
+        "created_at": "2024-11-29T12:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T13:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862480770130223241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1750917708470992896",
+              "start": 0,
+              "username": "ynhihyu129044"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862480770130223241",
+        "in_reply_to_user_id": "1750917708470992896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862162656922415223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynhihyu129044 抱抱妳🐥🐥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862162654015455232",
+            "3_1862162653516558336"
+          ]
+        },
+        "author_id": "1750917708470992896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1862162656922415223",
+        "created_at": "2024-11-28T15:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T16:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862162656922415223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iXZtB40Vjo",
+              "end": 37,
+              "expanded_url": "https://x.com/ynhihyu129044/status/1862162656922415223/photo/1",
+              "media_key": "3_1862162654015455232",
+              "start": 14,
+              "url": "https://t.co/iXZtB40Vjo"
+            },
+            {
+              "display_url": "pic.x.com/iXZtB40Vjo",
+              "end": 37,
+              "expanded_url": "https://x.com/ynhihyu129044/status/1862162656922415223/photo/1",
+              "media_key": "3_1862162653516558336",
+              "start": 14,
+              "url": "https://t.co/iXZtB40Vjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862162656922415223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 6182,
+          "like_count": 1051,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "我也想被關心 不管誰來都好 https://t.co/iXZtB40Vjo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4802,
+          "following_count": 363,
+          "like_count": 78119,
+          "listed_count": 25,
+          "media_count": 368,
+          "tweet_count": 8846
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T16:25:39.000Z",
+        "description": "@xioyu421123 防炸號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "xioyu421123"
+              }
+            ]
+          }
+        },
+        "id": "1750917708470992896",
+        "location": "下水溝",
+        "name": "陶瓷玻璃",
+        "pinned_tweet_id": "1858810557547376874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844331509144240128/d2hrf-M6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 303,
+          "like_count": 16463,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 2779
+        },
+        "username": "ynhihyu129044",
+        "verified": false
+      }
+    ]
+  }
+}

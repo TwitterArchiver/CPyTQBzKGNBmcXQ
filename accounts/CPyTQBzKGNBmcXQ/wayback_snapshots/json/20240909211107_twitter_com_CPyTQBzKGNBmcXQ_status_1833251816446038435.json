@@ -1,0 +1,91 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1833251808917233664"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "conversation_id": "1833251816446038435",
+    "created_at": "2024-09-09T21:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T22:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1833251816446038435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vfzkpzl7a7",
+          "end": 23,
+          "expanded_url": "https://twitter.com/CPyTQBzKGNBmcXQ/status/1833251816446038435/photo/1",
+          "media_key": "3_1833251808917233664",
+          "start": 0,
+          "url": "https://t.co/VfzKpZl7A7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833251816446038435",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/VfzKpZl7A7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1833251816446038435].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1833251816446038435",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1833251816446038435"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1833251808917233664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXEEzqZaoAAqznm.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4426,
+          "following_count": 366,
+          "like_count": 76612,
+          "listed_count": 29,
+          "tweet_count": 8576
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

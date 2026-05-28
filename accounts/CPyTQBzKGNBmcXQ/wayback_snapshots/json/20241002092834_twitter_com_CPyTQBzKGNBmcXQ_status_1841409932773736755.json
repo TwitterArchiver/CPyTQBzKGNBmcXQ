@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1841366523392221324",
+    "created_at": "2024-10-02T09:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T10:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841409932773736755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595394288119971840",
+          "start": 0,
+          "username": "dudu42700668xdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841409932773736755",
+    "in_reply_to_user_id": "1595394288119971840",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841366523392221324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudu42700668xdd 啊啊好可愛💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1841366523392221324",
+        "created_at": "2024-10-02T09:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T10:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841409932773736755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595394288119971840",
+              "start": 0,
+              "username": "dudu42700668xdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841409932773736755",
+        "in_reply_to_user_id": "1595394288119971840",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841366523392221324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudu42700668xdd 啊啊好可愛💕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1841366507793649664"
+          ]
+        },
+        "author_id": "1595394288119971840",
+        "conversation_id": "1841366523392221324",
+        "created_at": "2024-10-02T06:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T07:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841366523392221324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cXOQbKq4EF",
+              "end": 45,
+              "expanded_url": "https://x.com/dudu42700668xdd/status/1841366523392221324/video/1",
+              "media_key": "7_1841366507793649664",
+              "start": 22,
+              "url": "https://t.co/cXOQbKq4EF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841366523392221324",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给朋友做的小动画(&gt;^ω^&lt;) https://t.co/cXOQbKq4EF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢以戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4592,
+          "following_count": 371,
+          "like_count": 78004,
+          "listed_count": 28,
+          "tweet_count": 8669
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T12:30:50.000Z",
+        "description": "（╹◡╹）",
+        "id": "1595394288119971840",
+        "name": "Om",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743947952983506944/kYswprrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 50,
+          "like_count": 1485,
+          "listed_count": 1,
+          "tweet_count": 517
+        },
+        "username": "dudu42700668xdd",
+        "verified": false
+      }
+    ]
+  }
+}

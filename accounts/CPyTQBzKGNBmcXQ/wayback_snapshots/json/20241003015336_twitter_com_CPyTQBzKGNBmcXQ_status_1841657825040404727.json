@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1841570145854263428",
+    "created_at": "2024-10-03T01:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T02:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841657825040404727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668564810844479490",
+          "start": 0,
+          "username": "yueyue1003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841657825040404727",
+    "in_reply_to_user_id": "1668564810844479490",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841570145854263428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyue1003 生日快樂🎂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1841570145854263428",
+        "created_at": "2024-10-03T01:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T02:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841657825040404727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668564810844479490",
+              "start": 0,
+              "username": "yueyue1003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841657825040404727",
+        "in_reply_to_user_id": "1668564810844479490",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841570145854263428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyue1003 生日快樂🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841570138564546560"
+          ]
+        },
+        "author_id": "1668564810844479490",
+        "conversation_id": "1841570145854263428",
+        "created_at": "2024-10-02T20:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T21:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841570145854263428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrIMGPBDjS",
+              "end": 23,
+              "expanded_url": "https://x.com/yueyue1003/status/1841570145854263428/photo/1",
+              "media_key": "3_1841570138564546560",
+              "start": 0,
+              "url": "https://t.co/xrIMGPBDjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841570145854263428",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xrIMGPBDjS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢以戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4613,
+          "following_count": 371,
+          "like_count": 78013,
+          "listed_count": 28,
+          "tweet_count": 8671
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T10:24:00.000Z",
+        "description": "成分複雜\n門檻52 RMB 200NTD",
+        "id": "1668564810844479490",
+        "name": "封心小狗勾阿玥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682793858256756737/ENG6T70i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 204,
+          "like_count": 7366,
+          "listed_count": 1,
+          "tweet_count": 1430
+        },
+        "username": "yueyue1003",
+        "verified": false
+      }
+    ]
+  }
+}

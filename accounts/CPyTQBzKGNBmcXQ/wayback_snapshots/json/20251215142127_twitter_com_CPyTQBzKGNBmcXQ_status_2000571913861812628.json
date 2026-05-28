@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2000456970059575313",
+    "created_at": "2025-12-15T14:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T15:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000571913861812628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1537745714582679553",
+          "start": 0,
+          "username": "rochelimit0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000571913861812628",
+    "in_reply_to_user_id": "1537745714582679553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000456970059575313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rochelimit0000 啊啊好好看🩷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2000456962686013440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MNAjlbUAAYV0t.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2000456970059575313",
+        "created_at": "2025-12-15T14:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000571913861812628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1537745714582679553",
+              "start": 0,
+              "username": "rochelimit0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000571913861812628",
+        "in_reply_to_user_id": "1537745714582679553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000456970059575313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rochelimit0000 啊啊好好看🩷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000456962686013440"
+          ]
+        },
+        "author_id": "1537745714582679553",
+        "conversation_id": "2000456970059575313",
+        "created_at": "2025-12-15T06:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T07:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000456970059575313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LRDAZB9DNi",
+              "end": 36,
+              "expanded_url": "https://x.com/rochelimit0000/status/2000456970059575313/photo/1",
+              "media_key": "3_2000456962686013440",
+              "start": 13,
+              "url": "https://t.co/LRDAZB9DNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000456970059575313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿嘿嘿嘿這張拍得好漂亮 https://t.co/LRDAZB9DNi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "我想擊破這身軀 讓靈魂回歸虛無",
+        "id": "1135334607199490048",
+        "location": "終點站現實 已無法逃脫",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5830,
+          "following_count": 321,
+          "like_count": 86023,
+          "listed_count": 15,
+          "media_count": 466,
+          "tweet_count": 9862
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T10:35:41.000Z",
+        "description": "洛希（ロシー)です｜メンヘラ社会不適合者｜ff外通知🚫",
+        "id": "1537745714582679553",
+        "location": "🤍",
+        "name": "ℜ＊一日1000cal↓",
+        "pinned_tweet_id": "2000484808322146603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000467884427153408/6I2d_-w9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 380,
+          "like_count": 16342,
+          "listed_count": 4,
+          "media_count": 130,
+          "tweet_count": 4946
+        },
+        "username": "rochelimit0000",
+        "verified": false
+      }
+    ]
+  }
+}

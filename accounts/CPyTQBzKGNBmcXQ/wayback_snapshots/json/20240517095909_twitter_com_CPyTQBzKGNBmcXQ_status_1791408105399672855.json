@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1791408105399672855",
+    "created_at": "2024-05-17T09:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-17T10:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1791408105399672855"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1791408105399672855",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前有不小心割到脂肪層過 導致我現在怎麼割都感覺不對 不管割了多少次都感覺不對  然後我又不知道要用多大力才能割到脂肪層 感覺處理又很麻煩 好煩躁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1791408105399672855",
+        "created_at": "2024-05-17T09:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T10:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791408105399672855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791408105399672855",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前有不小心割到脂肪層過 導致我現在怎麼割都感覺不對 不管割了多少次都感覺不對  然後我又不知道要用多大力才能割到脂肪層 感覺處理又很麻煩 好煩躁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3577,
+          "following_count": 383,
+          "like_count": 67600,
+          "listed_count": 30,
+          "tweet_count": 7864
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

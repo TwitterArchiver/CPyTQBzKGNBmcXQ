@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1793664426664657238",
+    "created_at": "2024-05-23T15:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T16:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793666912607752484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690948132979515392",
+          "start": 0,
+          "username": "ahixnming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793666912607752484",
+    "in_reply_to_user_id": "1690948132979515392",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793664426664657238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahixnming 抱抱阿明🐥🐥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1793664426664657238",
+        "created_at": "2024-05-23T15:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T16:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793666912607752484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690948132979515392",
+              "start": 0,
+              "username": "ahixnming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793666912607752484",
+        "in_reply_to_user_id": "1690948132979515392",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793664426664657238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahixnming 抱抱阿明🐥🐥"
+      },
+      {
+        "attachments": {},
+        "author_id": "1690948132979515392",
+        "conversation_id": "1793664426664657238",
+        "created_at": "2024-05-23T15:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T16:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793664426664657238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793664426664657238",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天諮商上得到的結論是我確實被精神虐待了 可我無從舉證 當時也不敢反抗因為嚴重權力不對等 但我確實地被不屬於任何關係上的人精神虐待了這六年直到現在脫離兩年了還會夢到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3804,
+          "following_count": 381,
+          "like_count": 68439,
+          "listed_count": 31,
+          "tweet_count": 7934
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:47:13.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/2004mnnn?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/2004mnnn?igsh=YmhyNHk2YXppMDJr&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/xuFCYvackv"
+              }
+            ]
+          }
+        },
+        "id": "1690948132979515392",
+        "location": "鬱病",
+        "name": "阿明",
+        "pinned_tweet_id": "1793267784174186842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728855488778186752/40OUVGRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 515,
+          "like_count": 19353,
+          "listed_count": 1,
+          "tweet_count": 15525
+        },
+        "url": "https://t.co/xuFCYvackv",
+        "username": "ahixnming",
+        "verified": false
+      }
+    ]
+  }
+}

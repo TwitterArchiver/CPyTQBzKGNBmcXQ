@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2036897240233775226",
+    "created_at": "2026-03-27T14:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037532887218827461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1652985793290604545",
+          "start": 0,
+          "username": "TuTri77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037532887218827461",
+    "in_reply_to_user_id": "1652985793290604545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036897240233775226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuTri77 很好看呢！手的傷口要好好照顧哦！抱抱妳 辛苦了呢！╰⁠(⁠⸝⁠⸝⁠⸝⁠´⁠꒳⁠`⁠⸝⁠⸝⁠⸝⁠)⁠╯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036897230490394625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HESDPTtbYAE-EG8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2036897240233775226",
+        "created_at": "2026-03-27T14:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037532887218827461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1652985793290604545",
+              "start": 0,
+              "username": "TuTri77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037532887218827461",
+        "in_reply_to_user_id": "1652985793290604545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036897240233775226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuTri77 很好看呢！手的傷口要好好照顧哦！抱抱妳 辛苦了呢！╰⁠(⁠⸝⁠⸝⁠⸝⁠´⁠꒳⁠`⁠⸝⁠⸝⁠⸝⁠)⁠╯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036897230490394625"
+          ]
+        },
+        "author_id": "1652985793290604545",
+        "conversation_id": "2036897240233775226",
+        "created_at": "2026-03-25T20:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T21:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036897240233775226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E2AJjw1QHI",
+              "end": 23,
+              "expanded_url": "https://x.com/TuTri77/status/2036897240233775226/photo/1",
+              "media_key": "3_2036897230490394625",
+              "start": 0,
+              "url": "https://t.co/E2AJjw1QHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036897240233775226",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1996,
+          "like_count": 154,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E2AJjw1QHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5838,
+          "following_count": 322,
+          "like_count": 88440,
+          "listed_count": 14,
+          "media_count": 483,
+          "tweet_count": 9958
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "盗图死全家/我是高p/推广自辨/不要忘记我/vpn：https://t.co/VUGgYPMbud",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.dongtutu.com/#/register?cod",
+                "end": 49,
+                "expanded_url": "http://wwwwwl.dongtutu.com/#/register?cod",
+                "start": 26,
+                "url": "https://t.co/VUGgYPMbud"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88",
+        "name": "nini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999300458825809923/WgRgyNCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12175,
+          "following_count": 261,
+          "like_count": 3201,
+          "listed_count": 25,
+          "media_count": 519,
+          "tweet_count": 2063
+        },
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

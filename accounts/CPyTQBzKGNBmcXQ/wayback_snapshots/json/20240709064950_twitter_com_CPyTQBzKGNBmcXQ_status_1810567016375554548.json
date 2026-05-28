@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1810459208040735213",
+    "created_at": "2024-07-09T06:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T07:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810567016375554548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1728714452613378048",
+          "start": 0,
+          "username": "uwyuki6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810567016375554548",
+    "in_reply_to_user_id": "1728714452613378048",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810459208040735213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uwyuki6 好好看！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1810459208040735213",
+        "created_at": "2024-07-09T06:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T07:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810567016375554548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1728714452613378048",
+              "start": 0,
+              "username": "uwyuki6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810567016375554548",
+        "in_reply_to_user_id": "1728714452613378048",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810459208040735213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uwyuki6 好好看！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1810459202474897408"
+          ]
+        },
+        "author_id": "1728714452613378048",
+        "conversation_id": "1810459208040735213",
+        "created_at": "2024-07-08T23:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T00:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810459208040735213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1POiQGCHcE",
+              "end": 35,
+              "expanded_url": "https://twitter.com/uwyuki6/status/1810459208040735213/photo/1",
+              "media_key": "3_1810459202474897408",
+              "start": 12,
+              "url": "https://t.co/1POiQGCHcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810459208040735213",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天拆線 然後畫了一張 https://t.co/1POiQGCHcE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4031,
+          "following_count": 382,
+          "like_count": 73122,
+          "listed_count": 30,
+          "tweet_count": 8268
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T09:57:06.000Z",
+        "description": "看成分互關",
+        "id": "1728714452613378048",
+        "name": "7",
+        "pinned_tweet_id": "1808513535045165425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807395301285933056/qM0FICiw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 36,
+          "like_count": 234,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "uwyuki6",
+        "verified": false
+      }
+    ]
+  }
+}

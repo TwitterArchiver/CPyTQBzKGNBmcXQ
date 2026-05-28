@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1856355877936329088",
+    "created_at": "2024-11-13T10:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T11:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856643805568700912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1352642043244232706",
+          "start": 0,
+          "username": "Cyan00ffff_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856643805568700912",
+    "in_reply_to_user_id": "1352642043244232706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856355877936329088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyan00ffff_ 還好嗎？要注意安全哦！多多休息哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1856355877936329088",
+        "created_at": "2024-11-13T10:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T11:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856643805568700912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1352642043244232706",
+              "start": 0,
+              "username": "Cyan00ffff_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856643805568700912",
+        "in_reply_to_user_id": "1352642043244232706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856355877936329088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyan00ffff_ 還好嗎？要注意安全哦！多多休息哦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856355874434121728"
+          ]
+        },
+        "author_id": "1352642043244232706",
+        "conversation_id": "1856355877936329088",
+        "created_at": "2024-11-12T15:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T16:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856355877936329088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9kPwTm5dj",
+              "end": 46,
+              "expanded_url": "https://x.com/Cyan00ffff_/status/1856355877936329088/photo/1",
+              "media_key": "3_1856355874434121728",
+              "start": 23,
+              "url": "https://t.co/g9kPwTm5dj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856355877936329088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2206,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "好像割到肌肉了 划过去的时候手臂像抽筋的感觉 https://t.co/g9kPwTm5dj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4755,
+          "following_count": 365,
+          "like_count": 78511,
+          "listed_count": 29,
+          "tweet_count": 8834
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-22T15:39:39.000Z",
+        "description": "❤️‍🩹",
+        "id": "1352642043244232706",
+        "name": "淡奶油",
+        "pinned_tweet_id": "1836804773942825133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811463489229332480/CpwaGzOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 145,
+          "like_count": 1022,
+          "listed_count": 1,
+          "tweet_count": 1058
+        },
+        "username": "Cyan00ffff_",
+        "verified": false
+      }
+    ]
+  }
+}

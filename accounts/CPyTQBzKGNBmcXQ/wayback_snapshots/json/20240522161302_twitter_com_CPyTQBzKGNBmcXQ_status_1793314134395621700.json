@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1793306983749259683",
+    "created_at": "2024-05-22T16:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T17:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793314134395621700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1503138890978557954",
+          "start": 0,
+          "username": "ling_0227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793314134395621700",
+    "in_reply_to_user_id": "1503138890978557954",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793306983749259683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ling_0227 晚安安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1793306983749259683",
+        "created_at": "2024-05-22T16:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T17:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793314134395621700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1503138890978557954",
+              "start": 0,
+              "username": "ling_0227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793314134395621700",
+        "in_reply_to_user_id": "1503138890978557954",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793306983749259683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ling_0227 晚安安"
+      },
+      {
+        "attachments": {},
+        "author_id": "1503138890978557954",
+        "conversation_id": "1793306983749259683",
+        "created_at": "2024-05-22T15:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T16:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793306983749259683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793306983749259683",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "晚安 再见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3791,
+          "following_count": 382,
+          "like_count": 68327,
+          "listed_count": 30,
+          "tweet_count": 7928
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-13T22:40:23.000Z",
+        "description": "生亦何欢 死亦何惧 生来无趣 死又何彷                       \nshtwt / edtwt",
+        "id": "1503138890978557954",
+        "location": "🚪388 / 520",
+        "name": "馨 ฅฅ",
+        "pinned_tweet_id": "1730347625738825837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742984939459764224/Gld4eyDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5104,
+          "following_count": 197,
+          "like_count": 19700,
+          "listed_count": 12,
+          "tweet_count": 5778
+        },
+        "username": "ling_0227",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1840986750824697961",
+    "created_at": "2024-10-01T07:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T08:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841014819211932065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1362817589680902146",
+          "start": 0,
+          "username": "nana_fuwafuwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841014819211932065",
+    "in_reply_to_user_id": "1362817589680902146",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840986750824697961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nana_fuwafuwa 好可愛💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1840986750824697961",
+        "created_at": "2024-10-01T07:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T08:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841014819211932065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1362817589680902146",
+              "start": 0,
+              "username": "nana_fuwafuwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841014819211932065",
+        "in_reply_to_user_id": "1362817589680902146",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840986750824697961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nana_fuwafuwa 好可愛💕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1840986736144654336"
+          ]
+        },
+        "author_id": "1362817589680902146",
+        "conversation_id": "1840986750824697961",
+        "created_at": "2024-10-01T05:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T06:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840986750824697961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bQcJx31bnL",
+              "end": 25,
+              "expanded_url": "https://x.com/nana_fuwafuwa/status/1840986750824697961/video/1",
+              "media_key": "7_1840986736144654336",
+              "start": 2,
+              "url": "https://t.co/bQcJx31bnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840986750824697961",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凶 https://t.co/bQcJx31bnL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢以戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4573,
+          "following_count": 371,
+          "like_count": 77972,
+          "listed_count": 29,
+          "tweet_count": 8661
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T17:33:40.000Z",
+        "description": "三次幸福 ただ君を守りたい。",
+        "id": "1362817589680902146",
+        "location": "新東京第三都市Nerv本部",
+        "name": "魔王奈奈一世",
+        "pinned_tweet_id": "1782415543133495392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771533056077377536/1vunfXjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6530,
+          "following_count": 1445,
+          "like_count": 11423,
+          "listed_count": 17,
+          "tweet_count": 7020
+        },
+        "username": "nana_fuwafuwa",
+        "verified": false
+      }
+    ]
+  }
+}

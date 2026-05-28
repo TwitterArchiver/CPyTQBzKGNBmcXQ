@@ -1,0 +1,80 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1612559677421936640",
+    "created_at": "2023-01-09T21:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2023-01-09T21:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1612559677421936640"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1612559677421936640",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎麼活 教教我!\n跟!本!沒!人!教!過!我!!!\n去!死!啦!!!\n我去你的理智!!!!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1612559677421936640",
+        "created_at": "2023-01-09T21:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-09T21:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1612559677421936640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1612559677421936640",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎麼活 教教我!\n跟!本!沒!人!教!過!我!!!\n去!死!啦!!!\n我去你的理智!!!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "垃圾男 該死一死",
+        "id": "1135334607199490048",
+        "location": "Taiwan",
+        "name": "紅雪",
+        "pinned_tweet_id": "1607300618007511041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606690321257332737/3VEE987f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 336,
+          "listed_count": 6,
+          "tweet_count": 1783
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

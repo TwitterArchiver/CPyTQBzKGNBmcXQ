@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1885903274878075259",
+    "created_at": "2025-02-02T09:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T10:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885986966325559525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1385212581342683139",
+          "start": 0,
+          "username": "SKYEN20011217"
+        },
+        {
+          "end": 29,
+          "id": "1582526539219902465",
+          "start": 15,
+          "username": "kkkemuri70707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885986966325559525",
+    "in_reply_to_user_id": "1385212581342683139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885916131908821108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SKYEN20011217 @kkkemuri70707 確實是這樣呢( ´･ω･)…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1885903274878075259",
+        "created_at": "2025-02-02T09:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T10:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885986966325559525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1385212581342683139",
+              "start": 0,
+              "username": "SKYEN20011217"
+            },
+            {
+              "end": 29,
+              "id": "1582526539219902465",
+              "start": 15,
+              "username": "kkkemuri70707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885986966325559525",
+        "in_reply_to_user_id": "1385212581342683139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885916131908821108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SKYEN20011217 @kkkemuri70707 確實是這樣呢( ´･ω･)…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385212581342683139",
+        "conversation_id": "1885903274878075259",
+        "created_at": "2025-02-02T05:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T06:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885916131908821108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            },
+            {
+              "end": 31,
+              "id": "1582526539219902465",
+              "start": 17,
+              "username": "kkkemuri70707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885916131908821108",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885907037877588057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ @kkkemuri70707 但後天就要上班了╮⁠(⁠╯⁠_⁠╰⁠)⁠╭╮⁠(⁠╯⁠_⁠╰⁠)⁠╭╮⁠(⁠╯⁠_⁠╰⁠)⁠╭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4955,
+          "following_count": 359,
+          "like_count": 78640,
+          "listed_count": 21,
+          "media_count": 378,
+          "tweet_count": 9020
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T12:43:22.000Z",
+        "description": "藍色的眼睛\n深不見底的大海\n無盡的高空\n在你眼中的我",
+        "id": "1385212581342683139",
+        "name": "天恩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733902411075551232/NFQfHy6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 172,
+          "like_count": 1899,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 741
+        },
+        "username": "SKYEN20011217",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T00:18:34.000Z",
+        "description": "無言フォロー失礼します。\n死は一種の解放である。\n自我认知是一只水母 ଳ 丨无性恋丨\n我喜欢电吉他，努力练习想组乐队\n♢边缘性人格障碍♢躁鬱症♢自傷♢od♢病院一回♢中文英文OK日本語勉强♢",
+        "id": "1582526539219902465",
+        "location": "天國",
+        "name": "♬電子塵埃♪☆shtwt♡",
+        "pinned_tweet_id": "1868315098202390896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743510751732711424/847Lmi9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 87,
+          "like_count": 2242,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 190
+        },
+        "username": "kkkemuri70707",
+        "verified": false
+      }
+    ]
+  }
+}

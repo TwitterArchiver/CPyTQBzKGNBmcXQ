@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1796102935710982207",
+    "created_at": "2024-05-30T10:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T11:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796119589786374654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1655482845064830976",
+          "start": 0,
+          "username": "wangwangcountry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796119589786374654",
+    "in_reply_to_user_id": "1655482845064830976",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796102935710982207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangwangcountry 好萌呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1796102935710982207",
+        "created_at": "2024-05-30T10:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T11:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796119589786374654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1655482845064830976",
+              "start": 0,
+              "username": "wangwangcountry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796119589786374654",
+        "in_reply_to_user_id": "1655482845064830976",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796102935710982207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangwangcountry 好萌呀！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796102924822786048"
+          ]
+        },
+        "author_id": "1655482845064830976",
+        "conversation_id": "1796102935710982207",
+        "created_at": "2024-05-30T08:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T09:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796102935710982207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/K64Ii3Rlbl",
+              "end": 23,
+              "expanded_url": "https://twitter.com/wangwangcountry/status/1796102935710982207/photo/1",
+              "media_key": "3_1796102924822786048",
+              "start": 0,
+              "url": "https://t.co/K64Ii3Rlbl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796102935710982207",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/K64Ii3Rlbl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3827,
+          "following_count": 381,
+          "like_count": 69577,
+          "listed_count": 30,
+          "tweet_count": 7978
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T08:03:42.000Z",
+        "description": "我是一个小女孩",
+        "id": "1655482845064830976",
+        "location": "🚪88",
+        "name": "本猫猫国大人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699218529940295680/Az5uwvb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 169,
+          "like_count": 1016,
+          "listed_count": 7,
+          "tweet_count": 1131
+        },
+        "username": "wangwangcountry",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1890791041726398586",
+    "created_at": "2025-02-16T06:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T07:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891010613326877054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1810636707240529920",
+          "start": 0,
+          "username": "san_bing95926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891010613326877054",
+    "in_reply_to_user_id": "1810636707240529920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890997665833361499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@san_bing95926 啊啊 我盡量&gt;&lt; 還有很累的話我會沒有精力聊天的 抱歉( &gt;д&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1890791041726398586",
+        "created_at": "2025-02-16T06:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T07:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891010613326877054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1810636707240529920",
+              "start": 0,
+              "username": "san_bing95926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891010613326877054",
+        "in_reply_to_user_id": "1810636707240529920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890997665833361499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@san_bing95926 啊啊 我盡量&gt;&lt; 還有很累的話我會沒有精力聊天的 抱歉( &gt;д&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810636707240529920",
+        "conversation_id": "1890791041726398586",
+        "created_at": "2025-02-16T05:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T06:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890997665833361499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890997665833361499",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890791041726398586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 紅雪怎麼越割越多了：（少割點牙紅雪醬._.我看了也是會心痛的呀._.真的很累能找我聊聊歐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5058,
+          "following_count": 361,
+          "like_count": 78800,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 9073
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T11:27:05.000Z",
+        "description": "本人男森/170/有在玩蔚藍/心理好像快壞掉了的/(⁠ ⁠╹⁠▽⁠╹⁠ ⁠)/精神不穩（？(⁠づ⁠｡⁠◕⁠‿⁠‿⁠◕⁠｡⁠)⁠づ\n可以找我聊天咩？",
+        "id": "1810636707240529920",
+        "name": "♛𝑖𝑢𝑎𝑒𝑟星野°°°Hoshino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890998330991521792/bb-YL0kq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 105,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 26
+        },
+        "username": "san_bing95926",
+        "verified": false
+      }
+    ]
+  }
+}

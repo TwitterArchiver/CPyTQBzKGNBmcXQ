@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1805626620855918774",
+    "created_at": "2024-06-25T16:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T17:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805636395949863241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1750917708470992896",
+          "start": 0,
+          "username": "ynhihyu129044"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805636395949863241",
+    "in_reply_to_user_id": "1750917708470992896",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805626620855918774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynhihyu129044 喜歡❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1805626620855918774",
+        "created_at": "2024-06-25T16:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T17:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805636395949863241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1750917708470992896",
+              "start": 0,
+              "username": "ynhihyu129044"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805636395949863241",
+        "in_reply_to_user_id": "1750917708470992896",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805626620855918774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynhihyu129044 喜歡❤️"
+      },
+      {
+        "attachments": {},
+        "author_id": "1750917708470992896",
+        "conversation_id": "1805626620855918774",
+        "created_at": "2024-06-25T15:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T16:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805626620855918774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805626620855918774",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以喜歡我嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4004,
+          "following_count": 386,
+          "like_count": 72323,
+          "listed_count": 30,
+          "tweet_count": 8142
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T16:25:39.000Z",
+        "description": "”我想交朋友” @xioyu421123備用號",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "xioyu421123"
+              }
+            ]
+          }
+        },
+        "id": "1750917708470992896",
+        "location": "Taiwan",
+        "name": "綺.",
+        "pinned_tweet_id": "1804154450518696383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777343943593869312/3Eaxcd1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 248,
+          "like_count": 10208,
+          "listed_count": 0,
+          "tweet_count": 1435
+        },
+        "username": "ynhihyu129044",
+        "verified": false
+      }
+    ]
+  }
+}

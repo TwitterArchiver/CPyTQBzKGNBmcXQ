@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2001308780743753839",
+    "created_at": "2025-12-19T05:12:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T06:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001883350777336193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1435889042155995136",
+          "start": 0,
+          "username": "bluefluoxetine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001883350777336193",
+    "in_reply_to_user_id": "1435889042155995136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001308780743753839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluefluoxetine 好高啊……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29996,
+        "height": 1280,
+        "media_key": "7_2001308229264121856",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2001308229264121856/pu/img/pphnY7Ho_E5aReNn.jpg",
+        "public_metrics": {
+          "view_count": 386
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001308229264121856/pu/vid/avc1/320x568/oXsg7rFDiOr8xMZ4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001308229264121856/pu/vid/avc1/480x852/bLP10hFRvK8yiBzh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2001308229264121856/pu/vid/avc1/720x1280/FAfSPsjB_tBRz4jO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2001308229264121856/pu/pl/1c4Bz0ox2NYKu0sO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2001308780743753839",
+        "created_at": "2025-12-19T05:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T06:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001883350777336193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1435889042155995136",
+              "start": 0,
+              "username": "bluefluoxetine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001883350777336193",
+        "in_reply_to_user_id": "1435889042155995136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001308780743753839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluefluoxetine 好高啊……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2001308229264121856"
+          ]
+        },
+        "author_id": "1435889042155995136",
+        "conversation_id": "2001308780743753839",
+        "created_at": "2025-12-17T15:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T16:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001308780743753839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/logZIvXoxk",
+              "end": 31,
+              "expanded_url": "https://x.com/bluefluoxetine/status/2001308780743753839/video/1",
+              "media_key": "7_2001308229264121856",
+              "start": 8,
+              "url": "https://t.co/logZIvXoxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001308780743753839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 837,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "吹吹风冷静一下 https://t.co/logZIvXoxk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "我想擊破這身軀 讓靈魂回歸虛無",
+        "id": "1135334607199490048",
+        "location": "終點站現實 已無法逃脫",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5837,
+          "following_count": 321,
+          "like_count": 86137,
+          "listed_count": 15,
+          "media_count": 466,
+          "tweet_count": 9871
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T08:53:38.000Z",
+        "description": "⚠️self-harm\n＃shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 12,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1435889042155995136",
+        "location": "银河车站",
+        "name": "Yan（戒od割手失败版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634429527710367744/2nOMuHEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3574,
+          "following_count": 275,
+          "like_count": 45236,
+          "listed_count": 8,
+          "media_count": 947,
+          "tweet_count": 12255
+        },
+        "username": "bluefluoxetine",
+        "verified": false
+      }
+    ]
+  }
+}

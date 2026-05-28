@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1664811766637838336",
+    "created_at": "2023-06-03T01:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2023-06-03T02:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1664813814024482817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1576673750870675456",
+          "start": 0,
+          "username": "didi07392064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1664813814024482817",
+    "in_reply_to_user_id": "1576673750870675456",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1664813325644070912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didi07392064 天啊！家裡經濟遇到困難了？抱歉沒辦法給妳打錢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1664811766637838336",
+        "created_at": "2023-06-03T01:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-03T02:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1664813814024482817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1576673750870675456",
+              "start": 0,
+              "username": "didi07392064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1664813814024482817",
+        "in_reply_to_user_id": "1576673750870675456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1664813325644070912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didi07392064 天啊！家裡經濟遇到困難了？抱歉沒辦法給妳打錢…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1576673750870675456",
+        "conversation_id": "1664811766637838336",
+        "created_at": "2023-06-03T01:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-03T02:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1664813325644070912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1664813325644070912",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1664812715133530114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 上不到高中钱就全打水漂了 虽然我不想上高中 但是已经花出去了 我不想让妈妈失望😞 算下来我真的花掉太多太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "想自殺~想上吊~想跳樓~想被路殺~想臥軌~想溺死~想被槍斃~想被殺死~想暴斃~想被暗殺~想被刺殺~想被貫穿~想被燒死~想消失~想殺了自己~",
+        "id": "1135334607199490048",
+        "location": "幻想世界",
+        "name": "紅雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663891898233389057/FwJUC74E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 432,
+          "listed_count": 28,
+          "tweet_count": 4299
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T20:41:36.000Z",
+        "description": "我是丢丢 🚪68 只闲聊与游戏 我发画和负能 不喜欢请屏蔽",
+        "id": "1576673750870675456",
+        "name": "接近我会变得不幸",
+        "pinned_tweet_id": "1658886096569393152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662819115814494208/1szy7UWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 458,
+          "listed_count": 5,
+          "tweet_count": 2320
+        },
+        "username": "didi07392064",
+        "verified": false
+      }
+    ]
+  }
+}

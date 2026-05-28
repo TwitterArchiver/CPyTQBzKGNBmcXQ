@@ -1,0 +1,182 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1664808077961449472",
+    "created_at": "2023-06-03T01:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2023-06-03T02:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1664811091916992512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1584802045412134913",
+          "start": 0,
+          "username": "minnim425"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1664811091916992512",
+    "in_reply_to_user_id": "1584802045412134913",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1664808077961449472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minnim425 我陪妳…一起慢慢地看著時間消逝吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1664808077961449472",
+        "created_at": "2023-06-03T01:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-03T02:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1664811091916992512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1584802045412134913",
+              "start": 0,
+              "username": "minnim425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1664811091916992512",
+        "in_reply_to_user_id": "1584802045412134913",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1664808077961449472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minnim425 我陪妳…一起慢慢地看著時間消逝吧…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1584802045412134913",
+        "conversation_id": "1664808077961449472",
+        "created_at": "2023-06-03T01:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-03T02:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1664808077961449472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1664808077961449472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心裡死寂一片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "想自殺~想上吊~想跳樓~想被路殺~想臥軌~想溺死~想被槍斃~想被殺死~想暴斃~想被暗殺~想被刺殺~想被貫穿~想被燒死~想消失~想殺了自己~",
+        "id": "1135334607199490048",
+        "location": "幻想世界",
+        "name": "紅雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663891898233389057/FwJUC74E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 432,
+          "listed_count": 28,
+          "tweet_count": 4293
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-25T07:00:35.000Z",
+        "description": "水色人類｜一對一關係請不要再詢問收不收奴｜永遠住在耳狗的巢｜dm🈲️互關🉑️｜@Nightskyclou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "Nightskyclou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/min_nnminn?igs…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/min_nnminn?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/ccgDQMIIP8"
+              }
+            ]
+          }
+        },
+        "id": "1584802045412134913",
+        "location": "大耳狗的巢穴",
+        "name": "阿明",
+        "pinned_tweet_id": "1639983515688398848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655482619138838529/_opAqdoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 358,
+          "listed_count": 20,
+          "tweet_count": 8358
+        },
+        "url": "https://t.co/ccgDQMIIP8",
+        "username": "minnim425",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1840202939987886577",
+    "created_at": "2024-09-29T02:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T03:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840213027918098678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1633466645078511619",
+          "start": 0,
+          "username": "xox_serina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840213027918098678",
+    "in_reply_to_user_id": "1633466645078511619",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840202939987886577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xox_serina 哇!好好看呀!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1840202939987886577",
+        "created_at": "2024-09-29T02:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T03:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840213027918098678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1633466645078511619",
+              "start": 0,
+              "username": "xox_serina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840213027918098678",
+        "in_reply_to_user_id": "1633466645078511619",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840202939987886577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xox_serina 哇!好好看呀!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840202936858882051",
+            "3_1840202937232175109"
+          ]
+        },
+        "author_id": "1633466645078511619",
+        "conversation_id": "1840202939987886577",
+        "created_at": "2024-09-29T01:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T02:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840202939987886577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7su3tqab4q",
+              "end": 42,
+              "expanded_url": "https://twitter.com/xox_serina/status/1840202939987886577/photo/1",
+              "media_key": "3_1840202936858882051",
+              "start": 19,
+              "url": "https://t.co/7sU3TqaB4q"
+            },
+            {
+              "display_url": "pic.x.com/7su3tqab4q",
+              "end": 42,
+              "expanded_url": "https://twitter.com/xox_serina/status/1840202939987886577/photo/1",
+              "media_key": "3_1840202937232175109",
+              "start": 19,
+              "url": "https://t.co/7sU3TqaB4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840202939987886577",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次畫視覺系妝容🥹\n意外的還可以！ https://t.co/7sU3TqaB4q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4563,
+          "following_count": 371,
+          "like_count": 77901,
+          "listed_count": 29,
+          "tweet_count": 8648
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-08T13:56:31.000Z",
+        "description": "台灣|自殘|od|JDA&ABC|V系|地雷系|歡迎互fo",
+        "id": "1633466645078511619",
+        "location": "幻夢裡的烏托邦♡",
+        "name": "₍ᐢ小兔ᐢ₎@螺螄粉成癮",
+        "pinned_tweet_id": "1822990164098183395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819609559042084868/CGD4W42x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 408,
+          "like_count": 11328,
+          "listed_count": 2,
+          "tweet_count": 2589
+        },
+        "username": "xox_serina",
+        "verified": false
+      }
+    ]
+  }
+}

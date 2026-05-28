@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1996091539098058770",
+    "created_at": "2025-12-04T02:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T03:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996404244925301135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1537745714582679553",
+          "start": 0,
+          "username": "rochelimit0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996404244925301135",
+    "in_reply_to_user_id": "1537745714582679553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996091539098058770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rochelimit0000 好美呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1996091529396674560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7OKq5Ta4AASTP-.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1996091539098058770",
+        "created_at": "2025-12-04T02:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T03:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996404244925301135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1537745714582679553",
+              "start": 0,
+              "username": "rochelimit0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996404244925301135",
+        "in_reply_to_user_id": "1537745714582679553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996091539098058770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rochelimit0000 好美呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996091529396674560"
+          ]
+        },
+        "author_id": "1537745714582679553",
+        "conversation_id": "1996091539098058770",
+        "created_at": "2025-12-03T05:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T06:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996091539098058770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rsmcXlbDFa",
+              "end": 35,
+              "expanded_url": "https://x.com/rochelimit0000/status/1996091539098058770/photo/1",
+              "media_key": "3_1996091529396674560",
+              "start": 12,
+              "url": "https://t.co/rsmcXlbDFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996091539098058770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不會有脫離酒精的一天 https://t.co/rsmcXlbDFa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "我想擊破這身軀 讓靈魂回歸虛無",
+        "id": "1135334607199490048",
+        "location": "終點站現實 已無法逃脫",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5813,
+          "following_count": 323,
+          "like_count": 86227,
+          "listed_count": 15,
+          "media_count": 465,
+          "tweet_count": 9839
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T10:35:41.000Z",
+        "description": "洛希（ロシー)です｜メンヘラ社会不適合者｜中文+ENG+ボロボロ日本語｜女の子とBL好き 🏷️#shtwt #edtwt｜ff外通知🚫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 47,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 54,
+                "tag": "edtwt"
+              }
+            ]
+          }
+        },
+        "id": "1537745714582679553",
+        "location": "🤍",
+        "name": "ℜ＊",
+        "pinned_tweet_id": "1993632081662939147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783306854040526848/FIq0TKHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 371,
+          "like_count": 15766,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 4713
+        },
+        "username": "rochelimit0000",
+        "verified": false
+      }
+    ]
+  }
+}

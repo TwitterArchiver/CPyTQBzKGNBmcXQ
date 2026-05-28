@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1840219305603932478",
+    "created_at": "2024-09-30T00:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T01:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840546652169662842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1461333010704310272",
+          "start": 0,
+          "username": "linya82106715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840546652169662842",
+    "in_reply_to_user_id": "1461333010704310272",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840455487718113505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linya82106715 沒錯是sans！右上是超天醬的中之人糖糖哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1840219305603932478",
+        "created_at": "2024-09-30T00:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T01:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840546652169662842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1461333010704310272",
+              "start": 0,
+              "username": "linya82106715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840546652169662842",
+        "in_reply_to_user_id": "1461333010704310272",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840455487718113505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linya82106715 沒錯是sans！右上是超天醬的中之人糖糖哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1461333010704310272",
+        "conversation_id": "1840219305603932478",
+        "created_at": "2024-09-29T18:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T19:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840455487718113505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840455487718113505",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840219305603932478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 中间的是sans吗！好帅！诶？右上角是超天酱吗？看起来好一般，像我前妻。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4565,
+          "following_count": 370,
+          "like_count": 77919,
+          "listed_count": 29,
+          "tweet_count": 8656
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-18T13:58:52.000Z",
+        "description": "",
+        "id": "1461333010704310272",
+        "name": "鸭鸭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832475166737362946/AEDdxpbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 138,
+          "like_count": 68,
+          "listed_count": 0,
+          "tweet_count": 47
+        },
+        "username": "linya82106715",
+        "verified": false
+      }
+    ]
+  }
+}

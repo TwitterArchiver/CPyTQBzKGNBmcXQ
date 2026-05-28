@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1923816347877900315",
+    "created_at": "2025-05-18T18:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T19:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924167983582306422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1474882356041613315",
+          "start": 0,
+          "username": "yoyobaoninaibu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924167983582306422",
+    "in_reply_to_user_id": "1474882356041613315",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924162262316814744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyobaoninaibu1 🫂💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1923816347877900315",
+        "created_at": "2025-05-18T18:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T19:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924167983582306422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1474882356041613315",
+              "start": 0,
+              "username": "yoyobaoninaibu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924167983582306422",
+        "in_reply_to_user_id": "1474882356041613315",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924162262316814744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyobaoninaibu1 🫂💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1474882356041613315",
+        "conversation_id": "1923816347877900315",
+        "created_at": "2025-05-18T17:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T18:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924162262316814744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924162262316814744",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923816347877900315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 什麼啊好暖和的話語感覺正在退冰中…。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5215,
+          "following_count": 323,
+          "like_count": 81455,
+          "listed_count": 12,
+          "media_count": 404,
+          "tweet_count": 9349
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-25T23:20:38.000Z",
+        "description": "🇹🇼高二16y雙性戀♀️",
+        "id": "1474882356041613315",
+        "location": "墳墓",
+        "name": "玥纱",
+        "pinned_tweet_id": "1894818808529068094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855278954485256192/el-dWA1X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 458,
+          "like_count": 30203,
+          "listed_count": 1,
+          "media_count": 272,
+          "tweet_count": 3622
+        },
+        "username": "yoyobaoninaibu1",
+        "verified": false
+      }
+    ]
+  }
+}

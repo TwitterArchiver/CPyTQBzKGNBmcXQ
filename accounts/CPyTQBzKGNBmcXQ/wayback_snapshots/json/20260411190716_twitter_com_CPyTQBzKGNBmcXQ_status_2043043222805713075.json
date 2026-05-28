@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2043043222805713075",
+    "created_at": "2026-04-11T19:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T20:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043043222805713075"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043043222805713075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "父母之間有愛沒有錯\n但並不包括你 你只是累贅而已\n你的出生並沒有讓他們更好\n反而因為你他們的人生亂了套\n你過得痛苦 他們也過得不好\n憑什麼要生下的我 到底憑什麼\n你們是罪人 誕生是大罪\n用著血緣捆住脖子\n唯有死亡才能解脫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2043043222805713075",
+        "created_at": "2026-04-11T19:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T20:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043043222805713075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043043222805713075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "父母之間有愛沒有錯\n但並不包括你 你只是累贅而已\n你的出生並沒有讓他們更好\n反而因為你他們的人生亂了套\n你過得痛苦 他們也過得不好\n憑什麼要生下的我 到底憑什麼\n你們是罪人 誕生是大罪\n用著血緣捆住脖子\n唯有死亡才能解脫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5778,
+          "following_count": 319,
+          "like_count": 88771,
+          "listed_count": 14,
+          "media_count": 484,
+          "tweet_count": 9971
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

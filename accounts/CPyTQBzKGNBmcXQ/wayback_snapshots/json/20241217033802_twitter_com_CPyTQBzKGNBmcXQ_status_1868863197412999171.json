@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1868644630251888689",
+    "created_at": "2024-12-17T03:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T04:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868863197412999171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799381491493036032",
+          "start": 0,
+          "username": "Tina_sgz90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868863197412999171",
+    "in_reply_to_user_id": "1799381491493036032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868644630251888689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tina_sgz90 好萌💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1868644630251888689",
+        "created_at": "2024-12-17T03:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T04:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868863197412999171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799381491493036032",
+              "start": 0,
+              "username": "Tina_sgz90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868863197412999171",
+        "in_reply_to_user_id": "1799381491493036032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868644630251888689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tina_sgz90 好萌💕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868644593912467456",
+            "3_1868644593916616705"
+          ]
+        },
+        "author_id": "1799381491493036032",
+        "conversation_id": "1868644630251888689",
+        "created_at": "2024-12-16T13:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T14:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868644630251888689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxzRUBSds9",
+              "end": 23,
+              "expanded_url": "https://x.com/Tina_sgz90/status/1868644630251888689/photo/1",
+              "media_key": "3_1868644593912467456",
+              "start": 0,
+              "url": "https://t.co/kxzRUBSds9"
+            },
+            {
+              "display_url": "pic.x.com/kxzRUBSds9",
+              "end": 23,
+              "expanded_url": "https://x.com/Tina_sgz90/status/1868644630251888689/photo/1",
+              "media_key": "3_1868644593916616705",
+              "start": 0,
+              "url": "https://t.co/kxzRUBSds9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868644630251888689",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 614,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kxzRUBSds9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4825,
+          "following_count": 363,
+          "like_count": 78480,
+          "listed_count": 21,
+          "media_count": 370,
+          "tweet_count": 8890
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T10:02:40.000Z",
+        "description": "我是Tina  前世@Tina4800036  \n🚪128 好友位  🚪200有图 🚪520解锁线下  🚪上不封顶@hyperform_alpha 我的小号请关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Tina4800036"
+              },
+              {
+                "end": 73,
+                "start": 57,
+                "username": "hyperform_alpha"
+              }
+            ]
+          }
+        },
+        "id": "1799381491493036032",
+        "name": "Tina（被奸人所害版）",
+        "pinned_tweet_id": "1861013250567262280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864915269027778560/ITL0nC1x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 70,
+          "like_count": 170,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 323
+        },
+        "username": "Tina_sgz90",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2024356920581382557",
+    "created_at": "2026-02-19T12:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T13:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024466744300200049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1471510301233545216",
+          "start": 0,
+          "username": "twelvedaystodie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024466744300200049",
+    "in_reply_to_user_id": "1471510301233545216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024356920581382557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twelvedaystodie 欸 沒有死嗎…之前有看到別人描述他死亡過程的貼文…還是真的是冒充……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1298,
+        "media_key": "3_2024356915057446912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBf144Sa0AAP_l4.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024356918442250240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBf15E5a0AAEg5-.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2024356920581382557",
+        "created_at": "2026-02-19T12:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T13:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024466744300200049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024466744300200049",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024356920581382557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 欸 沒有死嗎…之前有看到別人描述他死亡過程的貼文…還是真的是冒充……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024356915057446912",
+            "3_2024356918442250240"
+          ]
+        },
+        "author_id": "1471510301233545216",
+        "conversation_id": "2024356920581382557",
+        "created_at": "2026-02-19T05:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024356920581382557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ZCmSMx5Sd",
+              "end": 43,
+              "expanded_url": "https://x.com/twelvedaystodie/status/2024356920581382557/photo/1",
+              "media_key": "3_2024356915057446912",
+              "start": 20,
+              "url": "https://t.co/9ZCmSMx5Sd"
+            },
+            {
+              "display_url": "pic.x.com/9ZCmSMx5Sd",
+              "end": 43,
+              "expanded_url": "https://x.com/twelvedaystodie/status/2024356920581382557/photo/1",
+              "media_key": "3_2024356918442250240",
+              "start": 20,
+              "url": "https://t.co/9ZCmSMx5Sd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024356920581382557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "結果好像沒死，欸。。還是被冒充，why https://t.co/9ZCmSMx5Sd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5872,
+          "following_count": 321,
+          "like_count": 87166,
+          "listed_count": 15,
+          "media_count": 477,
+          "tweet_count": 9916
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n  \nଘ /ᐠ - ˕ -マ  ੭♡੭︰@ahixnming\n\nbanner:hz100p",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "ahixnming"
+              }
+            ]
+          }
+        },
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8859,
+          "following_count": 223,
+          "like_count": 6950,
+          "listed_count": 15,
+          "media_count": 896,
+          "tweet_count": 11457
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

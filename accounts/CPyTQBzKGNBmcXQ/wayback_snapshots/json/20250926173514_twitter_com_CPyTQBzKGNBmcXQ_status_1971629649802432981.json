@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1971607884757889091",
+    "created_at": "2025-09-26T17:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T18:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971629649802432981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1599251388751835137",
+          "start": 0,
+          "username": "Nwind0720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971629649802432981",
+    "in_reply_to_user_id": "1599251388751835137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971628546465714310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nwind0720 要玩的時候我會私訊問問妳要不要一起玩的！我差不多要睡了 晚安安💤 妳也要早點睡哦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1971607884757889091",
+        "created_at": "2025-09-26T17:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T18:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971629649802432981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1599251388751835137",
+              "start": 0,
+              "username": "Nwind0720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971629649802432981",
+        "in_reply_to_user_id": "1599251388751835137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971628546465714310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nwind0720 要玩的時候我會私訊問問妳要不要一起玩的！我差不多要睡了 晚安安💤 妳也要早點睡哦！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599251388751835137",
+        "conversation_id": "1971607884757889091",
+        "created_at": "2025-09-26T17:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T18:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971628546465714310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971628546465714310",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971622607545160082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 我也是，中午晚上有休息但是完全睡不够"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5508,
+          "following_count": 327,
+          "like_count": 83978,
+          "listed_count": 13,
+          "media_count": 451,
+          "tweet_count": 9720
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T03:57:05.000Z",
+        "description": "由衷的祝愿大家都成为幸福的人",
+        "id": "1599251388751835137",
+        "location": "青岛",
+        "name": "🌧️",
+        "pinned_tweet_id": "1759957512441258192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954573155366055936/5737MmaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 193,
+          "like_count": 11371,
+          "listed_count": 3,
+          "media_count": 284,
+          "tweet_count": 3208
+        },
+        "username": "Nwind0720",
+        "verified": false
+      }
+    ]
+  }
+}

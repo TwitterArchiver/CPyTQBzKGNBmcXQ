@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Ongoing News Stories like 'Brexit'",
+          "id": "123",
+          "name": "Ongoing News Story"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      }
+    ],
+    "conversation_id": "1855183152756695529",
+    "created_at": "2024-11-09T18:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T19:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855314888203341897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1532754128236990465",
+          "start": 0,
+          "username": "Remipills"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855314888203341897",
+    "in_reply_to_user_id": "1532754128236990465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855183152756695529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Remipills 天！天啊！好厲害！不過要小心不要讓傷口感染了哦！摸摸( ´･ω･)ﾉ“(･ω･` )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "conversation_id": "1855183152756695529",
+        "created_at": "2024-11-09T18:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T19:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855314888203341897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1532754128236990465",
+              "start": 0,
+              "username": "Remipills"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855314888203341897",
+        "in_reply_to_user_id": "1532754128236990465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855183152756695529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remipills 天！天啊！好厲害！不過要小心不要讓傷口感染了哦！摸摸( ´･ω･)ﾉ“(･ω･` )"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855183150194040832"
+          ]
+        },
+        "author_id": "1532754128236990465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1855183152756695529",
+        "created_at": "2024-11-09T09:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T10:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855183152756695529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uij5fWE80N",
+              "end": 26,
+              "expanded_url": "https://x.com/Remipills/status/1855183152756695529/photo/1",
+              "media_key": "3_1855183150194040832",
+              "start": 3,
+              "url": "https://t.co/uij5fWE80N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855183152756695529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 325,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "削下 https://t.co/uij5fWE80N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4718,
+          "following_count": 365,
+          "like_count": 78577,
+          "listed_count": 29,
+          "tweet_count": 8823
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T16:01:12.000Z",
+        "description": "我是 南烛/ i am Remi丨$htwt丨trying to recover ❤️‍🩹丨小粉红滚，社达滚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.tcitys.cc",
+                "end": 23,
+                "expanded_url": "https://cn.tcitys.cc",
+                "start": 0,
+                "url": "https://t.co/2xJE2SYajf"
+              }
+            ]
+          }
+        },
+        "id": "1532754128236990465",
+        "location": "自用VPN👇🏻👉🏻",
+        "name": "R❄️",
+        "pinned_tweet_id": "1850918499356651773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838971895074402305/1X7ZMiP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5133,
+          "following_count": 166,
+          "like_count": 50394,
+          "listed_count": 16,
+          "tweet_count": 22038
+        },
+        "url": "https://t.co/2xJE2SYajf",
+        "username": "Remipills",
+        "verified": false
+      }
+    ]
+  }
+}

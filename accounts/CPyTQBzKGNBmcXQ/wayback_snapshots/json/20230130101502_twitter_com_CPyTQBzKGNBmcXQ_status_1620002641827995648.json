@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1619976292581122049",
+    "created_at": "2023-01-30T10:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2023-01-30T10:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1620002641827995648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1508316004560027650",
+          "start": 0,
+          "username": "rose1772732746"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1620002641827995648",
+    "in_reply_to_user_id": "1508316004560027650",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1619995776452816896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rose1772732746 愛妳（♡▽♡）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1619976292581122049",
+        "created_at": "2023-01-30T10:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-30T10:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1620002641827995648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1508316004560027650",
+              "start": 0,
+              "username": "rose1772732746"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1620002641827995648",
+        "in_reply_to_user_id": "1508316004560027650",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1619995776452816896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rose1772732746 愛妳（♡▽♡）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1508316004560027650",
+        "conversation_id": "1619976292581122049",
+        "created_at": "2023-01-30T09:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-30T10:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1619995776452816896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1619995776452816896",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1619976292581122049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 帅！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "垃圾男 該死一死",
+        "id": "1135334607199490048",
+        "location": "Taiwan",
+        "name": "紅雪",
+        "pinned_tweet_id": "1607300618007511041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606690321257332737/3VEE987f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 361,
+          "listed_count": 14,
+          "tweet_count": 2298
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T05:32:25.000Z",
+        "description": "我是铭铭子/小铭/铭铭 简中女 🌈 我没有素质 我是只会玩手机的阴逼😳男的有🚪250 绿色聊天 没钱滚尼玛",
+        "id": "1508316004560027650",
+        "location": "地獄",
+        "name": "銘",
+        "pinned_tweet_id": "1618089807946866689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606867776794415109/-Ky6M8Yz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 1009,
+          "listed_count": 1,
+          "tweet_count": 1855
+        },
+        "username": "rose1772732746",
+        "verified": false
+      }
+    ]
+  }
+}

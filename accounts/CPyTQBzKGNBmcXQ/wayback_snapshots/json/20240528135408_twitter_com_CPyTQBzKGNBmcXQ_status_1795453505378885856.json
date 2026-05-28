@@ -1,0 +1,203 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1795359743034487019",
+    "created_at": "2024-05-28T13:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T14:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795453505378885856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1352642043244232706",
+          "start": 0,
+          "username": "Cyan00ffff_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795453505378885856",
+    "in_reply_to_user_id": "1352642043244232706",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795359743034487019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyan00ffff_ 妳還好嗎?需不需要去醫院呀..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1795359743034487019",
+        "created_at": "2024-05-28T13:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T14:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795453505378885856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1352642043244232706",
+              "start": 0,
+              "username": "Cyan00ffff_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795453505378885856",
+        "in_reply_to_user_id": "1352642043244232706",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795359743034487019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyan00ffff_ 妳還好嗎?需不需要去醫院呀..."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795359738693390336"
+          ]
+        },
+        "author_id": "1352642043244232706",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1795359743034487019",
+        "created_at": "2024-05-28T07:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T08:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795359743034487019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rclTHknFcA",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Cyan00ffff_/status/1795359743034487019/photo/1",
+              "media_key": "3_1795359738693390336",
+              "start": 22,
+              "url": "https://t.co/rclTHknFcA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795359743034487019",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "血完全止不住 已经2个小时了....... https://t.co/rclTHknFcA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3823,
+          "following_count": 382,
+          "like_count": 69312,
+          "listed_count": 30,
+          "tweet_count": 7971
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-22T15:39:39.000Z",
+        "description": "需要被关注 需要被在意 需要被狠狠的抱紧。\n灵魂契合的另一半@mngji4302480531🕯️\n我永远记着你哦 小命 谢谢你接纳了这样的我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "mngji4302480531"
+              }
+            ]
+          }
+        },
+        "id": "1352642043244232706",
+        "name": "淡奶油",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710289945833705472/HpN2eJYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 136,
+          "like_count": 796,
+          "listed_count": 1,
+          "tweet_count": 848
+        },
+        "username": "Cyan00ffff_",
+        "verified": false
+      }
+    ]
+  }
+}

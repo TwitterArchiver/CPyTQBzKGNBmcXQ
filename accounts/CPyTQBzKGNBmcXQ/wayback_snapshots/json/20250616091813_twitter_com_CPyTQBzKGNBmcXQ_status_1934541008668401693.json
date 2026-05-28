@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1934437362056262137",
+    "created_at": "2025-06-16T09:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T10:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934541008668401693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1559571307066363904",
+          "start": 0,
+          "username": "puppetnan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934541008668401693",
+    "in_reply_to_user_id": "1559571307066363904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934437362056262137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puppetnan 啊啊要注意安全哦！先躺著好好休息吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934437357207572480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtiAhvyaUAA3UXu.jpg",
+        "width": 1917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1934437362056262137",
+        "created_at": "2025-06-16T09:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T10:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934541008668401693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1559571307066363904",
+              "start": 0,
+              "username": "puppetnan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934541008668401693",
+        "in_reply_to_user_id": "1559571307066363904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934437362056262137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puppetnan 啊啊要注意安全哦！先躺著好好休息吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934437357207572480"
+          ]
+        },
+        "author_id": "1559571307066363904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1934437362056262137",
+        "created_at": "2025-06-16T02:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T03:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934437362056262137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/emIIMCB5O7",
+              "end": 80,
+              "expanded_url": "https://x.com/puppetnan/status/1934437362056262137/photo/1",
+              "media_key": "3_1934437357207572480",
+              "start": 57,
+              "url": "https://t.co/emIIMCB5O7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934437362056262137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Professional special effects makeup\n弄到了兩次血管，剛才一直在流血，我暈死了 https://t.co/emIIMCB5O7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5239,
+          "following_count": 322,
+          "like_count": 82411,
+          "listed_count": 12,
+          "media_count": 418,
+          "tweet_count": 9444
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T16:03:01.000Z",
+        "description": "我是@Remipills 南烛呀！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Remipills"
+              }
+            ]
+          }
+        },
+        "id": "1559571307066363904",
+        "name": "❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914965489790717952/IANYOpOs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 93,
+          "like_count": 65,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 42
+        },
+        "username": "puppetnan",
+        "verified": false
+      }
+    ]
+  }
+}

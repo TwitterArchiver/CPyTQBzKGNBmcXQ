@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1794587483004625181",
+    "created_at": "2024-05-26T05:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T06:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794608282314969359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1778071465822445568",
+          "start": 0,
+          "username": "Ymk_ToU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794608282314969359",
+    "in_reply_to_user_id": "1778071465822445568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794587836886524152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ymk_ToU 也抱抱妳🐥🐥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1794587483004625181",
+        "created_at": "2024-05-26T05:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T06:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794608282314969359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1778071465822445568",
+              "start": 0,
+              "username": "Ymk_ToU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794608282314969359",
+        "in_reply_to_user_id": "1778071465822445568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794587836886524152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ymk_ToU 也抱抱妳🐥🐥"
+      },
+      {
+        "attachments": {},
+        "author_id": "1778071465822445568",
+        "conversation_id": "1794587483004625181",
+        "created_at": "2024-05-26T04:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T05:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794587836886524152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794587836886524152",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794587483004625181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 辛苦了🫂❤️‍🩹……抱抱泥｡⁠:ﾟ⁠(⁠;⁠´⁠∩⁠`⁠;⁠)ﾟ⁠:⁠｡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3830,
+          "following_count": 382,
+          "like_count": 68940,
+          "listed_count": 31,
+          "tweet_count": 7958
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-10T14:45:45.000Z",
+        "description": "07｜病み垢｜shtwt❤️‍🩹 ｜♀︎｜",
+        "id": "1778071465822445568",
+        "location": "𝕋𝕙𝕖 𝔻𝕖𝕒𝕕 𝕌𝕥𝕠𝕡𝕚𝕒💀",
+        "name": "夢叶˖◛⁺˖",
+        "pinned_tweet_id": "1788230008508657926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781368848773738496/0-oJsFO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 94,
+          "like_count": 2669,
+          "listed_count": 0,
+          "tweet_count": 213
+        },
+        "username": "Ymk_ToU",
+        "verified": false
+      }
+    ]
+  }
+}

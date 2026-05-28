@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968312328874827776"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1968312341424189596",
+    "created_at": "2025-09-17T13:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968312341424189596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zi01xvtA4B",
+          "end": 31,
+          "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/1968312341424189596/photo/1",
+          "media_key": "3_1968312328874827776",
+          "start": 8,
+          "url": "https://t.co/zi01xvtA4B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968312341424189596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "72抽雙六星w https://t.co/zi01xvtA4B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_1968312328874827776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DZonGbIAAQ2TP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968312328874827776"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968312341424189596",
+        "created_at": "2025-09-17T13:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968312341424189596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zi01xvtA4B",
+              "end": 31,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/1968312341424189596/photo/1",
+              "media_key": "3_1968312328874827776",
+              "start": 8,
+              "url": "https://t.co/zi01xvtA4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968312341424189596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "72抽雙六星w https://t.co/zi01xvtA4B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5498,
+          "following_count": 325,
+          "like_count": 83687,
+          "listed_count": 13,
+          "media_count": 448,
+          "tweet_count": 9696
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

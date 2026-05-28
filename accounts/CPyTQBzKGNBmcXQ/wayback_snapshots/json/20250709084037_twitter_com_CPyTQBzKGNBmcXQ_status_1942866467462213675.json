@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942866432771178497",
+        "7_1942866442199961601"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "conversation_id": "1942866467462213675",
+    "created_at": "2025-07-09T08:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T09:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942866467462213675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xEF6qyVzG5",
+          "end": 23,
+          "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/1942866467462213675/video/1",
+          "media_key": "3_1942866432771178497",
+          "start": 0,
+          "url": "https://t.co/xEF6qyVzG5"
+        },
+        {
+          "display_url": "pic.x.com/xEF6qyVzG5",
+          "end": 23,
+          "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/1942866467462213675/video/1",
+          "media_key": "7_1942866442199961601",
+          "start": 0,
+          "url": "https://t.co/xEF6qyVzG5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942866467462213675",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/xEF6qyVzG5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1942866432771178497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvZyuhNbQAErrW1.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 9045,
+        "height": 1280,
+        "media_key": "7_1942866442199961601",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1942866442199961601/pu/img/s3V5Ae5O9jvoTeRD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942866442199961601/pu/vid/avc1/320x568/23hdG1rF32d6m3gv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942866442199961601/pu/vid/avc1/480x852/sd8m39rDGD8WAvtc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942866442199961601/pu/vid/avc1/720x1280/nnHl493gIdlU4SVu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1942866442199961601/pu/pl/fJJzC2MmenqGaRIW.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942866432771178497",
+            "7_1942866442199961601"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "conversation_id": "1942866467462213675",
+        "created_at": "2025-07-09T08:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T09:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942866467462213675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEF6qyVzG5",
+              "end": 23,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/1942866467462213675/video/1",
+              "media_key": "3_1942866432771178497",
+              "start": 0,
+              "url": "https://t.co/xEF6qyVzG5"
+            },
+            {
+              "display_url": "pic.x.com/xEF6qyVzG5",
+              "end": 23,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/1942866467462213675/video/1",
+              "media_key": "7_1942866442199961601",
+              "start": 0,
+              "url": "https://t.co/xEF6qyVzG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942866467462213675",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xEF6qyVzG5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5267,
+          "following_count": 323,
+          "like_count": 82830,
+          "listed_count": 12,
+          "media_count": 431,
+          "tweet_count": 9488
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

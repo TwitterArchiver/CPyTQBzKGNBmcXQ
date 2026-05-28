@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1839746651663286780",
+    "created_at": "2024-09-28T00:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T01:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839831798819500123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1505179681217150977",
+          "start": 0,
+          "username": "koniaaisar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839831798819500123",
+    "in_reply_to_user_id": "1505179681217150977",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839746651663286780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koniaaisar 是的呢!已經很厲害!!這麼努力活著辛苦了!妳超級棒&gt;&lt;b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1839746651663286780",
+        "created_at": "2024-09-28T00:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T01:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839831798819500123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1505179681217150977",
+              "start": 0,
+              "username": "koniaaisar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839831798819500123",
+        "in_reply_to_user_id": "1505179681217150977",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839746651663286780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koniaaisar 是的呢!已經很厲害!!這麼努力活著辛苦了!妳超級棒&gt;&lt;b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505179681217150977",
+        "conversation_id": "1839746651663286780",
+        "created_at": "2024-09-27T19:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T20:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839746651663286780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1839746651663286780",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没有自杀已经很厉害了。我没有自杀已经很厉害了。我没有自杀已经很厉害了。我没有自杀已经很厉害了。我没有自杀已经很厉害了。我没有自杀已经很厉害了。我没有自杀已经很厉害了。我没有自杀已经很厉害了。我没有自杀已经很厉害了。我没有自杀已经很厉害了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4562,
+          "following_count": 368,
+          "like_count": 77757,
+          "listed_count": 29,
+          "tweet_count": 8641
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T13:49:40.000Z",
+        "description": "正常逼退散/精神病/自残/od/只看得懂英文和中文",
+        "id": "1505179681217150977",
+        "location": "火星",
+        "name": "AISARKONIA",
+        "pinned_tweet_id": "1807730334827712881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700498415128571904/JoVakyQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 128,
+          "like_count": 787,
+          "listed_count": 1,
+          "tweet_count": 830
+        },
+        "username": "koniaaisar",
+        "verified": false
+      }
+    ]
+  }
+}

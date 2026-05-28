@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1822575749750010254",
+    "created_at": "2024-08-11T10:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T11:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822575749750010254"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1822575749750010254",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一直只能過著盡量省錢的生活 幾乎天天吃著泡麵 看到想要的東西卻不能買 只能讓這個欲望消失 所以我基本只有生活的最低要求 欲望什麼的幾乎沒有（反正想要也得不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1822575749750010254",
+        "created_at": "2024-08-11T10:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T11:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822575749750010254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822575749750010254",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直只能過著盡量省錢的生活 幾乎天天吃著泡麵 看到想要的東西卻不能買 只能讓這個欲望消失 所以我基本只有生活的最低要求 欲望什麼的幾乎沒有（反正想要也得不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4168,
+          "following_count": 372,
+          "like_count": 74724,
+          "listed_count": 30,
+          "tweet_count": 8438
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1794394157412499598",
+    "created_at": "2024-05-25T15:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T16:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794396651723063657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595394288119971840",
+          "start": 0,
+          "username": "dudu42700668xdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794396651723063657",
+    "in_reply_to_user_id": "1595394288119971840",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794394157412499598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudu42700668xdd 哇!!超可愛的!!好厲害!!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1794394157412499598",
+        "created_at": "2024-05-25T15:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T16:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794396651723063657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595394288119971840",
+              "start": 0,
+              "username": "dudu42700668xdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794396651723063657",
+        "in_reply_to_user_id": "1595394288119971840",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794394157412499598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudu42700668xdd 哇!!超可愛的!!好厲害!!!"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794394068711333888",
+            "3_1794394067457232896"
+          ]
+        },
+        "author_id": "1595394288119971840",
+        "conversation_id": "1794394157412499598",
+        "created_at": "2024-05-25T15:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T16:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794394157412499598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ytGsIKq1S7",
+              "end": 69,
+              "expanded_url": "https://twitter.com/dudu42700668xdd/status/1794394157412499598/photo/1",
+              "media_key": "3_1794394068711333888",
+              "start": 46,
+              "url": "https://t.co/ytGsIKq1S7"
+            },
+            {
+              "display_url": "pic.twitter.com/ytGsIKq1S7",
+              "end": 69,
+              "expanded_url": "https://twitter.com/dudu42700668xdd/status/1794394157412499598/photo/1",
+              "media_key": "3_1794394067457232896",
+              "start": 46,
+              "url": "https://t.co/ytGsIKq1S7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794394157412499598",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "捏好了呢，看起来又有点精致又粗糙，其实是15周年草莓初音但技术力不够不太像的说( ´▽｀) https://t.co/ytGsIKq1S7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3826,
+          "following_count": 382,
+          "like_count": 68872,
+          "listed_count": 31,
+          "tweet_count": 7955
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T12:30:50.000Z",
+        "description": "（╹◡╹）",
+        "id": "1595394288119971840",
+        "name": "Om",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743947952983506944/kYswprrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 41,
+          "like_count": 1016,
+          "listed_count": 1,
+          "tweet_count": 331
+        },
+        "username": "dudu42700668xdd",
+        "verified": false
+      }
+    ]
+  }
+}

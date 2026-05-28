@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1793665542936842454",
+    "created_at": "2024-05-23T15:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T16:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793671734656471236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1513190048040058884",
+          "start": 0,
+          "username": "OvO_camellia7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793671734656471236",
+    "in_reply_to_user_id": "1513190048040058884",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793665542936842454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO_camellia7 哇！好好看！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1793665542936842454",
+        "created_at": "2024-05-23T15:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T16:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793671734656471236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1513190048040058884",
+              "start": 0,
+              "username": "OvO_camellia7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793671734656471236",
+        "in_reply_to_user_id": "1513190048040058884",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793665542936842454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO_camellia7 哇！好好看！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793665538243043328"
+          ]
+        },
+        "author_id": "1513190048040058884",
+        "conversation_id": "1793665542936842454",
+        "created_at": "2024-05-23T15:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T16:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793665542936842454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/sHnOzhxokf",
+              "end": 29,
+              "expanded_url": "https://twitter.com/OvO_camellia7/status/1793665542936842454/photo/1",
+              "media_key": "3_1793665538243043328",
+              "start": 6,
+              "url": "https://t.co/sHnOzhxokf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793665542936842454",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🕷️又画噜 https://t.co/sHnOzhxokf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3805,
+          "following_count": 381,
+          "like_count": 68446,
+          "listed_count": 31,
+          "tweet_count": 7935
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T16:20:05.000Z",
+        "description": "istp-t悲觀主義情緒發洩場                                                           很久沒動靜就是死了 熟人視奸死全家                        互fo私联一下会被吞",
+        "id": "1513190048040058884",
+        "location": "日本 静冈",
+        "name": "無愛天使症",
+        "pinned_tweet_id": "1767929046401188177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778498805543153666/M0FjaQPT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 135,
+          "like_count": 297,
+          "listed_count": 0,
+          "tweet_count": 100
+        },
+        "username": "OvO_camellia7",
+        "verified": false
+      }
+    ]
+  }
+}

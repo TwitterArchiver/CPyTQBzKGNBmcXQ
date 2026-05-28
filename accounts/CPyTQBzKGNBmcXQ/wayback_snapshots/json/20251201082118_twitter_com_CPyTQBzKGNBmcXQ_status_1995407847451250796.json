@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1995358739701092783",
+    "created_at": "2025-12-01T08:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T09:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995407847451250796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1714666291523616768",
+          "start": 0,
+          "username": "darkwtwinter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995407847451250796",
+    "in_reply_to_user_id": "1714666291523616768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995358739701092783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@darkwtwinter 我也沒想到…直到看到有人在推特上發他們之間的聊天記錄……"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1995358739701092783].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1995358739701092783",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1995358739701092783"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1995358739701092783",
+        "created_at": "2025-12-01T08:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995407847451250796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1714666291523616768",
+              "start": 0,
+              "username": "darkwtwinter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995407847451250796",
+        "in_reply_to_user_id": "1714666291523616768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995358739701092783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@darkwtwinter 我也沒想到…直到看到有人在推特上發他們之間的聊天記錄……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "我想擊破這身軀 讓靈魂回歸虛無",
+        "id": "1135334607199490048",
+        "location": "終點站現實 已無法逃脫",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5799,
+          "following_count": 323,
+          "like_count": 86239,
+          "listed_count": 15,
+          "media_count": 464,
+          "tweet_count": 9835
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T15:34:41.000Z",
+        "description": "我明白，所以我把自己殺死了\n只放比較熟或很熟的人進來，被我放掉不是我討厭你，我們再熟一點再來吧",
+        "id": "1714666291523616768",
+        "name": "窒息的膿疤",
+        "pinned_tweet_id": "1813241725160464781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777023733427064832/uDthqR-H_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 14,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 343
+        },
+        "username": "darkwtwinter",
+        "verified": false
+      }
+    ]
+  }
+}

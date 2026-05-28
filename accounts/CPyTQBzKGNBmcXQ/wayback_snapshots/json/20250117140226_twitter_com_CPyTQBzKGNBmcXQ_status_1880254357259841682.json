@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1879980937339170876",
+    "created_at": "2025-01-17T14:02:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T15:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880254357259841682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1160625707472474113",
+          "start": 0,
+          "username": "XxXx_die_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880254357259841682",
+    "in_reply_to_user_id": "1160625707472474113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879980937339170876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XxXx_die_X 好厲害！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1879980937339170876",
+        "created_at": "2025-01-17T14:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880254357259841682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1160625707472474113",
+              "start": 0,
+              "username": "XxXx_die_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880254357259841682",
+        "in_reply_to_user_id": "1160625707472474113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879980937339170876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XxXx_die_X 好厲害！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1160625707472474113",
+        "conversation_id": "1879980937339170876",
+        "created_at": "2025-01-16T19:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T20:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879980937339170876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879980937339170876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已經80多天沒有割手了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4939,
+          "following_count": 358,
+          "like_count": 78508,
+          "listed_count": 21,
+          "media_count": 376,
+          "tweet_count": 8987
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-11T18:55:06.000Z",
+        "description": "安全な避難所 ▪️自傷癖｜希死念慮｜余命3年",
+        "id": "1160625707472474113",
+        "location": "地獄",
+        "name": "割れ物⛓",
+        "pinned_tweet_id": "1630235175614554114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724488133096755200/0A9QgVVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 140,
+          "like_count": 1866,
+          "listed_count": 0,
+          "media_count": 1489,
+          "tweet_count": 6582
+        },
+        "username": "XxXx_die_X",
+        "verified": false
+      }
+    ]
+  }
+}

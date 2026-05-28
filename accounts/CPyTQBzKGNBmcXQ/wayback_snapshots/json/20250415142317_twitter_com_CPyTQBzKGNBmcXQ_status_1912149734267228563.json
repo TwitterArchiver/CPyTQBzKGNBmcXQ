@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1911094939532018145",
+    "created_at": "2025-04-15T14:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T15:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912149734267228563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886459650289410049",
+          "start": 0,
+          "username": "bingling9895"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912149734267228563",
+    "in_reply_to_user_id": "1886459650289410049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912130612691173567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bingling9895 禁行機車w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1911094939532018145",
+        "created_at": "2025-04-15T14:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T15:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912149734267228563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1886459650289410049",
+              "start": 0,
+              "username": "bingling9895"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912149734267228563",
+        "in_reply_to_user_id": "1886459650289410049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912130612691173567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bingling9895 禁行機車w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886459650289410049",
+        "conversation_id": "1911094939532018145",
+        "created_at": "2025-04-15T13:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T14:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912130612691173567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912130612691173567",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911094939532018145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 禁行...車（努力辨識中🔍）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5134,
+          "following_count": 357,
+          "like_count": 80284,
+          "listed_count": 13,
+          "media_count": 398,
+          "tweet_count": 9262
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T17:00:29.000Z",
+        "description": "INFP-T 14y ♀\n自傷/血圖/鬱帳/碎碎念/有點呆發瘋日常\n這裡有個含著巧克力emo的小女孩\n我姐姐@xiao_yuan1221\n備用@mio1764720\n住一樓的這個連結是我的小窩，雖然感覺不會有人跑去看啦...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "xiao_yuan1221"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "mio1764720"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "walei.tw/home/5302",
+                "end": 23,
+                "expanded_url": "https://www.walei.tw/home/5302",
+                "start": 0,
+                "url": "https://t.co/Cy3HerLs7v"
+              }
+            ]
+          }
+        },
+        "id": "1886459650289410049",
+        "location": "美好的幻想中",
+        "name": "窗邊的貓貓",
+        "pinned_tweet_id": "1910135413379072370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886459759135744004/CN5DbgQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 205,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 916
+        },
+        "url": "https://t.co/Cy3HerLs7v",
+        "username": "bingling9895",
+        "verified": false
+      }
+    ]
+  }
+}

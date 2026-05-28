@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1885884410626744681",
+    "created_at": "2025-02-02T19:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T20:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886129293027373098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1400921726104571914",
+          "start": 0,
+          "username": "gorgeousdeath06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886129293027373098",
+    "in_reply_to_user_id": "1400921726104571914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885884410626744681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gorgeousdeath06 盯|･ω･｀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1885884410626744681",
+        "created_at": "2025-02-02T19:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T20:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886129293027373098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1400921726104571914",
+              "start": 0,
+              "username": "gorgeousdeath06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886129293027373098",
+        "in_reply_to_user_id": "1400921726104571914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885884410626744681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gorgeousdeath06 盯|･ω･｀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400921726104571914",
+        "conversation_id": "1885884410626744681",
+        "created_at": "2025-02-02T02:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T03:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885884410626744681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885884410626744681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比较崩溃的倒不是粉丝和号，主要是我现在找不到很多之前的互关宝宝……找不到号啊啊啊    一眨眼居然5.0了msk我恨你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4964,
+          "following_count": 359,
+          "like_count": 78690,
+          "listed_count": 11,
+          "media_count": 379,
+          "tweet_count": 9025
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-04T21:05:49.000Z",
+        "description": "我是生气的小红鸟〔5.0重生版〕之前账号被盗了，4.0被封号了 希望可以找回之前的大家\n这里是个发疯的小号／持续吐黑水 大量阴暗发言‖自残行为 负能注意⚠️",
+        "id": "1400921726104571914",
+        "name": "〔5.0重生版〕就这样华丽的在垃圾桶里死去吧",
+        "pinned_tweet_id": "1884538895171498054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884537515455180801/twFAKlI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 138,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 20
+        },
+        "username": "gorgeousdeath06",
+        "verified": false
+      }
+    ]
+  }
+}

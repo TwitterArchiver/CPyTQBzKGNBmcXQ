@@ -1,0 +1,987 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese actress and voice actress",
+          "id": "1070716197656657921",
+          "name": "Rina Hidaka"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Rie Takahashi (高橋李依)",
+          "id": "1084888996415561730",
+          "name": "Rie Takahashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1105931602750668805",
+          "name": "Yui Ishikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1269430325047771137",
+          "name": "Asami Seto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese actress and voice actress",
+          "id": "1070716197656657921",
+          "name": "Rina Hidaka"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Rie Takahashi (高橋李依)",
+          "id": "1084888996415561730",
+          "name": "Rie Takahashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1105931602750668805",
+          "name": "Yui Ishikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1269430325047771137",
+          "name": "Asami Seto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese actress and voice actress",
+          "id": "1070716197656657921",
+          "name": "Rina Hidaka"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rie Takahashi (高橋李依)",
+          "id": "1084888996415561730",
+          "name": "Rie Takahashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1105931602750668805",
+          "name": "Yui Ishikawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1269430325047771137",
+          "name": "Asami Seto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "1896580175032406113",
+    "created_at": "2025-03-03T15:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T16:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896580175032406113"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 106,
+          "start": 101,
+          "tag": "高橋李依"
+        },
+        {
+          "end": 112,
+          "start": 107,
+          "tag": "日高里菜"
+        },
+        {
+          "end": 119,
+          "start": 113,
+          "tag": "瀬戸麻沙美"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "石川由依"
+        },
+        {
+          "end": 135,
+          "start": 127,
+          "tag": "きみ死ぬアニメ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1407707676478304257",
+          "start": 3,
+          "username": "kimishinu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896580175032406113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7896
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896213926691606613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kimishinu: ✦✦ ━━━━━━━━━━━\n　TVアニメ化決定\n　きみが死ぬまで恋をしたい\n　パイロットフィルム公開中\n━━━━━━━━━━━ ✦✦\n\nアニメーション制作：ROLL2\n\n#高橋李依 #日高里菜\n#瀬戸麻沙美 #石川由依\n\n#きみ死ぬアニメ #きみ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 118118,
+        "height": 1080,
+        "media_key": "7_1896164264127381504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1896164264127381504/pu/img/pCn2sbeFtn9YrDoz.jpg",
+        "public_metrics": {
+          "view_count": 680256
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896164264127381504/pu/vid/avc1/480x270/yE1HzRtnRw7su9qo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896164264127381504/pu/vid/avc1/640x360/f1loq3fBQEKLf1Hs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896164264127381504/pu/vid/avc1/1280x720/sHADzayee9L5ZizQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1896164264127381504/pu/pl/YVZFvEDmo4Kjb291.m3u8?tag=12&v=c32"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress and voice actress",
+              "id": "1070716197656657921",
+              "name": "Rina Hidaka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Rie Takahashi (高橋李依)",
+              "id": "1084888996415561730",
+              "name": "Rie Takahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1105931602750668805",
+              "name": "Yui Ishikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1269430325047771137",
+              "name": "Asami Seto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress and voice actress",
+              "id": "1070716197656657921",
+              "name": "Rina Hidaka"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Rie Takahashi (高橋李依)",
+              "id": "1084888996415561730",
+              "name": "Rie Takahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1105931602750668805",
+              "name": "Yui Ishikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1269430325047771137",
+              "name": "Asami Seto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress and voice actress",
+              "id": "1070716197656657921",
+              "name": "Rina Hidaka"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rie Takahashi (高橋李依)",
+              "id": "1084888996415561730",
+              "name": "Rie Takahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105931602750668805",
+              "name": "Yui Ishikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1269430325047771137",
+              "name": "Asami Seto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "1896580175032406113",
+        "created_at": "2025-03-03T15:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T16:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896580175032406113"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 101,
+              "tag": "高橋李依"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "日高里菜"
+            },
+            {
+              "end": 119,
+              "start": 113,
+              "tag": "瀬戸麻沙美"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "石川由依"
+            },
+            {
+              "end": 135,
+              "start": 127,
+              "tag": "きみ死ぬアニメ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1407707676478304257",
+              "start": 3,
+              "username": "kimishinu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896580175032406113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7896
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896213926691606613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kimishinu: ✦✦ ━━━━━━━━━━━\n　TVアニメ化決定\n　きみが死ぬまで恋をしたい\n　パイロットフィルム公開中\n━━━━━━━━━━━ ✦✦\n\nアニメーション制作：ROLL2\n\n#高橋李依 #日高里菜\n#瀬戸麻沙美 #石川由依\n\n#きみ死ぬアニメ #きみ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1896164264127381504"
+          ],
+          "media_source_tweet_id": [
+            "1896164539017970127"
+          ]
+        },
+        "author_id": "1407707676478304257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress and voice actress",
+              "id": "1070716197656657921",
+              "name": "Rina Hidaka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Rie Takahashi (高橋李依)",
+              "id": "1084888996415561730",
+              "name": "Rie Takahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1105931602750668805",
+              "name": "Yui Ishikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1269430325047771137",
+              "name": "Asami Seto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress and voice actress",
+              "id": "1070716197656657921",
+              "name": "Rina Hidaka"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Rie Takahashi (高橋李依)",
+              "id": "1084888996415561730",
+              "name": "Rie Takahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1105931602750668805",
+              "name": "Yui Ishikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1269430325047771137",
+              "name": "Asami Seto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress and voice actress",
+              "id": "1070716197656657921",
+              "name": "Rina Hidaka"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rie Takahashi (高橋李依)",
+              "id": "1084888996415561730",
+              "name": "Rie Takahashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1105931602750668805",
+              "name": "Yui Ishikawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1269430325047771137",
+              "name": "Asami Seto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "1896213926691606613",
+        "created_at": "2025-03-02T15:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T16:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896213926691606613"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "高橋李依"
+            },
+            {
+              "end": 97,
+              "start": 92,
+              "tag": "日高里菜"
+            },
+            {
+              "end": 104,
+              "start": 98,
+              "tag": "瀬戸麻沙美"
+            },
+            {
+              "end": 110,
+              "start": 105,
+              "tag": "石川由依"
+            },
+            {
+              "end": 120,
+              "start": 112,
+              "tag": "きみ死ぬアニメ"
+            },
+            {
+              "end": 134,
+              "start": 121,
+              "tag": "きみが死ぬまで恋をしたい"
+            },
+            {
+              "end": 140,
+              "start": 135,
+              "tag": "きみ死ぬ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARs0Wuefhx",
+              "end": 166,
+              "expanded_url": "https://x.com/anime_kimishinu/status/1896164539017970127/video/1",
+              "media_key": "7_1896164264127381504",
+              "start": 143,
+              "url": "https://t.co/ARs0Wuefhx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896213926691606613",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2990,
+          "impression_count": 1135154,
+          "like_count": 26848,
+          "quote_count": 1401,
+          "reply_count": 56,
+          "retweet_count": 7896
+        },
+        "reply_settings": "everyone",
+        "text": "✦✦ ━━━━━━━━━━━\n　TVアニメ化決定\n　きみが死ぬまで恋をしたい\n　パイロットフィルム公開中\n━━━━━━━━━━━ ✦✦\n\nアニメーション制作：ROLL2\n\n#高橋李依 #日高里菜\n#瀬戸麻沙美 #石川由依\n\n#きみ死ぬアニメ #きみが死ぬまで恋をしたい #きみ死ぬ\n\n https://t.co/ARs0Wuefhx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5075,
+          "following_count": 359,
+          "like_count": 79075,
+          "listed_count": 10,
+          "media_count": 384,
+          "tweet_count": 9119
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T14:31:09.000Z",
+        "description": "『きみが死ぬまで恋をしたい』公式アカウント｜著者：あおのなち @aooont｜コミックス①〜⑦発売中｜#きみが死ぬまで恋をしたい #きみ死ぬ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 51,
+                "tag": "きみが死ぬまで恋をしたい"
+              },
+              {
+                "end": 70,
+                "start": 65,
+                "tag": "きみ死ぬ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 31,
+                "username": "aooont"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ichijin-plus.com/comics/2410174…",
+                "end": 23,
+                "expanded_url": "https://ichijin-plus.com/comics/2410174332975",
+                "start": 0,
+                "url": "https://t.co/KSPKWHpFGI"
+              }
+            ]
+          }
+        },
+        "id": "1407707676478304257",
+        "name": "きみが死ぬまで恋をしたい公式",
+        "pinned_tweet_id": "1896170028422332453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455411589453352961/oL2jTGMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68613,
+          "following_count": 8,
+          "like_count": 31,
+          "listed_count": 246,
+          "media_count": 449,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/KSPKWHpFGI",
+        "username": "kimishinu",
+        "verified": false
+      }
+    ]
+  }
+}

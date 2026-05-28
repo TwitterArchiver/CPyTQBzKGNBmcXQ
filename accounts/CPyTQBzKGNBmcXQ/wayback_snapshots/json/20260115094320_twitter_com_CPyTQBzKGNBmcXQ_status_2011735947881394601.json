@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2011505974868394278",
+    "created_at": "2026-01-15T09:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T10:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011735947881394601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1521821363215863808",
+          "start": 0,
+          "username": "A0Iyi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011735947881394601",
+    "in_reply_to_user_id": "1521821363215863808",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011700642235240468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A0Iyi1 (*´˘`*)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2011505974868394278",
+        "created_at": "2026-01-15T09:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T10:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011735947881394601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1521821363215863808",
+              "start": 0,
+              "username": "A0Iyi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011735947881394601",
+        "in_reply_to_user_id": "1521821363215863808",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011700642235240468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A0Iyi1 (*´˘`*)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521821363215863808",
+        "conversation_id": "2011505974868394278",
+        "created_at": "2026-01-15T07:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T08:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011700642235240468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011700642235240468",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011505974868394278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 小宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5826,
+          "following_count": 320,
+          "like_count": 86167,
+          "listed_count": 15,
+          "media_count": 471,
+          "tweet_count": 9889
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T11:57:53.000Z",
+        "description": "我不是黄推不发任何黄色不接任何线下，在别的地方有看到拿我照片搞颜色的都不是本人",
+        "id": "1521821363215863808",
+        "location": "🚪88仅好友位",
+        "name": "划开我的肋骨是没修饰过的伤口",
+        "pinned_tweet_id": "1986171593614368876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999585830458011648/PnhrPb0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24192,
+          "following_count": 548,
+          "like_count": 56716,
+          "listed_count": 75,
+          "media_count": 126,
+          "tweet_count": 6259
+        },
+        "username": "A0Iyi1",
+        "verified": false
+      }
+    ]
+  }
+}

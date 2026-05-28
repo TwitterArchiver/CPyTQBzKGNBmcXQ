@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1980268008301088816",
+    "created_at": "2025-10-21T02:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T03:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980461747124474118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1973301328135987201",
+          "start": 0,
+          "username": "the_red_dawn_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980461747124474118",
+    "in_reply_to_user_id": "1973301328135987201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980395464802594948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@the_red_dawn_ 別道歉了…你又沒做錯什麼……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1980268008301088816",
+        "created_at": "2025-10-21T02:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980461747124474118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1973301328135987201",
+              "start": 0,
+              "username": "the_red_dawn_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980461747124474118",
+        "in_reply_to_user_id": "1973301328135987201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980395464802594948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@the_red_dawn_ 別道歉了…你又沒做錯什麼……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973301328135987201",
+        "conversation_id": "1980268008301088816",
+        "created_at": "2025-10-20T22:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T23:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980395464802594948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980395464802594948",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980268008301088816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 对不起.. ･᷄-･᷅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5615,
+          "following_count": 328,
+          "like_count": 84563,
+          "listed_count": 13,
+          "media_count": 456,
+          "tweet_count": 9765
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T08:19:29.000Z",
+        "description": "♡ 我深深地爱着世间的每一个生命和事物，我唯一想做的就是帮助别人 私はこの世界のすべての生き物とすべてのものを深く愛していて、ただ他の人を助けたいだけです",
+        "id": "1973301328135987201",
+        "name": "the dawn",
+        "pinned_tweet_id": "1974742059975413846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973302849141620737/KX9ccBBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 34,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 472
+        },
+        "username": "the_red_dawn_",
+        "verified": false
+      }
+    ]
+  }
+}

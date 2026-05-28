@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2043043222805713075",
+    "created_at": "2026-04-14T14:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044056173268332571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1945771975332569088",
+          "start": 0,
+          "username": "KaededanNeori"
+        },
+        {
+          "end": 30,
+          "id": "1880277531603136517",
+          "start": 15,
+          "username": "nanamifracture"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044056173268332571",
+    "in_reply_to_user_id": "1945771975332569088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043618666491887891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaededanNeori @nanamifracture 啊啊愛你們(*´˘`*)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2043043222805713075",
+        "created_at": "2026-04-14T14:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044056173268332571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1945771975332569088",
+              "start": 0,
+              "username": "KaededanNeori"
+            },
+            {
+              "end": 30,
+              "id": "1880277531603136517",
+              "start": 15,
+              "username": "nanamifracture"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044056173268332571",
+        "in_reply_to_user_id": "1945771975332569088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043618666491887891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaededanNeori @nanamifracture 啊啊愛你們(*´˘`*)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945771975332569088",
+        "conversation_id": "2043043222805713075",
+        "created_at": "2026-04-13T09:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043618666491887891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1880277531603136517",
+              "start": 0,
+              "username": "nanamifracture"
+            },
+            {
+              "end": 32,
+              "id": "1135334607199490048",
+              "start": 16,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043618666491887891",
+        "in_reply_to_user_id": "1880277531603136517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043053686440759472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanamifracture @CPyTQBzKGNBmcXQ 嗯嗯，我也是這樣覺得的哦，不過沒事噠，我和其它陌生的大家都不會覺得你是累贅的哦，愛你アカユキ(红雪的日文(？)hhh，可爱☺️)❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5766,
+          "following_count": 318,
+          "like_count": 88838,
+          "listed_count": 14,
+          "media_count": 484,
+          "tweet_count": 9977
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T09:06:15.000Z",
+        "description": "06年老人｜正在努力学习｜活着真好",
+        "id": "1945771975332569088",
+        "location": "Sendai-shi Izumi-ku, Miyagi",
+        "name": "楓暖音織",
+        "pinned_tweet_id": "2032017579397824852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019503311930699776/nx3KM9oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 104,
+          "like_count": 1306,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 146
+        },
+        "username": "KaededanNeori",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T15:34:45.000Z",
+        "description": "在那之后，我要找寻我有的",
+        "id": "1880277531603136517",
+        "name": "七蓮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043028427327062016/xuBlI68E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 501,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 111
+        },
+        "username": "nanamifracture",
+        "verified": false
+      }
+    ]
+  }
+}

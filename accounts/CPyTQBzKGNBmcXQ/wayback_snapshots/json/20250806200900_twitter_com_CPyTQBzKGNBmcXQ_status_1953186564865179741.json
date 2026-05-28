@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1953186564865179741",
+    "created_at": "2025-08-06T20:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T21:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953186564865179741"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1953186564865179741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只要想到那些事就好痛苦 我不能接受 但我知道是我的錯 是我讓這一切開始 也是我讓這一切消失的 我不會在開始第二次了 絕對 這創傷會跟著我一輩子吧 我應該逃脫不了了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1953186564865179741",
+        "created_at": "2025-08-06T20:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T21:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953186564865179741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953186564865179741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只要想到那些事就好痛苦 我不能接受 但我知道是我的錯 是我讓這一切開始 也是我讓這一切消失的 我不會在開始第二次了 絕對 這創傷會跟著我一輩子吧 我應該逃脫不了了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5455,
+          "following_count": 325,
+          "like_count": 82930,
+          "listed_count": 12,
+          "media_count": 439,
+          "tweet_count": 9618
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1909687292387901450",
+    "created_at": "2025-04-09T13:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T14:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909966832519311775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1582526539219902465",
+          "start": 0,
+          "username": "kkkemuri70707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909966832519311775",
+    "in_reply_to_user_id": "1582526539219902465",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909690193764139495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkemuri70707 (*´˘`*)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1909687292387901450",
+        "created_at": "2025-04-09T13:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T14:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909966832519311775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1582526539219902465",
+              "start": 0,
+              "username": "kkkemuri70707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909966832519311775",
+        "in_reply_to_user_id": "1582526539219902465",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909690193764139495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkemuri70707 (*´˘`*)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582526539219902465",
+        "conversation_id": "1909687292387901450",
+        "created_at": "2025-04-08T19:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T20:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909690193764139495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909690193764139495",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909687292387901450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 这画的也太可爱了🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5130,
+          "following_count": 357,
+          "like_count": 80166,
+          "listed_count": 13,
+          "media_count": 394,
+          "tweet_count": 9239
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-19T00:18:34.000Z",
+        "description": "無言フォロー失礼します。\n死は一種の解放である。\n自我认知是一只水母 ଳ 丨无性恋丨\n我喜欢电吉他，努力练习想组乐队\n♢边缘型人格障碍♢躁鬱症♢自傷♢od♢病院一回♢中文英文OK日本語勉强♢",
+        "id": "1582526539219902465",
+        "location": "天國",
+        "name": "♬電子水母♪☆shtwt♡",
+        "pinned_tweet_id": "1888479423541719153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743510751732711424/847Lmi9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 81,
+          "like_count": 2225,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 235
+        },
+        "username": "kkkemuri70707",
+        "verified": false
+      }
+    ]
+  }
+}

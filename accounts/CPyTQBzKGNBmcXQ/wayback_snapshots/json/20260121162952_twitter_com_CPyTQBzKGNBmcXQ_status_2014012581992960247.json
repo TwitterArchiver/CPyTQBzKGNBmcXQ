@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014012577291128832",
+        "3_2014012578859540481",
+        "3_2014012577416982528"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2014012581992960247",
+    "created_at": "2026-01-21T16:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T17:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014012581992960247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FVOXG1MD28",
+          "end": 64,
+          "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2014012581992960247/photo/1",
+          "media_key": "3_2014012577291128832",
+          "start": 41,
+          "url": "https://t.co/FVOXG1MD28"
+        },
+        {
+          "display_url": "pic.x.com/FVOXG1MD28",
+          "end": 64,
+          "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2014012581992960247/photo/1",
+          "media_key": "3_2014012578859540481",
+          "start": 41,
+          "url": "https://t.co/FVOXG1MD28"
+        },
+        {
+          "display_url": "pic.x.com/FVOXG1MD28",
+          "end": 64,
+          "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2014012581992960247/photo/1",
+          "media_key": "3_2014012577416982528",
+          "start": 41,
+          "url": "https://t.co/FVOXG1MD28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014012581992960247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "試著煮東西來吃 原本以為會很失敗…結果意外的很好吃！（飯很快就吃完了 剩一堆料w https://t.co/FVOXG1MD28"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2014012577291128832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_M1xLKbUAA8Pbl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2014012578859540481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_M1xRAXYAE0HMg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2014012577416982528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_M1xLobsAA_os_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014012577291128832",
+            "3_2014012578859540481",
+            "3_2014012577416982528"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2014012581992960247",
+        "created_at": "2026-01-21T16:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014012581992960247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FVOXG1MD28",
+              "end": 64,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2014012581992960247/photo/1",
+              "media_key": "3_2014012577291128832",
+              "start": 41,
+              "url": "https://t.co/FVOXG1MD28"
+            },
+            {
+              "display_url": "pic.x.com/FVOXG1MD28",
+              "end": 64,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2014012581992960247/photo/1",
+              "media_key": "3_2014012578859540481",
+              "start": 41,
+              "url": "https://t.co/FVOXG1MD28"
+            },
+            {
+              "display_url": "pic.x.com/FVOXG1MD28",
+              "end": 64,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2014012581992960247/photo/1",
+              "media_key": "3_2014012577416982528",
+              "start": 41,
+              "url": "https://t.co/FVOXG1MD28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014012581992960247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "試著煮東西來吃 原本以為會很失敗…結果意外的很好吃！（飯很快就吃完了 剩一堆料w https://t.co/FVOXG1MD28"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5819,
+          "following_count": 319,
+          "like_count": 86511,
+          "listed_count": 15,
+          "media_count": 474,
+          "tweet_count": 9897
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

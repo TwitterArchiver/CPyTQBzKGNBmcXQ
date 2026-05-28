@@ -1,0 +1,153 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1793672746951675904"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1793673046441812449",
+    "created_at": "2024-05-23T15:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T16:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1793673046441812449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Nmx84bEueq",
+          "end": 44,
+          "expanded_url": "https://twitter.com/CPyTQBzKGNBmcXQ/status/1793673046441812449/photo/1",
+          "media_key": "3_1793672746951675904",
+          "start": 21,
+          "url": "https://t.co/Nmx84bEueq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793673046441812449",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ENDER LILIES 全成就達成!! https://t.co/Nmx84bEueq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 385,
+        "media_key": "3_1793672746951675904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GORn3C1akAAZrwX.jpg",
+        "width": 987
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793672746951675904"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1793673046441812449",
+        "created_at": "2024-05-23T15:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T16:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793673046441812449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Nmx84bEueq",
+              "end": 44,
+              "expanded_url": "https://twitter.com/CPyTQBzKGNBmcXQ/status/1793673046441812449/photo/1",
+              "media_key": "3_1793672746951675904",
+              "start": 21,
+              "url": "https://t.co/Nmx84bEueq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793673046441812449",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ENDER LILIES 全成就達成!! https://t.co/Nmx84bEueq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3806,
+          "following_count": 381,
+          "like_count": 68454,
+          "listed_count": 31,
+          "tweet_count": 7936
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1979405536492949752",
+    "created_at": "2025-10-19T19:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T20:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979992738700599646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1521821363215863808",
+          "start": 0,
+          "username": "A0Iyi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979992738700599646",
+    "in_reply_to_user_id": "1521821363215863808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979405536492949752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A0Iyi1 好萌🩷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979405529085542400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3hC12OWgAAptfI.jpg",
+        "width": 1563
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1979405536492949752",
+        "created_at": "2025-10-19T19:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T20:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979992738700599646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1521821363215863808",
+              "start": 0,
+              "username": "A0Iyi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979992738700599646",
+        "in_reply_to_user_id": "1521821363215863808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979405536492949752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A0Iyi1 好萌🩷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979405529085542400"
+          ]
+        },
+        "author_id": "1521821363215863808",
+        "conversation_id": "1979405536492949752",
+        "created_at": "2025-10-18T04:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T05:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979405536492949752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZWzW7VWFO2",
+              "end": 29,
+              "expanded_url": "https://x.com/A0Iyi1/status/1979405536492949752/photo/1",
+              "media_key": "3_1979405529085542400",
+              "start": 6,
+              "url": "https://t.co/ZWzW7VWFO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979405536492949752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 25023,
+          "like_count": 513,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我最爱你了 https://t.co/ZWzW7VWFO2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5617,
+          "following_count": 328,
+          "like_count": 84515,
+          "listed_count": 13,
+          "media_count": 455,
+          "tweet_count": 9754
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T11:57:53.000Z",
+        "description": "偷我照片的全家死了",
+        "id": "1521821363215863808",
+        "location": "🚪66不聊天仅扩列",
+        "name": "划开我的肋骨是没修饰过的伤口",
+        "pinned_tweet_id": "1919369736934326775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978392515188494336/g_WMaUBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22972,
+          "following_count": 564,
+          "like_count": 56802,
+          "listed_count": 72,
+          "media_count": 108,
+          "tweet_count": 5902
+        },
+        "username": "A0Iyi1",
+        "verified": false
+      }
+    ]
+  }
+}

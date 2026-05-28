@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1831371058248872268",
+    "created_at": "2024-09-05T14:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T15:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831701251308057022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1418965008466292741",
+          "start": 0,
+          "username": "MarjorieCueto3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831701251308057022",
+    "in_reply_to_user_id": "1418965008466292741",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831668703525794241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MarjorieCueto3 哦哦！好詳細！謝謝你(*´˘`*)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1831371058248872268",
+        "created_at": "2024-09-05T14:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T15:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831701251308057022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1418965008466292741",
+              "start": 0,
+              "username": "MarjorieCueto3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831701251308057022",
+        "in_reply_to_user_id": "1418965008466292741",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831668703525794241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MarjorieCueto3 哦哦！好詳細！謝謝你(*´˘`*)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418965008466292741",
+        "conversation_id": "1831371058248872268",
+        "created_at": "2024-09-05T12:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T13:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831668703525794241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831668703525794241",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831371058248872268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 睡前四个小时不要吃东西，睡前喝一点纯苏打水不是那种加添加剂的饮料，酸碱中和。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4404,
+          "following_count": 367,
+          "like_count": 76642,
+          "listed_count": 29,
+          "tweet_count": 8572
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T16:03:16.000Z",
+        "description": "USDT COIN",
+        "id": "1418965008466292741",
+        "name": "MarjorieCueto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1418965024580771842/JsmprMjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 673,
+          "like_count": 8423,
+          "listed_count": 0,
+          "tweet_count": 270
+        },
+        "username": "MarjorieCueto3",
+        "verified": false
+      }
+    ]
+  }
+}

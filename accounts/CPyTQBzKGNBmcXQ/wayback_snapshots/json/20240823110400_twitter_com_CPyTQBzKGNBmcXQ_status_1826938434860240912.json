@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1826938434860240912",
+    "created_at": "2024-08-23T11:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T12:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1826938434860240912"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1826938434860240912",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天都只會一直敲門 鎖起來還硬要拿鑰匙來開 每次都只會說擔心沒有吃飯 每次來開門都煩得要死 一直被煩煩到有夠想死的 我還快要沒錢要跟媽媽要零用錢了 還要找工作 好煩好想死 什麼都做不好 我沒有勇氣面對生活了我只能窩在這陰暗的房間裡等死 我好懦弱 好討厭活著 好希望自己沒有出生 去你的垃圾人生!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1826938434860240912",
+        "created_at": "2024-08-23T11:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T12:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826938434860240912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826938434860240912",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天都只會一直敲門 鎖起來還硬要拿鑰匙來開 每次都只會說擔心沒有吃飯 每次來開門都煩得要死 一直被煩煩到有夠想死的 我還快要沒錢要跟媽媽要零用錢了 還要找工作 好煩好想死 什麼都做不好 我沒有勇氣面對生活了我只能窩在這陰暗的房間裡等死 我好懦弱 好討厭活著 好希望自己沒有出生 去你的垃圾人生!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4262,
+          "following_count": 366,
+          "like_count": 75575,
+          "listed_count": 28,
+          "tweet_count": 8486
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

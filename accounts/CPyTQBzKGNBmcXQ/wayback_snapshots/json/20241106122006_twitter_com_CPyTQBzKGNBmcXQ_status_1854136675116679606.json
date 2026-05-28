@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1853933932087247196",
+    "created_at": "2024-11-06T12:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T13:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854136675116679606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1750917708470992896",
+          "start": 0,
+          "username": "ynhihyu129044"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854136675116679606",
+    "in_reply_to_user_id": "1750917708470992896",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853933932087247196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynhihyu129044 好好看💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1853933932087247196",
+        "created_at": "2024-11-06T12:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T13:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854136675116679606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1750917708470992896",
+              "start": 0,
+              "username": "ynhihyu129044"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854136675116679606",
+        "in_reply_to_user_id": "1750917708470992896",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853933932087247196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynhihyu129044 好好看💕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853933905432494080",
+            "3_1853933904857841664"
+          ]
+        },
+        "author_id": "1750917708470992896",
+        "conversation_id": "1853933932087247196",
+        "created_at": "2024-11-05T22:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T23:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853933932087247196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZaPIyxiSd",
+              "end": 28,
+              "expanded_url": "https://x.com/ynhihyu129044/status/1853933932087247196/photo/1",
+              "media_key": "3_1853933905432494080",
+              "start": 5,
+              "url": "https://t.co/LZaPIyxiSd"
+            },
+            {
+              "display_url": "pic.x.com/LZaPIyxiSd",
+              "end": 28,
+              "expanded_url": "https://x.com/ynhihyu129044/status/1853933932087247196/photo/1",
+              "media_key": "3_1853933904857841664",
+              "start": 5,
+              "url": "https://t.co/LZaPIyxiSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853933932087247196",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1126,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "推友先看 https://t.co/LZaPIyxiSd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4727,
+          "following_count": 365,
+          "like_count": 78532,
+          "listed_count": 29,
+          "tweet_count": 8816
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T16:25:39.000Z",
+        "description": "",
+        "id": "1750917708470992896",
+        "location": "冰箱",
+        "name": "陶瓷玻璃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844331509144240128/d2hrf-M6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 285,
+          "like_count": 15960,
+          "listed_count": 1,
+          "tweet_count": 2597
+        },
+        "username": "ynhihyu129044",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027480048949989378"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "conversation_id": "2027480055816065441",
+    "created_at": "2026-02-27T20:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T21:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027480055816065441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ri9gEf5nGw",
+          "end": 26,
+          "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2027480055816065441/photo/1",
+          "media_key": "3_2027480048949989378",
+          "start": 3,
+          "url": "https://t.co/ri9gEf5nGw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027480055816065441",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "停電 https://t.co/ri9gEf5nGw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027480048949989378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCMOXMrbEAI60Bu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027480048949989378"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "conversation_id": "2027480055816065441",
+        "created_at": "2026-02-27T20:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T21:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027480055816065441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ri9gEf5nGw",
+              "end": 26,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2027480055816065441/photo/1",
+              "media_key": "3_2027480048949989378",
+              "start": 3,
+              "url": "https://t.co/ri9gEf5nGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027480055816065441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "停電 https://t.co/ri9gEf5nGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5869,
+          "following_count": 321,
+          "like_count": 87696,
+          "listed_count": 15,
+          "media_count": 478,
+          "tweet_count": 9933
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1792867940527980799",
+    "created_at": "2024-05-21T13:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T14:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792916104299323437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690948132979515392",
+          "start": 0,
+          "username": "ahixnming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792916104299323437",
+    "in_reply_to_user_id": "1690948132979515392",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792867940527980799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahixnming 好好看呀!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1792867940527980799",
+        "created_at": "2024-05-21T13:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T14:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792916104299323437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690948132979515392",
+              "start": 0,
+              "username": "ahixnming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792916104299323437",
+        "in_reply_to_user_id": "1690948132979515392",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792867940527980799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahixnming 好好看呀!"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792867935083757568",
+            "3_1792867935071141888"
+          ]
+        },
+        "author_id": "1690948132979515392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1792867940527980799",
+        "created_at": "2024-05-21T10:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T11:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792867940527980799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kQ7Cvjt6yR",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ahixnming/status/1792867940527980799/photo/1",
+              "media_key": "3_1792867935083757568",
+              "start": 22,
+              "url": "https://t.co/kQ7Cvjt6yR"
+            },
+            {
+              "display_url": "pic.twitter.com/kQ7Cvjt6yR",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ahixnming/status/1792867940527980799/photo/1",
+              "media_key": "3_1792867935071141888",
+              "start": 22,
+              "url": "https://t.co/kQ7Cvjt6yR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792867940527980799",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ᓚ₍ ^. .^₎  ᶻ 𝗓 𐰁ᶻ 𝗓 𐰁 https://t.co/kQ7Cvjt6yR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3751,
+          "following_count": 383,
+          "like_count": 68138,
+          "listed_count": 30,
+          "tweet_count": 7921
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T04:47:13.000Z",
+        "description": "",
+        "id": "1690948132979515392",
+        "location": "病",
+        "name": "阿明",
+        "pinned_tweet_id": "1767218513733943520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728855488778186752/40OUVGRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1612,
+          "following_count": 507,
+          "like_count": 19120,
+          "listed_count": 1,
+          "tweet_count": 15312
+        },
+        "username": "ahixnming",
+        "verified": false
+      }
+    ]
+  }
+}

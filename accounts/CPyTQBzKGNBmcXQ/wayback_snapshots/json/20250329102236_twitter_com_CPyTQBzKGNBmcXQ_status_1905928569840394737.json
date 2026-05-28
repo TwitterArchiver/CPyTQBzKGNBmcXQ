@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1905238333237915648"
+      ],
+      "media_source_tweet_id": [
+        "1905238339839828219"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1905928569840394737",
+    "created_at": "2025-03-29T10:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T11:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905928569840394737"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "あめちゃん",
+          "probability": 0.6823,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751225222920081408",
+          "start": 3,
+          "username": "dousuka_v"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/85YJZloImT",
+          "end": 58,
+          "expanded_url": "https://x.com/dousuka_v/status/1905238339839828219/photo/1",
+          "media_key": "3_1905238333237915648",
+          "start": 35,
+          "url": "https://t.co/85YJZloImT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905928569840394737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1988
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905238339839828219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @dousuka_v: あめちゃん1P漫画\n⚠️リスカ描写注意 https://t.co/85YJZloImT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1905238333237915648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnDEK3EacAAF97m.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905238333237915648"
+          ],
+          "media_source_tweet_id": [
+            "1905238339839828219"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1905928569840394737",
+        "created_at": "2025-03-29T10:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T11:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905928569840394737"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "あめちゃん",
+              "probability": 0.6823,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751225222920081408",
+              "start": 3,
+              "username": "dousuka_v"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/85YJZloImT",
+              "end": 58,
+              "expanded_url": "https://x.com/dousuka_v/status/1905238339839828219/photo/1",
+              "media_key": "3_1905238333237915648",
+              "start": 35,
+              "url": "https://t.co/85YJZloImT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905928569840394737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1988
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905238339839828219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @dousuka_v: あめちゃん1P漫画\n⚠️リスカ描写注意 https://t.co/85YJZloImT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905238333237915648"
+          ]
+        },
+        "author_id": "1751225222920081408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1905238339839828219",
+        "created_at": "2025-03-27T12:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T13:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905238339839828219"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "あめちゃん",
+              "probability": 0.6699,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/85YJZloImT",
+              "end": 43,
+              "expanded_url": "https://x.com/dousuka_v/status/1905238339839828219/photo/1",
+              "media_key": "3_1905238333237915648",
+              "start": 20,
+              "url": "https://t.co/85YJZloImT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905238339839828219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1686,
+          "impression_count": 347575,
+          "like_count": 21608,
+          "quote_count": 91,
+          "reply_count": 2,
+          "retweet_count": 1988
+        },
+        "reply_settings": "following",
+        "text": "あめちゃん1P漫画\n⚠️リスカ描写注意 https://t.co/85YJZloImT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5124,
+          "following_count": 356,
+          "like_count": 79921,
+          "listed_count": 13,
+          "media_count": 390,
+          "tweet_count": 9198
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T12:46:52.000Z",
+        "description": "1件作業中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@dousuka_v",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@dousuka_v",
+                "start": 0,
+                "url": "https://t.co/hQoPqt208N"
+              }
+            ]
+          }
+        },
+        "id": "1751225222920081408",
+        "name": "ﾈｺﾜ",
+        "pinned_tweet_id": "1887529236032069679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779695695311851520/4gZRIMAW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4153,
+          "following_count": 89,
+          "like_count": 1849,
+          "listed_count": 11,
+          "media_count": 27,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/hQoPqt208N",
+        "username": "dousuka_v",
+        "verified": false
+      }
+    ]
+  }
+}

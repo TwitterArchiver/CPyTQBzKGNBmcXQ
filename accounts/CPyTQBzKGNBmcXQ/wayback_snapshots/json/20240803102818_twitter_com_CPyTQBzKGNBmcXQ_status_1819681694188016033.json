@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1819680567140732928"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "conversation_id": "1819681694188016033",
+    "created_at": "2024-08-03T10:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T11:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1819681694188016033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1595394288119971840",
+          "start": 9,
+          "username": "dudu42700668xdd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Tog7UnzKEI",
+          "end": 113,
+          "expanded_url": "https://twitter.com/CPyTQBzKGNBmcXQ/status/1819681694188016033/photo/1",
+          "media_key": "3_1819680567140732928",
+          "start": 90,
+          "url": "https://t.co/Tog7UnzKEI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819681694188016033",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家快看!! 這是@dudu42700668xdd上色過後的圖!!還加了背景!!是不是超級棒!!!超喜歡ε٩(๑&gt; ₃ &lt;)۶з 不能只有我看到 所以也讓大家看看!! https://t.co/Tog7UnzKEI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1819680567140732928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUDN1bEa0AAo5aK.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819680567140732928"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "conversation_id": "1819681694188016033",
+        "created_at": "2024-08-03T10:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T11:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819681694188016033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1595394288119971840",
+              "start": 9,
+              "username": "dudu42700668xdd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Tog7UnzKEI",
+              "end": 113,
+              "expanded_url": "https://twitter.com/CPyTQBzKGNBmcXQ/status/1819681694188016033/photo/1",
+              "media_key": "3_1819680567140732928",
+              "start": 90,
+              "url": "https://t.co/Tog7UnzKEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819681694188016033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家快看!! 這是@dudu42700668xdd上色過後的圖!!還加了背景!!是不是超級棒!!!超喜歡ε٩(๑&gt; ₃ &lt;)۶з 不能只有我看到 所以也讓大家看看!! https://t.co/Tog7UnzKEI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4145,
+          "following_count": 374,
+          "like_count": 74350,
+          "listed_count": 30,
+          "tweet_count": 8374
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-23T12:30:50.000Z",
+        "description": "（╹◡╹）",
+        "id": "1595394288119971840",
+        "name": "Om",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743947952983506944/kYswprrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 49,
+          "like_count": 1345,
+          "listed_count": 1,
+          "tweet_count": 457
+        },
+        "username": "dudu42700668xdd",
+        "verified": false
+      }
+    ]
+  }
+}

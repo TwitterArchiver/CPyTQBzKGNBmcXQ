@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1790492191040930170",
+    "created_at": "2024-05-17T16:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-17T17:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791511213219942497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1551431055408009216",
+          "start": 0,
+          "username": "ruki9532"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791511213219942497",
+    "in_reply_to_user_id": "1551431055408009216",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791510694946615667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruki9532 收到!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1790492191040930170",
+        "created_at": "2024-05-17T16:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T17:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791511213219942497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1551431055408009216",
+              "start": 0,
+              "username": "ruki9532"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791511213219942497",
+        "in_reply_to_user_id": "1551431055408009216",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791510694946615667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruki9532 收到!!"
+      },
+      {
+        "attachments": {},
+        "author_id": "1551431055408009216",
+        "conversation_id": "1790492191040930170",
+        "created_at": "2024-05-17T16:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T17:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791510694946615667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791510694946615667",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791510609030488164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 我私你了宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3580,
+          "following_count": 383,
+          "like_count": 67681,
+          "listed_count": 30,
+          "tweet_count": 7868
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T04:56:19.000Z",
+        "description": "这里是77想和大家做朋友 互fo 可直接私聊我 06｜自残+od ｜内有血图慎入",
+        "id": "1551431055408009216",
+        "location": "天国",
+        "name": "ルキ",
+        "pinned_tweet_id": "1791291544802341213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585378322443165696/J-4oO7NF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 113,
+          "like_count": 1774,
+          "listed_count": 0,
+          "tweet_count": 720
+        },
+        "username": "ruki9532",
+        "verified": false
+      }
+    ]
+  }
+}

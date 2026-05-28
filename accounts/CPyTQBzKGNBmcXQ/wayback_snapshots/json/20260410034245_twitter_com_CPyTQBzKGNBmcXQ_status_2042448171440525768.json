@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2042446577395229142",
+    "created_at": "2026-04-10T03:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T04:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042448171440525768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1701591779999612928",
+          "start": 0,
+          "username": "yi30744"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042448171440525768",
+    "in_reply_to_user_id": "1135334607199490048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042448059096056314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi30744 白癡推特也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2042446577395229142",
+        "created_at": "2026-04-10T03:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042448171440525768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1701591779999612928",
+              "start": 0,
+              "username": "yi30744"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042448171440525768",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042448059096056314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi30744 白癡推特也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2042446577395229142",
+        "created_at": "2026-04-10T03:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T04:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042448059096056314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1701591779999612928",
+              "start": 0,
+              "username": "yi30744"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042448059096056314",
+        "in_reply_to_user_id": "1701591779999612928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042446577395229142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi30744 天啊…抱抱遺灰🫂那些喜歡亂檢舉的都死了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5786,
+          "following_count": 319,
+          "like_count": 88714,
+          "listed_count": 14,
+          "media_count": 483,
+          "tweet_count": 9966
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T13:41:20.000Z",
+        "description": "是的我3.0了，本垢 @bai347312",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "bai347312"
+              }
+            ]
+          }
+        },
+        "id": "1701591779999612928",
+        "name": "遺灰3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881286465386418176/H6IjUVyE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 334,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "yi30744",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1789529910580752784",
+    "created_at": "2024-05-12T05:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T06:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1789529910580752784"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1789529910580752784",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "痛苦痛苦痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1789529910580752784",
+        "created_at": "2024-05-12T05:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T06:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789529910580752784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789529910580752784",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "痛苦痛苦痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 最糟糕最沒用應該去死卻沒有勇氣去死的軟弱傢伙 注意⚠️會自殘(反正割不深 只會討拍拍)od(買不到精神狀況一直下降中)負能量(只會講一堆垃圾話)",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3558,
+          "following_count": 399,
+          "like_count": 66922,
+          "listed_count": 30,
+          "tweet_count": 7818
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

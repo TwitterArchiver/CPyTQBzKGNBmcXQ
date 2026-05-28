@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1825602804251279698",
+    "created_at": "2024-08-19T21:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T22:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825649821031837918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1575728033742192641",
+          "start": 0,
+          "username": "kokocat_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825649821031837918",
+    "in_reply_to_user_id": "1575728033742192641",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825602804251279698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokocat_9 抱抱99🐥🐥 想死的念頭是很難消失的 控制不了不是妳的錯哦！是讓妳感受到壓力 使想死的念頭充滿妳的腦中的那些人的錯！所以沒事的 想死也沒有關係哦！現在不用覺得自己一定要活下去什麼的！慢慢來就好 還有我想讓妳知道推特的大家都會在的！愛妳(*´˘`*)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1825602804251279698",
+        "created_at": "2024-08-19T21:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T22:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825649821031837918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1575728033742192641",
+              "start": 0,
+              "username": "kokocat_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825649821031837918",
+        "in_reply_to_user_id": "1575728033742192641",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825602804251279698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokocat_9 抱抱99🐥🐥 想死的念頭是很難消失的 控制不了不是妳的錯哦！是讓妳感受到壓力 使想死的念頭充滿妳的腦中的那些人的錯！所以沒事的 想死也沒有關係哦！現在不用覺得自己一定要活下去什麼的！慢慢來就好 還有我想讓妳知道推特的大家都會在的！愛妳(*´˘`*)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575728033742192641",
+        "conversation_id": "1825602804251279698",
+        "created_at": "2024-08-19T18:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T19:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825602804251279698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1825602804251279698",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想死。。。我脑子里除了嗑药就是紫砂。吞药进医院然后在厕所割腕被抓去洗胃缝针然后昏迷。我以为经历过一次这样的事会让我少一些轻生念头。但是好像没有。我更想死了。。。。。。控制不了自己的脑子。。。。。想死想死想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4250,
+          "following_count": 372,
+          "like_count": 75339,
+          "listed_count": 28,
+          "tweet_count": 8473
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T06:03:42.000Z",
+        "description": "可以叫我99  我有5只🐭 i have 5 pet rats ⚠️❗ sh🔪/od💊/ed/发疯/血bloody🩸防炸机@KBDYD555 ｜接推广｜互fo可私信 (pls dm for fb)｜🚪99 ｜购买优米 od交流群：https://t.co/1dTgPsWlph",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "KBDYD555"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/youmeishafen999",
+                "end": 138,
+                "expanded_url": "https://t.me/youmeishafen999",
+                "start": 115,
+                "url": "https://t.co/1dTgPsWlph"
+              }
+            ]
+          }
+        },
+        "id": "1575728033742192641",
+        "location": "聊无关话题先给钱",
+        "name": "不安定貓貓（推老鼠版）",
+        "pinned_tweet_id": "1792563252058263975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806116619065946113/vgyL40uI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14126,
+          "following_count": 376,
+          "like_count": 11755,
+          "listed_count": 12,
+          "tweet_count": 6377
+        },
+        "username": "kokocat_9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1839975672053416194",
+    "created_at": "2024-09-29T02:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-29T03:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840217920905064587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "858762296520200192",
+          "start": 0,
+          "username": "yulea0514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840217920905064587",
+    "in_reply_to_user_id": "858762296520200192",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839975672053416194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yulea0514 過去的回憶會像陰影一樣一直纏著我們沒辦法忘卻 雖然這回憶會一直刺痛著 不過沒事的我們可以創造一些美好的新回憶的!!抱抱妳🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1839975672053416194",
+        "created_at": "2024-09-29T02:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T03:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840217920905064587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "858762296520200192",
+              "start": 0,
+              "username": "yulea0514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840217920905064587",
+        "in_reply_to_user_id": "858762296520200192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839975672053416194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yulea0514 過去的回憶會像陰影一樣一直纏著我們沒辦法忘卻 雖然這回憶會一直刺痛著 不過沒事的我們可以創造一些美好的新回憶的!!抱抱妳🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "858762296520200192",
+        "conversation_id": "1839975672053416194",
+        "created_at": "2024-09-28T10:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T11:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839975672053416194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1839975672053416194",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想要記起來\n為什麼\n為什麼要這麼做\n我不知道啊\n我不想要啊\n為什麼停不下來\n為什麼要這樣對待我\n忘掉忘掉快忘掉\n我想活著\n拜託了\n可不可以忘掉\n為什麼\n其實你也只是成全我的一廂情願嗎\n都是我的錯覺嗎\n抱著我的溫度與呼吸\n都是虛假的嗎\n為什麼\n為什麼\n為什麼就不能是我\n想把腦袋砍掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4563,
+          "following_count": 371,
+          "like_count": 77907,
+          "listed_count": 29,
+          "tweet_count": 8650
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-30T19:17:41.000Z",
+        "description": "負面滿滿帳。",
+        "id": "858762296520200192",
+        "location": "Taichung City, Taiwan",
+        "name": "クロちゃん_月月_chrosis",
+        "pinned_tweet_id": "1829566238487626015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831465911624331266/-jYhaxiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 407,
+          "like_count": 8935,
+          "listed_count": 0,
+          "tweet_count": 2935
+        },
+        "username": "yulea0514",
+        "verified": false
+      }
+    ]
+  }
+}

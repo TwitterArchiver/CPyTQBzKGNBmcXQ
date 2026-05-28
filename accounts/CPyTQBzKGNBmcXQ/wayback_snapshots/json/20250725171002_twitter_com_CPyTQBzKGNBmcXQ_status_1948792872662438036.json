@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1948792872662438036",
+    "created_at": "2025-07-25T17:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T18:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948792872662438036"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1948792872662438036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我依舊會性別焦慮 卻又不知道該怎麼辦 我討厭這副身體覺得這副身體好骯髒 我不能接受自己是這副模樣 我想把全身都破壞掉 我雖然忌妒妳們每個都很可愛很好看 但同時也很喜歡妳們覺得妳們都超級棒的 我知道我就是過不去 無法接受這樣的自己 被這性別焦慮給刺痛著"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1948792872662438036",
+        "created_at": "2025-07-25T17:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T18:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948792872662438036"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948792872662438036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我依舊會性別焦慮 卻又不知道該怎麼辦 我討厭這副身體覺得這副身體好骯髒 我不能接受自己是這副模樣 我想把全身都破壞掉 我雖然忌妒妳們每個都很可愛很好看 但同時也很喜歡妳們覺得妳們都超級棒的 我知道我就是過不去 無法接受這樣的自己 被這性別焦慮給刺痛著"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5433,
+          "following_count": 324,
+          "like_count": 83692,
+          "listed_count": 12,
+          "media_count": 436,
+          "tweet_count": 9571
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

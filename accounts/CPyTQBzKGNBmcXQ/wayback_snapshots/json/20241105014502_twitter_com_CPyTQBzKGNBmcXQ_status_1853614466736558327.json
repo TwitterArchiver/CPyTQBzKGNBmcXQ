@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1853614465654374400"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "conversation_id": "1853614466736558327",
+    "created_at": "2024-11-05T01:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T02:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853614466736558327"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1853614466736558327",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的人生是屬於那種？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2024-11-12T01:45:01.000Z",
+        "id": "1853614465654374400",
+        "options": [
+          {
+            "label": "做出的每個決定都會改變人生",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "不管怎麼做都沒無法改變人生",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1853614465654374400"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "conversation_id": "1853614466736558327",
+        "created_at": "2024-11-05T01:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T02:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853614466736558327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853614466736558327",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的人生是屬於那種？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4725,
+          "following_count": 365,
+          "like_count": 78412,
+          "listed_count": 29,
+          "tweet_count": 8805
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

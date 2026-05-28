@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2013341455071252564",
+    "created_at": "2026-01-19T20:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T21:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013341455071252564"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013341455071252564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "低慾望會導致你開始思考一推無趣沒有意義的問題 存在意義 虛無主義 停不下思考 腦袋過載 想死 出生有什麼用 為什麼不能去死 人際斷線 人生死線 無趣 無望 無用 無邊無際 漫長人生 頹廢 無解 作為人毫無用處 出生即敗者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2013341455071252564",
+        "created_at": "2026-01-19T20:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T21:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013341455071252564"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013341455071252564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "低慾望會導致你開始思考一推無趣沒有意義的問題 存在意義 虛無主義 停不下思考 腦袋過載 想死 出生有什麼用 為什麼不能去死 人際斷線 人生死線 無趣 無望 無用 無邊無際 漫長人生 頹廢 無解 作為人毫無用處 出生即敗者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5822,
+          "following_count": 320,
+          "like_count": 86391,
+          "listed_count": 15,
+          "media_count": 472,
+          "tweet_count": 9894
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

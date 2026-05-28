@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1793673046441812449",
+    "created_at": "2024-05-23T18:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T19:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793717900592984405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2915511288",
+          "start": 0,
+          "username": "fantasy5304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793717900592984405",
+    "in_reply_to_user_id": "2915511288",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793681824650297854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fantasy5304 耶 !!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1793673046441812449",
+        "created_at": "2024-05-23T18:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T19:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793717900592984405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2915511288",
+              "start": 0,
+              "username": "fantasy5304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793717900592984405",
+        "in_reply_to_user_id": "2915511288",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793681824650297854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fantasy5304 耶 !!"
+      },
+      {
+        "attachments": {},
+        "author_id": "2915511288",
+        "conversation_id": "1793673046441812449",
+        "created_at": "2024-05-23T16:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T17:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793681824650297854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793681824650297854",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793673046441812449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 拍手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3810,
+          "following_count": 381,
+          "like_count": 68482,
+          "listed_count": 31,
+          "tweet_count": 7940
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-01T11:26:41.000Z",
+        "description": "綠主一枚 想被綠的王八 跟想自毀的母豬自己私訊\n想要發騷的也可以自己宣示自己的身體的使用權歸我\n喜歡NTR羞辱母豬、王八、跟廢物偽娘、夫妻奴",
+        "id": "2915511288",
+        "location": "你家",
+        "name": "wen^^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659350003213828096/VKEl_cqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 1975,
+          "like_count": 390,
+          "listed_count": 15,
+          "tweet_count": 4349
+        },
+        "username": "fantasy5304",
+        "verified": false
+      }
+    ]
+  }
+}

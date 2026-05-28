@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1863173832049303783",
+    "created_at": "2024-12-02T03:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T04:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863431497166057507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851524892002308096",
+          "start": 0,
+          "username": "1492505838A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863431497166057507",
+    "in_reply_to_user_id": "1851524892002308096",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863367944282988978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1492505838A (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1863173832049303783",
+        "created_at": "2024-12-02T03:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T04:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863431497166057507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851524892002308096",
+              "start": 0,
+              "username": "1492505838A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863431497166057507",
+        "in_reply_to_user_id": "1851524892002308096",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863367944282988978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1492505838A (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851524892002308096",
+        "conversation_id": "1863173832049303783",
+        "created_at": "2024-12-01T23:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T00:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863367944282988978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863367944282988978",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863173832049303783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 加油哇^_^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4803,
+          "following_count": 364,
+          "like_count": 78072,
+          "listed_count": 25,
+          "media_count": 368,
+          "tweet_count": 8856
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T07:22:00.000Z",
+        "description": "intp/休学/🇨🇳/09/重焦重抑其他不知道。/大家来和我交朋友^_^   想要这个糟透了的世界去死\n这里是小悦 由小今和小程两个个体组成\n会有碎碎念喔，可以把我当单方面树洞吐黑泥发血图什么的",
+        "id": "1851524892002308096",
+        "name": "小今小程超级差劲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862593857919025152/0bLRpcjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 60,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "username": "1492505838A",
+        "verified": false
+      }
+    ]
+  }
+}

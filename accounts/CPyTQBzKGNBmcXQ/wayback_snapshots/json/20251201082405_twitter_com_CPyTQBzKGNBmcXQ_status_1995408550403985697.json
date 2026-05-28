@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995408546989768704"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1995408550403985697",
+    "created_at": "2025-12-01T08:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T09:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995408550403985697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/54BS2vXNkm",
+          "end": 23,
+          "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/1995408550403985697/photo/1",
+          "media_key": "3_1995408546989768704",
+          "start": 0,
+          "url": "https://t.co/54BS2vXNkm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995408550403985697",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/54BS2vXNkm"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "傷口 血 紅貝印",
+        "height": 2048,
+        "media_key": "3_1995408546989768704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EdgFkagAAETug.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995408546989768704"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1995408550403985697",
+        "created_at": "2025-12-01T08:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995408550403985697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/54BS2vXNkm",
+              "end": 23,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/1995408550403985697/photo/1",
+              "media_key": "3_1995408546989768704",
+              "start": 0,
+              "url": "https://t.co/54BS2vXNkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995408550403985697",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/54BS2vXNkm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "我想擊破這身軀 讓靈魂回歸虛無",
+        "id": "1135334607199490048",
+        "location": "終點站現實 已無法逃脫",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5799,
+          "following_count": 323,
+          "like_count": 86244,
+          "listed_count": 15,
+          "media_count": 465,
+          "tweet_count": 9836
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

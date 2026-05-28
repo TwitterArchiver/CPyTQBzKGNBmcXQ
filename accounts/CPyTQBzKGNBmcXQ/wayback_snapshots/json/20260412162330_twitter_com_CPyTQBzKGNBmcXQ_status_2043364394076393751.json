@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2043035040427433998",
+    "created_at": "2026-04-12T16:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043364394076393751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546162160111321088",
+          "start": 0,
+          "username": "17748_777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043364394076393751",
+    "in_reply_to_user_id": "1546162160111321088",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043322337504940528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17748_777 (*´˘`*)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2043035040427433998",
+        "created_at": "2026-04-12T16:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043364394076393751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546162160111321088",
+              "start": 0,
+              "username": "17748_777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043364394076393751",
+        "in_reply_to_user_id": "1546162160111321088",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043322337504940528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17748_777 (*´˘`*)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546162160111321088",
+        "conversation_id": "2043035040427433998",
+        "created_at": "2026-04-12T13:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043322337504940528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043322337504940528",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043035040427433998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 美丽。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5771,
+          "following_count": 318,
+          "like_count": 88840,
+          "listed_count": 14,
+          "media_count": 484,
+          "tweet_count": 9974
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T15:59:30.000Z",
+        "description": "我不再自残了。主页往期推文不会删，现在大概发的都是些恢复。女孩子互fo大欢迎",
+        "id": "1546162160111321088",
+        "name": "182",
+        "pinned_tweet_id": "1772350061399138646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679811687053152256/kgGNSBTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 495,
+          "like_count": 12976,
+          "listed_count": 5,
+          "media_count": 385,
+          "tweet_count": 1061
+        },
+        "username": "17748_777",
+        "verified": false
+      }
+    ]
+  }
+}

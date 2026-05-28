@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1877766614244098346",
+    "created_at": "2025-01-11T13:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T14:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878075190191816959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1750917708470992896",
+          "start": 0,
+          "username": "ynhihyu129044"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878075190191816959",
+    "in_reply_to_user_id": "1750917708470992896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877766614244098346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynhihyu129044 抱抱妳🐥🐥 就算他覺得這樣很幸福 但其他人也不一定會對此感到幸福 每個人都有屬於自己的幸福 他人的痛苦 他人的幸福 都不該用來比較 這些都是獨屬於自己的感受 其他人不應該隨便說說"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1877766614244098346].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1877766614244098346",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1877766614244098346"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1877766614244098346",
+        "created_at": "2025-01-11T13:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T14:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878075190191816959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1750917708470992896",
+              "start": 0,
+              "username": "ynhihyu129044"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878075190191816959",
+        "in_reply_to_user_id": "1750917708470992896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877766614244098346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynhihyu129044 抱抱妳🐥🐥 就算他覺得這樣很幸福 但其他人也不一定會對此感到幸福 每個人都有屬於自己的幸福 他人的痛苦 他人的幸福 都不該用來比較 這些都是獨屬於自己的感受 其他人不應該隨便說說"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4958,
+          "following_count": 360,
+          "like_count": 78702,
+          "listed_count": 21,
+          "media_count": 376,
+          "tweet_count": 8965
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T16:25:39.000Z",
+        "description": "",
+        "id": "1750917708470992896",
+        "location": "地獄",
+        "name": "玻璃醬",
+        "pinned_tweet_id": "1871893388670521482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844331509144240128/d2hrf-M6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 309,
+          "like_count": 16487,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 2903
+        },
+        "username": "ynhihyu129044",
+        "verified": false
+      }
+    ]
+  }
+}

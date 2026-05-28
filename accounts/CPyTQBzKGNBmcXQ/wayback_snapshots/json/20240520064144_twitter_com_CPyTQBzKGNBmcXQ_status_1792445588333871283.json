@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1792440702380716190",
+    "created_at": "2024-05-20T06:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T07:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792445588333871283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546162160111321088",
+          "start": 0,
+          "username": "qxl77777_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792445588333871283",
+    "in_reply_to_user_id": "1546162160111321088",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792445183185047844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qxl77777_ 啊啊謝謝妳(´▽`ʃ♡ƪ)\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1792440702380716190",
+        "created_at": "2024-05-20T06:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T07:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792445588333871283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546162160111321088",
+              "start": 0,
+              "username": "qxl77777_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792445588333871283",
+        "in_reply_to_user_id": "1546162160111321088",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792445183185047844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qxl77777_ 啊啊謝謝妳(´▽`ʃ♡ƪ)\""
+      },
+      {
+        "attachments": {},
+        "author_id": "1546162160111321088",
+        "conversation_id": "1792440702380716190",
+        "created_at": "2024-05-20T06:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T07:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792445183185047844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792445183185047844",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792440702380716190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 好漂亮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 想和大家做朋友 注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3582,
+          "following_count": 384,
+          "like_count": 67917,
+          "listed_count": 30,
+          "tweet_count": 7901
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T15:59:30.000Z",
+        "description": "我是青轩怜 我有精神病 我会自残 男的别关注我 女孩子互fo大欢迎",
+        "id": "1546162160111321088",
+        "name": "过了今天就去死",
+        "pinned_tweet_id": "1772350061399138646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679811687053152256/kgGNSBTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 320,
+          "like_count": 7061,
+          "listed_count": 2,
+          "tweet_count": 868
+        },
+        "username": "qxl77777_",
+        "verified": false
+      }
+    ]
+  }
+}

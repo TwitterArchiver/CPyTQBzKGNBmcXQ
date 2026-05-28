@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1787378203545514129",
+    "created_at": "2024-05-06T10:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-06T11:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1787430162327576641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1537745714582679553",
+          "start": 0,
+          "username": "rochelimit0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1787430162327576641",
+    "in_reply_to_user_id": "1537745714582679553",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1787378203545514129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rochelimit0000 妳也超棒的!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1787378203545514129",
+        "created_at": "2024-05-06T10:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-06T11:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1787430162327576641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1537745714582679553",
+              "start": 0,
+              "username": "rochelimit0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1787430162327576641",
+        "in_reply_to_user_id": "1537745714582679553",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787378203545514129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rochelimit0000 妳也超棒的!!"
+      },
+      {
+        "attachments": {},
+        "author_id": "1537745714582679553",
+        "conversation_id": "1787378203545514129",
+        "created_at": "2024-05-06T07:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-06T08:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1787378203545514129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1787378203545514129",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真正的長大就是即使知道活著就是會一直遇到不如意的事每天還是堅持起床\n你們都很棒 多稱讚自己一點吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "這裡是小雪 最糟糕最沒用應該去死卻沒有勇氣去死的軟弱傢伙 注意⚠️會自殘(反正割不深 只會討拍拍)od(買不到精神狀況一直下降中)負能量(只會講一堆垃圾話)",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784548508793700352/tQXn_gvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3495,
+          "following_count": 397,
+          "like_count": 66530,
+          "listed_count": 30,
+          "tweet_count": 7781
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T10:35:41.000Z",
+        "description": "洛希（ロシー)です｜メンヘラ｜中文+ENG+ボロボロ日本語｜女の子とBL好き",
+        "id": "1537745714582679553",
+        "location": "🤍",
+        "name": "ℜ＊",
+        "pinned_tweet_id": "1663569925368352769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783306854040526848/FIq0TKHc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 211,
+          "like_count": 6383,
+          "listed_count": 1,
+          "tweet_count": 1885
+        },
+        "username": "rochelimit0000",
+        "verified": false
+      }
+    ]
+  }
+}

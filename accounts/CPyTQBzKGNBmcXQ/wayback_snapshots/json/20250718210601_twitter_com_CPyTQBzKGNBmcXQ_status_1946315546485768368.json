@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1946313629231358426",
+    "created_at": "2025-07-18T21:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T22:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946315546485768368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1868137447638593536",
+          "start": 0,
+          "username": "kylekurwicki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946315546485768368",
+    "in_reply_to_user_id": "1868137447638593536",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946314491970359691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kylekurwicki The wound will heal, but it will leave a scar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1946313629231358426",
+        "created_at": "2025-07-18T21:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T22:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946315546485768368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1868137447638593536",
+              "start": 0,
+              "username": "kylekurwicki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946315546485768368",
+        "in_reply_to_user_id": "1868137447638593536",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946314491970359691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kylekurwicki The wound will heal, but it will leave a scar"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868137447638593536",
+        "conversation_id": "1946313629231358426",
+        "created_at": "2025-07-18T21:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T22:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946314491970359691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946314491970359691",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946313629231358426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ Will your arm ever heal fully or are you scarred for life?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5284,
+          "following_count": 322,
+          "like_count": 83178,
+          "listed_count": 12,
+          "media_count": 435,
+          "tweet_count": 9531
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T03:34:20.000Z",
+        "description": "I'm 19 and go to college",
+        "id": "1868137447638593536",
+        "location": "Nashville, IL",
+        "name": "healingsoul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869978133845131264/L8N2gnmv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 229,
+          "like_count": 3506,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 118
+        },
+        "username": "kylekurwicki",
+        "verified": false
+      }
+    ]
+  }
+}

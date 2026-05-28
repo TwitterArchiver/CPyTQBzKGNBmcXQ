@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1971337960143650891",
+    "created_at": "2025-09-25T22:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T23:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971337960143650891"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1971337960143650891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吞下社會所餵食的壓力 忍住不吐出\n聆聽他人刺耳的冷嘲熱諷 忍住不摀耳\n接受世界冰冷寂寞的孤獨 忍住不發抖\n看向黑白空虛的世界 忍住不閉眼\n充滿熱情的分享慾 忍住別傳達\n接受自己的處境 忍住別反抗\n豐富的腦內思維 忍住別表達\n表達自我的言論 忍住別發表\n美好的夢境 忍住別碰觸\n毒甜的愛 忍住別回憶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1971337960143650891",
+        "created_at": "2025-09-25T22:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T23:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971337960143650891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971337960143650891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吞下社會所餵食的壓力 忍住不吐出\n聆聽他人刺耳的冷嘲熱諷 忍住不摀耳\n接受世界冰冷寂寞的孤獨 忍住不發抖\n看向黑白空虛的世界 忍住不閉眼\n充滿熱情的分享慾 忍住別傳達\n接受自己的處境 忍住別反抗\n豐富的腦內思維 忍住別表達\n表達自我的言論 忍住別發表\n美好的夢境 忍住別碰觸\n毒甜的愛 忍住別回憶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5501,
+          "following_count": 326,
+          "like_count": 83858,
+          "listed_count": 13,
+          "media_count": 450,
+          "tweet_count": 9710
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

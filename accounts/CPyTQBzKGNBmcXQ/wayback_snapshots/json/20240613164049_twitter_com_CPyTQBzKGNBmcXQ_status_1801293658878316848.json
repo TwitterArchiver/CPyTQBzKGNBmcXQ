@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1801252458129465571",
+    "created_at": "2024-06-13T16:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T17:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801293658878316848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510877468806332416",
+          "start": 0,
+          "username": "Shaw062111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801293658878316848",
+    "in_reply_to_user_id": "1510877468806332416",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801252458129465571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shaw062111 好萌❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1801252458129465571",
+        "created_at": "2024-06-13T16:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T17:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801293658878316848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510877468806332416",
+              "start": 0,
+              "username": "Shaw062111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801293658878316848",
+        "in_reply_to_user_id": "1510877468806332416",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801252458129465571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shaw062111 好萌❤️"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1801252412340269057"
+          ]
+        },
+        "author_id": "1510877468806332416",
+        "conversation_id": "1801252458129465571",
+        "created_at": "2024-06-13T13:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T14:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801252458129465571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zcSwzKEr2b",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Shaw062111/status/1801252458129465571/video/1",
+              "media_key": "7_1801252412340269057",
+              "start": 14,
+              "url": "https://t.co/zcSwzKEr2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801252458129465571",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小姐姐是不是觉得自己萌萌嘟 https://t.co/zcSwzKEr2b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3921,
+          "following_count": 383,
+          "like_count": 71176,
+          "listed_count": 30,
+          "tweet_count": 8070
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-04T07:10:49.000Z",
+        "description": "已死勿念",
+        "id": "1510877468806332416",
+        "location": "R.I.P",
+        "name": "我是一具屍體",
+        "pinned_tweet_id": "1783291075651878925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615650056643936257/uzlO9MEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5282,
+          "following_count": 374,
+          "like_count": 2169,
+          "listed_count": 8,
+          "tweet_count": 2591
+        },
+        "username": "Shaw062111",
+        "verified": false
+      }
+    ]
+  }
+}

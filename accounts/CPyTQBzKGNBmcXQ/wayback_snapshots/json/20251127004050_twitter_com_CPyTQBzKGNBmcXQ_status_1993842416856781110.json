@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1993755590603227383",
+    "created_at": "2025-11-27T00:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T01:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993842416856781110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1892216240313368576",
+          "start": 0,
+          "username": "Siori_210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993842416856781110",
+    "in_reply_to_user_id": "1892216240313368576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993755590603227383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Siori_210 捅死他🔪人渣就是該死\n要小心啊 只要對方還是陌生人都不可信…不管對方說的多好聽都不能相信 除非對方有先幫妳了 不然就只是會嘴上說說不作為的垃圾罷了！遭遇這些真的辛苦了 希望這不友善的世界 能給妳一點溫暖……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993755585406554113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6s-JD0b0AE34KM.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1993755590603227383",
+        "created_at": "2025-11-27T00:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T01:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993842416856781110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1892216240313368576",
+              "start": 0,
+              "username": "Siori_210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993842416856781110",
+        "in_reply_to_user_id": "1892216240313368576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993755590603227383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siori_210 捅死他🔪人渣就是該死\n要小心啊 只要對方還是陌生人都不可信…不管對方說的多好聽都不能相信 除非對方有先幫妳了 不然就只是會嘴上說說不作為的垃圾罷了！遭遇這些真的辛苦了 希望這不友善的世界 能給妳一點溫暖……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993755585406554113"
+          ]
+        },
+        "author_id": "1892216240313368576",
+        "conversation_id": "1993755590603227383",
+        "created_at": "2025-11-26T18:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993755590603227383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JKAoRugLbk",
+              "end": 32,
+              "expanded_url": "https://x.com/Siori_210/status/1993755590603227383/photo/1",
+              "media_key": "3_1993755585406554113",
+              "start": 9,
+              "url": "https://t.co/JKAoRugLbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993755590603227383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5298,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虚伪的人，好恶心 https://t.co/JKAoRugLbk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "我想擊破這身軀 讓靈魂回歸虛無",
+        "id": "1135334607199490048",
+        "location": "終點站現實 已無法逃脫",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5803,
+          "following_count": 323,
+          "like_count": 86220,
+          "listed_count": 15,
+          "media_count": 462,
+          "tweet_count": 9829
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T14:14:57.000Z",
+        "description": "我從打心底覺得要是我沒有出生就好了",
+        "id": "1892216240313368576",
+        "name": "Siori",
+        "pinned_tweet_id": "1927870116047237270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933166824457478144/EF5KExi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6377,
+          "following_count": 285,
+          "like_count": 688,
+          "listed_count": 7,
+          "media_count": 196,
+          "tweet_count": 376
+        },
+        "username": "Siori_210",
+        "verified": false
+      }
+    ]
+  }
+}

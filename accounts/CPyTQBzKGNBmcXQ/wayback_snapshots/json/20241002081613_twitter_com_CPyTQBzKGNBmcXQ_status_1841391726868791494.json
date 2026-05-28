@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1841314173965480126",
+    "created_at": "2024-10-02T08:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T09:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841391726868791494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1647320226432798722",
+          "start": 0,
+          "username": "Siori_417"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841391726868791494",
+    "in_reply_to_user_id": "1647320226432798722",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841314173965480126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Siori_417 嗚嗚妳還好嗎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1841314173965480126",
+        "created_at": "2024-10-02T08:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T09:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841391726868791494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1647320226432798722",
+              "start": 0,
+              "username": "Siori_417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841391726868791494",
+        "in_reply_to_user_id": "1647320226432798722",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841314173965480126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siori_417 嗚嗚妳還好嗎…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841314164675072000"
+          ]
+        },
+        "author_id": "1647320226432798722",
+        "conversation_id": "1841314173965480126",
+        "created_at": "2024-10-02T03:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T04:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841314173965480126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFhInLTZrn",
+              "end": 23,
+              "expanded_url": "https://x.com/Siori_417/status/1841314173965480126/photo/1",
+              "media_key": "3_1841314164675072000",
+              "start": 0,
+              "url": "https://t.co/BFhInLTZrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841314173965480126",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 9688,
+          "like_count": 411,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BFhInLTZrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢以戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4588,
+          "following_count": 371,
+          "like_count": 77984,
+          "listed_count": 28,
+          "tweet_count": 8668
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T19:25:31.000Z",
+        "description": "购买药物联系@youmeishafen99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "youmeishafen99"
+              }
+            ]
+          }
+        },
+        "id": "1647320226432798722",
+        "name": "Siori",
+        "pinned_tweet_id": "1781934552828842288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832855247846547456/HGQzesHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10041,
+          "following_count": 212,
+          "like_count": 5815,
+          "listed_count": 14,
+          "tweet_count": 882
+        },
+        "username": "Siori_417",
+        "verified": false
+      }
+    ]
+  }
+}

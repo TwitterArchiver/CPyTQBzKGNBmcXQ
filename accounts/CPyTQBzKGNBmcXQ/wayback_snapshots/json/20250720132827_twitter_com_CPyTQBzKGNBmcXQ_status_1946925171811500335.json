@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1946886458788446410",
+    "created_at": "2025-07-20T13:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T14:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946925171811500335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1633466645078511619",
+          "start": 0,
+          "username": "moechu_xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946925171811500335",
+    "in_reply_to_user_id": "1633466645078511619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946886458788446410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moechu_xx 沒有這回事的！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1946886458788446410].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1946886458788446410",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1946886458788446410"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1946886458788446410",
+        "created_at": "2025-07-20T13:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T14:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946925171811500335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1633466645078511619",
+              "start": 0,
+              "username": "moechu_xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946925171811500335",
+        "in_reply_to_user_id": "1633466645078511619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946886458788446410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moechu_xx 沒有這回事的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5397,
+          "following_count": 323,
+          "like_count": 83287,
+          "listed_count": 12,
+          "media_count": 435,
+          "tweet_count": 9547
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-08T13:56:31.000Z",
+        "description": "天天罵街被我創到的抱歉！",
+        "id": "1633466645078511619",
+        "location": "キミの後ろ",
+        "name": "砂糖ちゅ",
+        "pinned_tweet_id": "1944779434818732209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943270523749961731/bVyAWaFC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 467,
+          "like_count": 15654,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 4499
+        },
+        "username": "moechu_xx",
+        "verified": false
+      }
+    ]
+  }
+}

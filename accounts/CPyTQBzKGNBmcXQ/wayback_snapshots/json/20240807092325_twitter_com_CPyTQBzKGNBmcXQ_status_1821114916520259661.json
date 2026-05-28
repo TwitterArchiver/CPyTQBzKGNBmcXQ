@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1821067067854102755",
+    "created_at": "2024-08-07T09:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T10:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821114916520259661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1633466645078511619",
+          "start": 0,
+          "username": "usagi0704naha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821114916520259661",
+    "in_reply_to_user_id": "1633466645078511619",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821067067854102755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@usagi0704naha 好可愛💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1821067067854102755",
+        "created_at": "2024-08-07T09:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T10:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821114916520259661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1633466645078511619",
+              "start": 0,
+              "username": "usagi0704naha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821114916520259661",
+        "in_reply_to_user_id": "1633466645078511619",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821067067854102755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@usagi0704naha 好可愛💕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821067059301859328"
+          ]
+        },
+        "author_id": "1633466645078511619",
+        "conversation_id": "1821067067854102755",
+        "created_at": "2024-08-07T06:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T07:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821067067854102755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/MsRgjmzLtt",
+              "end": 42,
+              "expanded_url": "https://twitter.com/usagi0704naha/status/1821067067854102755/photo/1",
+              "media_key": "3_1821067059301859328",
+              "start": 19,
+              "url": "https://t.co/MsRgjmzLtt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821067067854102755",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 148,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "求不被視姦不被背叛不被內鬼教程🤣👌🏻 https://t.co/MsRgjmzLtt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4154,
+          "following_count": 373,
+          "like_count": 74565,
+          "listed_count": 30,
+          "tweet_count": 8411
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-08T13:56:31.000Z",
+        "description": "|台灣|0 9|自殘|躁鬱|憂鬱|od|藥物治療中|INFP|請跟我互fo、、、",
+        "id": "1633466645078511619",
+        "location": "屬於我們的秘密基地♡",
+        "name": "小兔2.0（沒希望版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819609559042084868/CGD4W42x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 301,
+          "like_count": 5672,
+          "listed_count": 0,
+          "tweet_count": 1435
+        },
+        "username": "usagi0704naha",
+        "verified": false
+      }
+    ]
+  }
+}

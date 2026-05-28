@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2024845469697110070",
+    "created_at": "2026-02-27T03:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T04:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027219419718623312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945771975332569088",
+          "start": 0,
+          "username": "sjlxSJLX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027219419718623312",
+    "in_reply_to_user_id": "1945771975332569088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027189429618778158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjlxSJLX 欸欸有台配！？之後去聽聽看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027189424216559616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIGCnLbUAAwt2H.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2024845469697110070",
+        "created_at": "2026-02-27T03:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027219419718623312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945771975332569088",
+              "start": 0,
+              "username": "sjlxSJLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027219419718623312",
+        "in_reply_to_user_id": "1945771975332569088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027189429618778158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjlxSJLX 欸欸有台配！？之後去聽聽看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027189424216559616"
+          ]
+        },
+        "author_id": "1945771975332569088",
+        "conversation_id": "2024845469697110070",
+        "created_at": "2026-02-27T01:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027189429618778158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9UF1Skdb7S",
+              "end": 50,
+              "expanded_url": "https://x.com/sjlxSJLX/status/2027189429618778158/photo/1",
+              "media_key": "3_2027189424216559616",
+              "start": 27,
+              "url": "https://t.co/9UF1Skdb7S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027189429618778158",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024845469697110070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 台配的這個好棒！！ https://t.co/9UF1Skdb7S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "",
+        "id": "1135334607199490048",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5867,
+          "following_count": 321,
+          "like_count": 87638,
+          "listed_count": 15,
+          "media_count": 477,
+          "tweet_count": 9932
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T09:06:15.000Z",
+        "description": "06年老人hh｜正在努力学习！ *扩列ing～ QQ：3947050185 （老人家很需要人陪聊的啊hhhhh），欢迎交友～* 爱你们哦🥰 **需要人一起聊天，聊天会随机爆金币哦**",
+        "id": "1945771975332569088",
+        "location": "Sendai-shi Izumi-ku, Miyagi",
+        "name": "楓暖音織🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2024842050496254027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019503311930699776/nx3KM9oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 117,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 75
+        },
+        "username": "sjlxSJLX",
+        "verified": true
+      }
+    ]
+  }
+}

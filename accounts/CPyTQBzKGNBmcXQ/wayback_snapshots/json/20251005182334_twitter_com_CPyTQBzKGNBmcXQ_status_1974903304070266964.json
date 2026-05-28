@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1974703878307532907",
+    "created_at": "2025-10-05T18:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T19:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974903304070266964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1535631481313251328",
+          "start": 0,
+          "username": "sev_cloud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974903304070266964",
+    "in_reply_to_user_id": "1535631481313251328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974703878307532907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sev_cloud 好好看💕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1974703875757330432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2eOtmsaUAAUM_Z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1974703878307532907",
+        "created_at": "2025-10-05T18:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T19:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974903304070266964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1535631481313251328",
+              "start": 0,
+              "username": "sev_cloud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974903304070266964",
+        "in_reply_to_user_id": "1535631481313251328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974703878307532907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sev_cloud 好好看💕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974703875757330432"
+          ]
+        },
+        "author_id": "1535631481313251328",
+        "conversation_id": "1974703878307532907",
+        "created_at": "2025-10-05T05:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T06:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974703878307532907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xL5VG5mArs",
+              "end": 30,
+              "expanded_url": "https://x.com/sev_cloud/status/1974703878307532907/photo/1",
+              "media_key": "3_1974703875757330432",
+              "start": 7,
+              "url": "https://t.co/xL5VG5mArs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974703878307532907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "縁巌🐰☀️🌙 https://t.co/xL5VG5mArs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954155955433934849/Lx0j0JAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5502,
+          "following_count": 327,
+          "like_count": 84256,
+          "listed_count": 13,
+          "media_count": 451,
+          "tweet_count": 9728
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T14:34:20.000Z",
+        "description": "你好!这里七云/冬雾/西兰花\n\n女/06/INFP/aph/精神障碍/oc人/鬼灭/chiikawa/FNAF\n我是黑死牟友情向梦女，但是拒同嫁！\n\n我的兔兔叫缘一和严胜，我很爱他们\n\n自残od注意\n\n好小鸟：@DPAXqpHOnD70962\n\n宝宝：@Akiscara_3405\n\n🌙梦向：@sevcloud1215",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 105,
+                "username": "DPAXqpHOnD70962"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Akiscara_3405"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "sevcloud1215"
+              }
+            ]
+          }
+        },
+        "id": "1535631481313251328",
+        "location": "鬼杀队月柱宅邸",
+        "name": "SevCloud",
+        "pinned_tweet_id": "1929940246436659698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967236192937926656/Sqns1Ur-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 888,
+          "like_count": 12651,
+          "listed_count": 5,
+          "media_count": 530,
+          "tweet_count": 3803
+        },
+        "username": "sev_cloud",
+        "verified": false
+      }
+    ]
+  }
+}

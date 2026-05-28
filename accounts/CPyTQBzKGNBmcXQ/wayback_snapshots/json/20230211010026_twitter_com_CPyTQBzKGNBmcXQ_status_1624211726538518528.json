@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1624044326937583616",
+    "created_at": "2023-02-11T01:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2023-02-11T01:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1624211726538518528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1465358432769560576",
+          "start": 0,
+          "username": "haiyan_626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1624211726538518528",
+    "in_reply_to_user_id": "1465358432769560576",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1624044326937583616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haiyan_626 如果傾訴會讓妳心情會變好，只要妳不介意的話，我願意聽妳傾訴！妳不是一個人！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1624044326937583616",
+        "created_at": "2023-02-11T01:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-11T01:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1624211726538518528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1465358432769560576",
+              "start": 0,
+              "username": "haiyan_626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1624211726538518528",
+        "in_reply_to_user_id": "1465358432769560576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1624044326937583616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haiyan_626 如果傾訴會讓妳心情會變好，只要妳不介意的話，我願意聽妳傾訴！妳不是一個人！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1465358432769560576",
+        "conversation_id": "1624044326937583616",
+        "created_at": "2023-02-10T13:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-10T14:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1624044326937583616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1624044326937583616",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 924,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不会找人倾诉了，因为很麻烦别人，而且影响别人心情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "垃圾男 該死一死",
+        "id": "1135334607199490048",
+        "location": "Taiwan",
+        "name": "紅雪",
+        "pinned_tweet_id": "1607300618007511041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606690321257332737/3VEE987f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 377,
+          "listed_count": 15,
+          "tweet_count": 2598
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-29T16:34:29.000Z",
+        "description": "社會上帝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/6kksin/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/6kksin/",
+                "start": 0,
+                "url": "https://t.co/LNSduKEevm"
+              }
+            ]
+          }
+        },
+        "id": "1465358432769560576",
+        "location": "伊甸園",
+        "name": "海菌キノコ（^ - ^",
+        "pinned_tweet_id": "1612079879767588864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622565300066713601/sj3uHg22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 184,
+          "listed_count": 5,
+          "tweet_count": 3298
+        },
+        "url": "https://t.co/LNSduKEevm",
+        "username": "haiyan_626",
+        "verified": false
+      }
+    ]
+  }
+}

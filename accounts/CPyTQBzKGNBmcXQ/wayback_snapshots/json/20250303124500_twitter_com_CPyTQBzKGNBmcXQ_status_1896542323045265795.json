@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1896542323045265795",
+    "created_at": "2025-03-03T12:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T13:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896542323045265795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kimishinu/stat…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/kimishinu/status/1896170028422332453",
+          "start": 38,
+          "url": "https://t.co/nUj0Km8tex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896542323045265795",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896170028422332453",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天啊啊啊啊啊！這個要動畫化了！\n超期待！！ヾ(&gt;ω&lt;ヾ)))) https://t.co/nUj0Km8tex"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_1896170022533210113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlCMltLWIAExl-j.jpg",
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1896542323045265795",
+        "created_at": "2025-03-03T12:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T13:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896542323045265795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kimishinu/stat…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/kimishinu/status/1896170028422332453",
+              "start": 38,
+              "url": "https://t.co/nUj0Km8tex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896542323045265795",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896170028422332453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天啊啊啊啊啊！這個要動畫化了！\n超期待！！ヾ(&gt;ω&lt;ヾ)))) https://t.co/nUj0Km8tex"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896170022533210113"
+          ]
+        },
+        "author_id": "1407707676478304257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1896170028422332453",
+        "created_at": "2025-03-02T12:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T13:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896170028422332453"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 81,
+              "tag": "きみが死ぬまで恋をしたい"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "きみ死ぬ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJeXk7PEOY",
+              "end": 124,
+              "expanded_url": "https://x.com/kimishinu/status/1896170028422332453/photo/1",
+              "media_key": "3_1896170022533210113",
+              "start": 101,
+              "url": "https://t.co/TJeXk7PEOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896170028422332453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2801,
+          "impression_count": 2138785,
+          "like_count": 41248,
+          "quote_count": 2858,
+          "reply_count": 189,
+          "retweet_count": 14005
+        },
+        "reply_settings": "everyone",
+        "text": ".˚✦✧⁺‧┈┈┈┈┈┈┈┈┈┈‧⁺ ✧✦˚.\n\n　　きみが死ぬまで恋をしたい\n　　　　TVアニメ化決定!!\n\n.˚✦✧⁺‧┈┈┈┈┈┈┈┈┈┈‧⁺ ✧✦˚.\n\n#きみが死ぬまで恋をしたい #きみ死ぬ https://t.co/TJeXk7PEOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5077,
+          "following_count": 359,
+          "like_count": 79070,
+          "listed_count": 10,
+          "media_count": 384,
+          "tweet_count": 9117
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T14:31:09.000Z",
+        "description": "『きみが死ぬまで恋をしたい』公式アカウント｜著者：あおのなち @aooont｜コミックス①〜⑦発売中｜#きみが死ぬまで恋をしたい #きみ死ぬ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 51,
+                "tag": "きみが死ぬまで恋をしたい"
+              },
+              {
+                "end": 70,
+                "start": 65,
+                "tag": "きみ死ぬ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 31,
+                "username": "aooont"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ichijin-plus.com/comics/2410174…",
+                "end": 23,
+                "expanded_url": "https://ichijin-plus.com/comics/2410174332975",
+                "start": 0,
+                "url": "https://t.co/KSPKWHpFGI"
+              }
+            ]
+          }
+        },
+        "id": "1407707676478304257",
+        "name": "きみが死ぬまで恋をしたい公式",
+        "pinned_tweet_id": "1896170028422332453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1455411589453352961/oL2jTGMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68007,
+          "following_count": 8,
+          "like_count": 31,
+          "listed_count": 244,
+          "media_count": 447,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/KSPKWHpFGI",
+        "username": "kimishinu",
+        "verified": false
+      }
+    ]
+  }
+}

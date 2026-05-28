@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953762970959589379"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "conversation_id": "1953763005281276183",
+    "created_at": "2025-08-08T10:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T11:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953763005281276183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VQ8LMzqK7Z",
+          "end": 28,
+          "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/1953763005281276183/photo/1",
+          "media_key": "3_1953762970959589379",
+          "start": 5,
+          "url": "https://t.co/VQ8LMzqK7Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953763005281276183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "練習!! https://t.co/VQ8LMzqK7Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1975,
+        "media_key": "3_1953762970959589379",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0pEhNbsAM027D.jpg",
+        "width": 1975
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953762970959589379"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "conversation_id": "1953763005281276183",
+        "created_at": "2025-08-08T10:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T11:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953763005281276183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VQ8LMzqK7Z",
+              "end": 28,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/1953763005281276183/photo/1",
+              "media_key": "3_1953762970959589379",
+              "start": 5,
+              "url": "https://t.co/VQ8LMzqK7Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953763005281276183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "練習!! https://t.co/VQ8LMzqK7Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5464,
+          "following_count": 324,
+          "like_count": 82951,
+          "listed_count": 12,
+          "media_count": 440,
+          "tweet_count": 9624
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}

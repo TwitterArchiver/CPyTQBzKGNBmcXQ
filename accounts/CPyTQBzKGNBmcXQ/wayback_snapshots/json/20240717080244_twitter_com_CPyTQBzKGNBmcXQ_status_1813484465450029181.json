@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "1813480049154375686",
+    "created_at": "2024-07-17T08:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T09:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813484465450029181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1471510301233545216",
+          "start": 0,
+          "username": "twelvedaystodie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813484465450029181",
+    "in_reply_to_user_id": "1471510301233545216",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813480049154375686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twelvedaystodie 我覺得就算不知道自己為什麼要活著 但還是努力活著的妳已經特別棒了！沒有活下去的理由也沒關係的 不用一定要找一個理由 不然會被困住的 能過一天是一天這樣也不錯呢 雖然還有很多的一天 痛苦的一天也好 開心的一天也好 這都是專屬於妳的一天！所以沒事的 慢慢來就好 但還是要好好休息不要讓自己太累了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "1813480049154375686",
+        "created_at": "2024-07-17T08:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T09:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813484465450029181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813484465450029181",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813480049154375686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 我覺得就算不知道自己為什麼要活著 但還是努力活著的妳已經特別棒了！沒有活下去的理由也沒關係的 不用一定要找一個理由 不然會被困住的 能過一天是一天這樣也不錯呢 雖然還有很多的一天 痛苦的一天也好 開心的一天也好 這都是專屬於妳的一天！所以沒事的 慢慢來就好 但還是要好好休息不要讓自己太累了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "1813480049154375686",
+        "created_at": "2024-07-17T07:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T08:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813480049154375686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1813480049154375686",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我覺得我其實能死掉的，但我可能還有一點想活下去的意願，但我到現在還想不到，我就是賤，明明已經沒有活下去的理由了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘od負能量",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4038,
+          "following_count": 380,
+          "like_count": 73473,
+          "listed_count": 30,
+          "tweet_count": 8310
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "暴力魔法少女自毀中\n黃推別找我、不聊色、一聊色封鎖\n私訊很多時候看不到，抱歉\n不給推特以外的聯繫方式\n不排斥跟男的聊天，但不要太過分\n給錢我就會高興，是最好的陪伴\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651478120162275328/7st8RhYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7553,
+          "following_count": 227,
+          "like_count": 6629,
+          "listed_count": 15,
+          "tweet_count": 9439
+        },
+        "username": "twelvedaystodie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1920161662306562051"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "conversation_id": "1920161694401376503",
+    "created_at": "2025-05-07T16:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T17:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920161694401376503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yYTKkktJ28",
+          "end": 23,
+          "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/1920161694401376503/video/1",
+          "media_key": "7_1920161662306562051",
+          "start": 0,
+          "url": "https://t.co/yYTKkktJ28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920161694401376503",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/yYTKkktJ28"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1920161694401376503].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1920161694401376503",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1920161694401376503"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11396,
+        "height": 1280,
+        "media_key": "7_1920161662306562051",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1920161662306562051/pu/img/Dp1JoChw1l-hBz7i.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920161662306562051/pu/vid/avc1/320x568/4jcSEzhxHig4HSNT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920161662306562051/pu/vid/avc1/480x852/ZIU9cFgG366PVTIh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1920161662306562051/pu/vid/avc1/720x1280/SDAYHc-Vx6IhWQjb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1920161662306562051/pu/pl/37pX6vpkAfIKausn.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "注意⚠️會自殘（應該不會停下）od（沒錢已戒）負能量（出現時間不明） 我們都終點是死亡嗎？（死亡會悄悄的吞噬你）不敢死的廢物",
+        "id": "1135334607199490048",
+        "location": "可能在現實也可能在夢中",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796200969937788928/h6CrJJGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5185,
+          "following_count": 356,
+          "like_count": 81087,
+          "listed_count": 12,
+          "media_count": 402,
+          "tweet_count": 9319
+        },
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false
+      }
+    ]
+  }
+}
