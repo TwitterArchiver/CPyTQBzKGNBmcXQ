@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102619088187260928"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2102619101537734676",
+    "created_at": "2026-09-23T04:40:33.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T05:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102619101537734676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dCh3S5rzo3",
+          "end": 26,
+          "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2102619101537734676/photo/1",
+          "media_key": "3_2102619088187260928",
+          "start": 3,
+          "url": "https://t.co/dCh3S5rzo3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102619101537734676",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102619088187260928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "午餐 https://t.co/dCh3S5rzo3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2102619088187260928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4A66lbgAA13BX.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102619088187260928"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2102619101537734676",
+        "created_at": "2026-09-23T04:40:33.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T05:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102619101537734676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dCh3S5rzo3",
+              "end": 26,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2102619101537734676/photo/1",
+              "media_key": "3_2102619088187260928",
+              "start": 3,
+              "url": "https://t.co/dCh3S5rzo3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102619101537734676",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102619088187260928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "午餐 https://t.co/dCh3S5rzo3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "帳號為記錄用 你們想看或不想看都可以 但檢舉者 不理解者 破壞者 你們應該在地獄裡燃燒",
+        "id": "1135334607199490048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102619101537734676",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135334607199490048/1767457835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5562,
+          "following_count": 312,
+          "like_count": 90762,
+          "listed_count": 12,
+          "media_count": 475,
+          "tweet_count": 10089
+        },
+        "url": "",
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

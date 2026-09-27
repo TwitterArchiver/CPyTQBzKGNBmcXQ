@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2101921763114508437",
+    "created_at": "2026-09-23T05:36:06.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T06:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102633083287884216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1471510301233545216",
+          "start": 0,
+          "username": "twelvedaystodie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102633083287884216",
+    "in_reply_to_user_id": "1471510301233545216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101921763114508437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twelvedaystodie 哦哦！我也要試試！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2101921763114508437",
+        "created_at": "2026-09-23T05:36:06.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T06:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102633083287884216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102633083287884216",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101921763114508437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 哦哦！我也要試試！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2101921763114508437",
+        "created_at": "2026-09-21T06:29:34.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101921763114508437"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101921763114508437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 390,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黑白好像可以哦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "帳號為記錄用 你們想看或不想看都可以 但檢舉者 不理解者 破壞者 你們應該在地獄裡燃燒",
+        "id": "1135334607199490048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102633083287884216",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135334607199490048/1767457835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5562,
+          "following_count": 312,
+          "like_count": 90779,
+          "listed_count": 12,
+          "media_count": 475,
+          "tweet_count": 10091
+        },
+        "url": "",
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102388756124991567",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8665,
+          "following_count": 207,
+          "like_count": 6920,
+          "listed_count": 13,
+          "media_count": 929,
+          "tweet_count": 11868
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

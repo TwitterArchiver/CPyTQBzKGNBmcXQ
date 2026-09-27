@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102633537786777600",
+        "3_2102633553418948609"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "conversation_id": "2102633565582504224",
+    "created_at": "2026-09-23T05:38:01.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T06:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102633565582504224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UNCvAmChWe",
+          "end": 23,
+          "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2102633565582504224/photo/1",
+          "media_key": "3_2102633537786777600",
+          "start": 0,
+          "url": "https://t.co/UNCvAmChWe"
+        },
+        {
+          "display_url": "pic.x.com/UNCvAmChWe",
+          "end": 23,
+          "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2102633565582504224/photo/1",
+          "media_key": "3_2102633553418948609",
+          "start": 0,
+          "url": "https://t.co/UNCvAmChWe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102633565582504224",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2102633537786777600"
+      },
+      {
+        "media_key": "3_2102633553418948609"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/UNCvAmChWe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2102633537786777600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4OD_iakAA-jrg.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2102633553418948609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4OE5xakAES0o2.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102633537786777600",
+            "3_2102633553418948609"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "conversation_id": "2102633565582504224",
+        "created_at": "2026-09-23T05:38:01.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T06:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102633565582504224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UNCvAmChWe",
+              "end": 23,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2102633565582504224/photo/1",
+              "media_key": "3_2102633537786777600",
+              "start": 0,
+              "url": "https://t.co/UNCvAmChWe"
+            },
+            {
+              "display_url": "pic.x.com/UNCvAmChWe",
+              "end": 23,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2102633565582504224/photo/1",
+              "media_key": "3_2102633553418948609",
+              "start": 0,
+              "url": "https://t.co/UNCvAmChWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102633565582504224",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2102633537786777600"
+          },
+          {
+            "media_key": "3_2102633553418948609"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UNCvAmChWe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "帳號為記錄用 你們想看或不想看都可以 但檢舉者 不理解者 破壞者 你們應該在地獄裡燃燒",
+        "id": "1135334607199490048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102633565582504224",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135334607199490048/1767457835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5562,
+          "following_count": 312,
+          "like_count": 90779,
+          "listed_count": 12,
+          "media_count": 476,
+          "tweet_count": 10092
+        },
+        "url": "",
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

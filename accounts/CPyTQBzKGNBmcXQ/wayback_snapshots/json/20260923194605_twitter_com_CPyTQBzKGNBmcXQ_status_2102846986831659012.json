@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2102711034226364518",
+    "created_at": "2026-09-23T19:46:05.000Z",
+    "display_text_range": [
+      17,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T20:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102846986831659012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1471510301233545216",
+          "start": 0,
+          "username": "twelvedaystodie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102846986831659012",
+    "in_reply_to_user_id": "1471510301233545216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102711034226364518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twelvedaystodie 沒事的，沒有精力就不用勉強自己去回覆了，他們可能想被回覆，但沒想過回覆這件事是很耗費精力的。嗯嗯！有發出一篇貼文真的很棒了呢！十二天辛苦了，要好好休息哦~&gt;&lt;b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2102711034226364518",
+        "created_at": "2026-09-23T19:46:05.000Z",
+        "display_text_range": [
+          17,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T20:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102846986831659012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1471510301233545216",
+              "start": 0,
+              "username": "twelvedaystodie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102846986831659012",
+        "in_reply_to_user_id": "1471510301233545216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102711034226364518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twelvedaystodie 沒事的，沒有精力就不用勉強自己去回覆了，他們可能想被回覆，但沒想過回覆這件事是很耗費精力的。嗯嗯！有發出一篇貼文真的很棒了呢！十二天辛苦了，要好好休息哦~&gt;&lt;b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471510301233545216",
+        "conversation_id": "2102711034226364518",
+        "created_at": "2026-09-23T10:45:51.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102711034226364518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102711034226364518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "常常說我不回人\n有沒有想過我今天的生活一團糟\n或者我一起床就覺得生活為什麼要繼續，好痛苦\n我覺得我能維持社交已經很不錯了\n能發一篇文已經很不錯了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "帳號為記錄用 你們想看或不想看都可以 但檢舉者 不理解者 破壞者 你們應該在地獄裡燃燒",
+        "id": "1135334607199490048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102846986831659012",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135334607199490048/1767457835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5563,
+          "following_count": 312,
+          "like_count": 90782,
+          "listed_count": 12,
+          "media_count": 475,
+          "tweet_count": 10093
+        },
+        "url": "",
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-16T15:59:35.000Z",
+        "description": "七天至十天沒發文就是死了\n暴力魔法少女自毀中\n給錢我就會高興，是最好的陪伴\nshtwt\n\nbanner:hz100p",
+        "id": "1471510301233545216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102787432626208816",
+        "name": "十二天",
+        "pinned_tweet_id": "1528715783207264256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471510301233545216/1654445680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955181754501021696/HnDCVgpV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8664,
+          "following_count": 207,
+          "like_count": 6922,
+          "listed_count": 13,
+          "media_count": 930,
+          "tweet_count": 11876
+        },
+        "url": "",
+        "username": "twelvedaystodie",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
