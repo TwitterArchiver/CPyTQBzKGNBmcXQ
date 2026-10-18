@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2103843540837228574",
+    "created_at": "2026-09-26T18:52:56.000Z",
+    "display_text_range": [
+      17,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T19:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103920774830821802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1641464058913378304",
+          "start": 0,
+          "username": "xiaohua59589029"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103920774830821802",
+    "in_reply_to_user_id": "1641464058913378304",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103873258584183291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaohua59589029 (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2103843540837228574",
+        "created_at": "2026-09-26T18:52:56.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T19:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103920774830821802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1641464058913378304",
+              "start": 0,
+              "username": "xiaohua59589029"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103920774830821802",
+        "in_reply_to_user_id": "1641464058913378304",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103873258584183291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohua59589029 (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641464058913378304",
+        "conversation_id": "2103843540837228574",
+        "created_at": "2026-09-26T15:44:07.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103873258584183291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103873258584183291",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103843540837228574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 好看"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "帳號為記錄用 你們想看或不想看都可以 但檢舉者 不理解者 破壞者 你們應該在地獄裡燃燒",
+        "id": "1135334607199490048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103920774830821802",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135334607199490048/1767457835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5557,
+          "following_count": 312,
+          "like_count": 90838,
+          "listed_count": 12,
+          "media_count": 476,
+          "tweet_count": 10105
+        },
+        "url": "",
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-30T15:35:16.000Z",
+        "description": "花蓮高雄/各取所需/18y/152公分/84公斤/本人很醜/不給照片  /",
+        "id": "1641464058913378304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103873885037011374",
+        "name": "云云（互fo）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641464058913378304/1773107520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033054822426132480/2Z9dH-0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 114,
+          "like_count": 17082,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1390
+        },
+        "url": "",
+        "username": "xiaohua59589029",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

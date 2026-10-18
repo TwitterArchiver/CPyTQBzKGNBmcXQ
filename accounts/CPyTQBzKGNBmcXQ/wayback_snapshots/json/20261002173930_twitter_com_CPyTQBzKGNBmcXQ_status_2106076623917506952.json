@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2106060362999349488",
+    "created_at": "2026-10-02T17:39:30.000Z",
+    "display_text_range": [
+      17,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T18:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106076623917506952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595394288119971840",
+          "start": 0,
+          "username": "dudu42700668xdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106076623917506952",
+    "in_reply_to_user_id": "1595394288119971840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106073457792585851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dudu42700668xdd 啊啊妳也是我的好朋友呢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2106060362999349488",
+        "created_at": "2026-10-02T17:39:30.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106076623917506952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595394288119971840",
+              "start": 0,
+              "username": "dudu42700668xdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106076623917506952",
+        "in_reply_to_user_id": "1595394288119971840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106073457792585851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudu42700668xdd 啊啊妳也是我的好朋友呢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595394288119971840",
+        "conversation_id": "2106060362999349488",
+        "created_at": "2026-10-02T17:26:55.000Z",
+        "display_text_range": [
+          17,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106073457792585851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106073457792585851",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106072784749396205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 摸摸，辛苦了呢，你还有一群很好的朋友ψ(｀∇´)ψ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "帳號為記錄用 你們想看或不想看都可以 但檢舉者 不理解者 破壞者 你們應該在地獄裡燃燒",
+        "id": "1135334607199490048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106076623917506952",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135334607199490048/1767457835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5552,
+          "following_count": 312,
+          "like_count": 91118,
+          "listed_count": 12,
+          "media_count": 477,
+          "tweet_count": 10129
+        },
+        "url": "",
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-23T12:30:50.000Z",
+        "description": "（╹◡╹）First not a frog, second feed with CANDY!",
+        "id": "1595394288119971840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106074111546179829",
+        "name": "Om",
+        "pinned_tweet_id": "2035284210551005426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1595394288119971840/1745113293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743947952983506944/kYswprrX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 110,
+          "like_count": 26402,
+          "listed_count": 2,
+          "media_count": 541,
+          "tweet_count": 3973
+        },
+        "url": "",
+        "username": "dudu42700668xdd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

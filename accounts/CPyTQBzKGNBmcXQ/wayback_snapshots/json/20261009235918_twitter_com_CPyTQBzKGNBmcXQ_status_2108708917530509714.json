@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108708912589627392"
+      ]
+    },
+    "author_id": "1135334607199490048",
+    "conversation_id": "2108708917530509714",
+    "created_at": "2026-10-09T23:59:18.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T00:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108708917530509714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OtvnnNCwZZ",
+          "end": 77,
+          "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2108708917530509714/photo/1",
+          "media_key": "3_2108708912589627392",
+          "start": 54,
+          "url": "https://t.co/OtvnnNCwZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108708917530509714",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108708912589627392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "十二天的帳號被檢舉掉了QQ\n這裡如果有喜歡十二天的，或是十二天的互關再麻煩追蹤一下\n感謝你&gt;&lt; https://t.co/OtvnnNCwZZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2108708912589627392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUOjlWWa4AAaU-4.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108708912589627392"
+          ]
+        },
+        "author_id": "1135334607199490048",
+        "conversation_id": "2108708917530509714",
+        "created_at": "2026-10-09T23:59:18.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T00:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108708917530509714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OtvnnNCwZZ",
+              "end": 77,
+              "expanded_url": "https://x.com/CPyTQBzKGNBmcXQ/status/2108708917530509714/photo/1",
+              "media_key": "3_2108708912589627392",
+              "start": 54,
+              "url": "https://t.co/OtvnnNCwZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108708917530509714",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108708912589627392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十二天的帳號被檢舉掉了QQ\n這裡如果有喜歡十二天的，或是十二天的互關再麻煩追蹤一下\n感謝你&gt;&lt; https://t.co/OtvnnNCwZZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "帳號為記錄用 你們想看或不想看都可以 但檢舉者 不理解者 破壞者 你們應該在地獄裡燃燒",
+        "id": "1135334607199490048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108708917530509714",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135334607199490048/1767457835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5541,
+          "following_count": 313,
+          "like_count": 91201,
+          "listed_count": 12,
+          "media_count": 477,
+          "tweet_count": 10131
+        },
+        "url": "",
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

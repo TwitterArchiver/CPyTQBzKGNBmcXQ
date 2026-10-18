@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2103843540837228574",
+    "created_at": "2026-09-26T18:54:04.000Z",
+    "display_text_range": [
+      11,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T19:54:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103921060139999363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1528400612865544192",
+          "start": 0,
+          "username": "echony101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103921060139999363",
+    "in_reply_to_user_id": "1528400612865544192",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103887144209244183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@echony101 (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2103843540837228574",
+        "created_at": "2026-09-26T18:54:04.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T19:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103921060139999363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528400612865544192",
+              "start": 0,
+              "username": "echony101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103921060139999363",
+        "in_reply_to_user_id": "1528400612865544192",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103887144209244183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@echony101 (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528400612865544192",
+        "conversation_id": "2103843540837228574",
+        "created_at": "2026-09-26T16:39:18.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103887144209244183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103887144209244183",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103843540837228574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 还不错昂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "帳號為記錄用 你們想看或不想看都可以 但檢舉者 不理解者 破壞者 你們應該在地獄裡燃燒",
+        "id": "1135334607199490048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103921060139999363",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135334607199490048/1767457835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5557,
+          "following_count": 312,
+          "like_count": 90838,
+          "listed_count": 12,
+          "media_count": 476,
+          "tweet_count": 10106
+        },
+        "url": "",
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-22T15:41:27.000Z",
+        "description": "",
+        "id": "1528400612865544192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103898591819624463",
+        "name": "echony101",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1528400612865544192/1789564583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093698934854352896/4P26glMw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 101,
+          "like_count": 1013,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "echony101",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

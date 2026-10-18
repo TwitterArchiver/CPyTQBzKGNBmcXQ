@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2109200773091344796",
+    "created_at": "2026-10-11T08:33:46.000Z",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T09:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109200773091344796"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2109200773091344796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的不知道要做什麼，我已經滑了一上午的手機了，一邊想著想做的事情，但又覺得自己做不好也沒什麼動力，有點小焦慮，能在靠近一點理想就好了，有時會因為弟弟在沒什麼練習化妝（會有點在意），和弟弟同住房間還是太綁手綁腳了（也沒考慮過要搬出去住，我太膽小了，總覺得很可怕）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2109200773091344796",
+        "created_at": "2026-10-11T08:33:46.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T09:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109200773091344796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109200773091344796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的不知道要做什麼，我已經滑了一上午的手機了，一邊想著想做的事情，但又覺得自己做不好也沒什麼動力，有點小焦慮，能在靠近一點理想就好了，有時會因為弟弟在沒什麼練習化妝（會有點在意），和弟弟同住房間還是太綁手綁腳了（也沒考慮過要搬出去住，我太膽小了，總覺得很可怕）。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "帳號為記錄用 你們想看或不想看都可以 但檢舉者 不理解者 破壞者 你們應該在地獄裡燃燒",
+        "id": "1135334607199490048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109200773091344796",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135334607199490048/1767457835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5536,
+          "following_count": 314,
+          "like_count": 91249,
+          "listed_count": 12,
+          "media_count": 478,
+          "tweet_count": 10137
+        },
+        "url": "",
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

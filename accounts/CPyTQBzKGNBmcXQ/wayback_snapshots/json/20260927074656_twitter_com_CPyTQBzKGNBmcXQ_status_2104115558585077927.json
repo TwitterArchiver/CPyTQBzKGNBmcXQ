@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1135334607199490048",
+    "conversation_id": "2103843540837228574",
+    "created_at": "2026-09-27T07:46:56.000Z",
+    "display_text_range": [
+      9,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T08:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104115558585077927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900754490812493832",
+          "start": 0,
+          "username": "Kkcison"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104115558585077927",
+    "in_reply_to_user_id": "1900754490812493832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103998481983778950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kkcison 欸嘿嘿(*´˘`*)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135334607199490048",
+        "conversation_id": "2103843540837228574",
+        "created_at": "2026-09-27T07:46:56.000Z",
+        "display_text_range": [
+          9,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104115558585077927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900754490812493832",
+              "start": 0,
+              "username": "Kkcison"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104115558585077927",
+        "in_reply_to_user_id": "1900754490812493832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103998481983778950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kkcison 欸嘿嘿(*´˘`*)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900754490812493832",
+        "conversation_id": "2103843540837228574",
+        "created_at": "2026-09-27T00:01:43.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T01:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103998481983778950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1135334607199490048",
+              "start": 0,
+              "username": "CPyTQBzKGNBmcXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103998481983778950",
+        "in_reply_to_user_id": "1135334607199490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103843540837228574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPyTQBzKGNBmcXQ 超級萌！Σ（・□・；）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-06-02T23:57:18.000Z",
+        "description": "帳號為記錄用 你們想看或不想看都可以 但檢舉者 不理解者 破壞者 你們應該在地獄裡燃燒",
+        "id": "1135334607199490048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104115558585077927",
+        "name": "紅雪",
+        "pinned_tweet_id": "1786206882404987000",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135334607199490048/1767457835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007490124725272576/rq_6M-eJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5554,
+          "following_count": 312,
+          "like_count": 90952,
+          "listed_count": 12,
+          "media_count": 476,
+          "tweet_count": 10108
+        },
+        "url": "",
+        "username": "CPyTQBzKGNBmcXQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-15T03:42:57.000Z",
+        "description": "life is pain",
+        "id": "1900754490812493832",
+        "is_identity_verified": false,
+        "location": "kkcison",
+        "most_recent_tweet_id": "2104112670098231300",
+        "name": "Nevermind",
+        "pinned_tweet_id": "1983231754413777324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900754490812493832/1790444070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103902952364838912/LPHQP0Mh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 110,
+          "like_count": 3022,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1645
+        },
+        "url": "",
+        "username": "Kkcison",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
